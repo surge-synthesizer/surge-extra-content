@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="133px" height="18px" viewbox="0 0 133 18" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient x1="0.539" y1="0.918" x2="0.539" y2="0.335" id="gradient_1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.27058825" />
+      <stop offset="1" stop-color="#2A2A2A" stop-opacity="0.6392157" />
+    </linearGradient>
+    <linearGradient x1="0.5" y1="0" x2="0.5" y2="1" id="gradient_2">
+      <stop offset="0" stop-color="#372E2C" />
+      <stop offset="0.176" stop-color="#5B4A45" />
+      <stop offset="1" stop-color="#5B4A44" />
+    </linearGradient>
+    <rect width="133" height="18" id="artboard_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#artboard_1" clip-rule="evenodd" />
+    </clipPath>
+  </defs>
+  <g id="bmp00167" clip-path="url(#clip_1)">
+    <path d="M0 6.85714L0 3.42857C0 2.4818 0.331097 1.67368 0.99329 1.00421C1.65548 0.334735 2.45482 0 3.3913 0L126.609 0C127.545 0 128.344 0.334735 129.007 1.00421C129.669 1.67368 130 2.4818 130 3.42857L130 12.5714C130 13.5182 129.669 14.3263 129.007 14.9958C128.344 15.6653 127.545 16 126.609 16L3.3913 16C2.45482 16 1.65548 15.6653 0.99329 14.9958C0.331097 14.3263 0 13.5182 0 12.5714L0 6.85714Z" transform="translate(1.0000305 1)" id="Rectangle" fill="url(#gradient_1)" fill-opacity="0.59" fill-rule="evenodd" stroke="none" />
+    <g id="Group" transform="translate(2.0000305 2)">
+      <path d="M0 4.66667L0 2.33333C0 1.689 0.221182 1.13903 0.663546 0.683417C1.10591 0.227806 1.63989 0 2.26549 0L125.735 0C126.36 0 126.894 0.227806 127.336 0.683417C127.779 1.13903 128 1.689 128 2.33333L128 11.6667C128 12.311 127.779 12.861 127.336 13.3166C126.894 13.7722 126.36 14 125.735 14L2.26549 14C1.63989 14 1.10591 13.7722 0.663546 13.3166C0.221182 12.861 0 12.311 0 11.6667L0 4.66667Z" id="Rectangle" fill="url(#gradient_2)" fill-rule="evenodd" stroke="none" />
+      <path d="M0 3.54545L0 1.77273C0 1.2832 0.16606 0.865366 0.49818 0.51922C0.8303 0.173073 1.2312 0 1.70089 0L125.299 0C125.769 0 126.17 0.173073 126.502 0.51922C126.834 0.865366 127 1.2832 127 1.77273L127 11.2273C127 11.7168 126.834 12.1346 126.502 12.4808C126.17 12.8269 125.769 13 125.299 13L1.70089 13C1.2312 13 0.8303 12.8269 0.49818 12.4808C0.16606 12.1346 0 11.7168 0 11.2273L0 3.54545Z" transform="translate(0.5 0.5)" id="Rectangle" fill="none" fill-rule="evenodd" stroke="#0C0706" stroke-width="1" />
+    </g>
+    <path d="M2.5 4L0 0L5 3.8147e-07L2.5 4Z" transform="translate(121.00003 7)" id="Shape" fill="#DBD7D7" fill-rule="evenodd" stroke="none" />
+  </g>
+</svg>

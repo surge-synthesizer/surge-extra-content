@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="14px" height="32px" viewbox="0 0 14 32" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <rect width="14" height="32" id="artboard_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#artboard_1" clip-rule="evenodd" />
+    </clipPath>
+  </defs>
+  <g id="bmp00179" clip-path="url(#clip_1)">
+    <g id="Group" transform="translate(4.5500183 4.500023)">
+      <path d="M0 1L0 0.5C0 0.361929 0.0488155 0.244078 0.146447 0.146447C0.244078 0.0488155 0.361929 0 0.5 0C0.638071 0 0.755922 0.0488155 0.853553 0.146447C0.951184 0.244078 1 0.361929 1 0.5L1 4.5C1 4.63807 0.951184 4.75592 0.853553 4.85355C0.755922 4.95118 0.638071 5 0.5 5C0.361929 5 0.244078 4.95118 0.146447 4.85355C0.0488155 4.75592 0 4.63807 0 4.5L0 1Z" transform="translate(2 0)" id="Rectangle" fill="#BCAEAD" fill-rule="evenodd" stroke="none" />
+      <path d="M2.5 3L0 0L5 4.76837e-07L2.5 3Z" transform="translate(0 3)" id="Shape" fill="#BCAEAD" fill-rule="evenodd" stroke="none" />
+      <path d="M0 1L0 0.5C0 0.361929 0.0488155 0.244078 0.146447 0.146447C0.244078 0.0488155 0.361929 0 0.5 0C0.638071 0 0.755922 0.0488155 0.853553 0.146447C0.951184 0.244078 1 0.361929 1 0.5L1 4.5C1 4.63807 0.951184 4.75592 0.853553 4.85355C0.755922 4.95118 0.638071 5 0.5 5C0.361929 5 0.244078 4.95118 0.146447 4.85355C0.0488155 4.75592 0 4.63807 0 4.5L0 1Z" transform="translate(2 16)" id="Rectangle" fill="#F92A69" fill-rule="evenodd" stroke="none" />
+      <path d="M2.5 3L0 0L5 0L2.5 3Z" transform="translate(0 19)" id="Shape" fill="#F92A69" fill-rule="evenodd" stroke="none" />
+    </g>
+  </g>
+</svg>

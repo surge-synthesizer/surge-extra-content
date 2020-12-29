@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="106px" height="18px" viewbox="0 0 106 18" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient x1="0.5" y1="0" x2="0.5" y2="1" id="gradient_1">
+      <stop offset="0" stop-color="#372E2C" />
+      <stop offset="0.176" stop-color="#5B4A45" />
+      <stop offset="1" stop-color="#77655E" />
+    </linearGradient>
+    <rect width="106" height="18" id="artboard_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#artboard_1" clip-rule="evenodd" />
+    </clipPath>
+  </defs>
+  <g id="hover00168" clip-path="url(#clip_1)">
+    <g id="Group" transform="translate(0.9520569 2)">
+      <path d="M0 4.33333L0 2.16667C0 1.56836 0.177982 1.05767 0.533947 0.634602C0.889912 0.211534 1.3196 0 1.82301 0L101.177 0C101.68 0 102.11 0.211534 102.466 0.634602C102.822 1.05767 103 1.56836 103 2.16667L103 10.8333C103 11.4316 102.822 11.9423 102.466 12.3654C102.11 12.7885 101.68 13 101.177 13L1.82301 13C1.3196 13 0.889912 12.7885 0.533947 12.3654C0.177982 11.9423 0 11.4316 0 10.8333L0 4.33333Z" id="Rectangle" fill="url(#gradient_1)" fill-rule="evenodd" stroke="none" />
+      <path d="M0 3.27273L0 1.63636C0 1.18449 0.134679 0.7988 0.404036 0.47928C0.673393 0.15976 0.998536 0 1.37946 0L101.621 0C102.001 0 102.327 0.15976 102.596 0.47928C102.865 0.7988 103 1.18449 103 1.63636L103 10.3636C103 10.8155 102.865 11.2012 102.596 11.5207C102.327 11.8402 102.001 12 101.621 12L1.37946 12C0.998536 12 0.673393 11.8402 0.404036 11.5207C0.134679 11.2012 0 10.8155 0 10.3636L0 3.27273Z" transform="translate(0.5 0.5)" id="Rectangle" fill="none" fill-rule="evenodd" stroke="#0C0706" stroke-width="1" />
+    </g>
+    <path d="M2.38 4L0 0L4.75999 3.8147e-07L2.38 4Z" transform="translate(96.24005 7)" id="Shape" fill="#F6D738" fill-rule="evenodd" stroke="none" />
+  </g>
+</svg>

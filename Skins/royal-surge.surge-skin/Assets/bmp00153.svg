@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="56px" height="48px" viewbox="0 0 56 48" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient x1="0.5" y1="0" x2="0.5" y2="1" id="gradient_1">
+      <stop offset="0" stop-color="#000000" stop-opacity="0.36862746" />
+      <stop offset="1" stop-color="#000000" stop-opacity="0.34901962" />
+    </linearGradient>
+    <rect width="56" height="48" id="artboard_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#artboard_1" clip-rule="evenodd" />
+    </clipPath>
+  </defs>
+  <g id="bmp00153" clip-path="url(#clip_1)">
+    <g id="Group" transform="translate(4.4999924 2.4999619)">
+      <g id="Group#1">
+        <path d="M0 7C0 3.13401 3.13401 0 7 0C10.866 0 14 3.13401 14 7C14 10.866 10.866 14 7 14C3.13401 14 0 10.866 0 7L0 7Z" id="Circle" fill="url(#gradient_1)" fill-rule="evenodd" stroke="none" />
+        <path d="M0 5C0 2.23858 2.23858 0 5 0C7.76142 0 10 2.23858 10 5C10 7.76142 7.76142 10 5 10C2.23858 10 0 7.76142 0 5L0 5Z" transform="translate(2 1)" id="Circle#1" fill="#B46C47" fill-rule="evenodd" stroke="none" />
+        <path d="M0.0250001 5.5L0.0250001 5.5C0.0079999 5.327 0 5.159 0 5C9.53674e-07 2.23858 2.23858 0 5 0C7.76143 0 10 2.23858 10 5C10 5.163 9.992 5.328 9.976 5.49C9.71934 2.93287 7.56595 0.98676 4.99597 0.989343C2.42599 0.991926 0.276519 2.94236 0.0250001 5.5L0.0250001 5.5L0.0250001 5.5Z" transform="translate(1.9999433 1)" id="Shape" fill="#FFFFFF" fill-opacity="0.3019608" fill-rule="evenodd" stroke="none" />
+        <path d="M5 5.5C2.24018 5.49614 0.00385618 3.25983 0 0.500001C0 0.334 0.0079999 0.165 0.0250001 0C0.273317 2.55962 2.42938 4.50943 5.001 4.5C7.57262 4.50944 9.72868 2.55962 9.977 0C9.994 0.173 10.002 0.341 10.002 0.5C9.99819 3.26052 7.76069 5.4972 5.00008 5.5L5 5.5L5 5.5Z" transform="translate(2.0009432 5.502013)" id="Shape#1" fill="#000000" fill-opacity="0.4" fill-rule="evenodd" stroke="none" />
+        <path d="M0 4.2C0 1.8804 1.8804 0 4.2 0C6.5196 0 8.4 1.8804 8.4 4.2C8.4 6.5196 6.5196 8.4 4.2 8.4C1.8804 8.4 0 6.5196 0 4.2L0 4.2Z" transform="translate(2.8000488 1.8670044)" id="Circle#2" fill="#4E413E" fill-rule="evenodd" stroke="none" />
+        <path d="M0 2C0 0.89543 0.89543 0 2 0C3.10457 0 4 0.89543 4 2C4 3.10457 3.10457 4 2 4C0.89543 4 0 3.10457 0 2L0 2Z" transform="translate(5 4)" id="Circle#3" fill="#95B9F6" fill-opacity="0" fill-rule="evenodd" stroke="none" />
+      </g>
+    </g>
+    <g id="Group#2" transform="translate(34.49994 3.4999619)">
+      <g id="Group#3">
+        <path d="M0 5C0 2.23858 2.23858 0 5 0C7.76142 0 10 2.23858 10 5C10 7.76142 7.76142 10 5 10C2.23858 10 0 7.76142 0 5L0 5Z" transform="translate(5.340576E-05 0)" id="Circle#5" fill="#87A1D1" fill-rule="evenodd" stroke="none" />
+        <path d="M0.0250015 5.5L0.0250015 5.5C0.00799942 5.327 0 5.159 0 5C0 2.23858 2.23858 0 5 0C7.76143 0 10 2.23858 10 5C10 5.163 9.992 5.328 9.976 5.49C9.71934 2.93287 7.56595 0.98676 4.99597 0.989343C2.42599 0.991926 0.27652 2.94236 0.0250015 5.5L0.0250015 5.5L0.0250015 5.5Z" id="Shape#2" fill="#FFFFFF" fill-opacity="0.3019608" fill-rule="evenodd" stroke="none" />
+        <path d="M5 5.5C2.24018 5.49614 0.00385666 3.25983 0 0.500001C0 0.334 0.00799942 0.165 0.0250015 0C0.273319 2.55962 2.42937 4.50943 5.001 4.5C7.57262 4.50944 9.72868 2.55962 9.977 0C9.994 0.173 10.002 0.341 10.002 0.5C9.99819 3.26052 7.76069 5.4972 5.00008 5.5L5 5.5L5 5.5Z" transform="translate(0.0009918213 4.502014)" id="Shape#3" fill="#000000" fill-opacity="0.4" fill-rule="evenodd" stroke="none" />
+        <path d="M0 4.2C0 1.8804 1.8804 0 4.2 0C6.5196 0 8.4 1.8804 8.4 4.2C8.4 6.5196 6.5196 8.4 4.2 8.4C1.8804 8.4 0 6.5196 0 4.2L0 4.2Z" transform="translate(0.80010223 0.8670044)" id="Circle#6" fill="#4E413E" fill-rule="evenodd" stroke="none" />
+        <path d="M0 2C0 0.89543 0.895432 0 2 0C3.10457 0 4 0.89543 4 2C4 3.10457 3.10457 4 2 4C0.895432 4 0 3.10457 0 2L0 2Z" transform="translate(3.0000534 3)" id="Circle#7" fill="#95B9F6" fill-opacity="0.8" fill-rule="evenodd" stroke="none" />
+      </g>
+    </g>
+    <g id="Group#4" transform="translate(4.4999924 26.499962)">
+      <g id="Group#5">
+        <path d="M0 7C0 3.13401 3.13401 0 7 0C10.866 0 14 3.13401 14 7C14 10.866 10.866 14 7 14C3.13401 14 0 10.866 0 7L0 7Z" id="Circle#8" fill="url(#gradient_1)" fill-rule="evenodd" stroke="none" />
+        <path d="M0 5C0 2.23858 2.23858 0 5 0C7.76142 0 10 2.23858 10 5C10 7.76142 7.76142 10 5 10C2.23858 10 0 7.76142 0 5L0 5Z" transform="translate(2 1)" id="Circle#9" fill="#B46C47" fill-rule="evenodd" stroke="none" />
+        <path d="M0.0250001 5.5L0.0250001 5.5C0.0079999 5.327 0 5.159 0 5C9.53674e-07 2.23857 2.23858 0 5 0C7.76143 0 10 2.23858 10 5C10 5.163 9.992 5.328 9.976 5.49C9.71934 2.93287 7.56595 0.986759 4.99597 0.989342C2.42599 0.991926 0.276519 2.94236 0.0250001 5.5L0.0250001 5.5L0.0250001 5.5Z" transform="translate(1.9999433 1)" id="Shape#4" fill="#FFFFFF" fill-opacity="0.3019608" fill-rule="evenodd" stroke="none" />
+        <path d="M5 5.5C2.24018 5.49614 0.00385618 3.25983 0 0.5C0 0.334 0.0079999 0.164997 0.0250001 0C0.273317 2.55962 2.42938 4.50943 5.001 4.5C7.57262 4.50944 9.72868 2.55962 9.977 0C9.994 0.172997 10.002 0.341 10.002 0.5C9.99819 3.26052 7.76069 5.4972 5.00008 5.5L5 5.5L5 5.5Z" transform="translate(2.0009432 5.502014)" id="Shape#5" fill="#000000" fill-opacity="0.4" fill-rule="evenodd" stroke="none" />
+        <path d="M0 4.2C0 1.8804 1.8804 0 4.2 0C6.5196 0 8.4 1.8804 8.4 4.2C8.4 6.5196 6.5196 8.4 4.2 8.4C1.8804 8.4 0 6.5196 0 4.2L0 4.2Z" transform="translate(2.8000488 1.8670044)" id="Circle#10" fill="#4E413E" fill-rule="evenodd" stroke="none" />
+        <path d="M0 2C0 0.89543 0.89543 0 2 0C3.10457 0 4 0.89543 4 2C4 3.10457 3.10457 4 2 4C0.89543 4 0 3.10457 0 2L0 2Z" transform="translate(5 4)" id="Circle#11" fill="#95B9F6" fill-opacity="0" fill-rule="evenodd" stroke="none" />
+      </g>
+    </g>
+    <g id="Group#6" transform="translate(34.49994 27.499962)">
+      <g id="Group#7">
+        <path d="M0 5C0 2.23858 2.23858 0 5 0C7.76142 0 10 2.23858 10 5C10 7.76142 7.76142 10 5 10C2.23858 10 0 7.76142 0 5L0 5Z" transform="translate(5.340576E-05 0)" id="Circle#13" fill="#87A1D1" fill-rule="evenodd" stroke="none" />
+        <path d="M0.0250015 5.5L0.0250015 5.5C0.00799942 5.327 0 5.159 0 5C0 2.23857 2.23858 0 5 0C7.76143 0 10 2.23858 10 5C10 5.163 9.992 5.328 9.976 5.49C9.71934 2.93287 7.56595 0.986759 4.99597 0.989342C2.42599 0.991926 0.27652 2.94236 0.0250015 5.5L0.0250015 5.5L0.0250015 5.5Z" id="Shape#6" fill="#FFFFFF" fill-opacity="0.3019608" fill-rule="evenodd" stroke="none" />
+        <path d="M5 5.5C2.24018 5.49614 0.00385666 3.25983 0 0.5C0 0.334 0.00799942 0.164997 0.0250015 0C0.273319 2.55962 2.42937 4.50943 5.001 4.5C7.57262 4.50944 9.72868 2.55962 9.977 0C9.994 0.172997 10.002 0.341 10.002 0.5C9.99819 3.26052 7.76069 5.4972 5.00008 5.5L5 5.5L5 5.5Z" transform="translate(0.0009918213 4.502014)" id="Shape#7" fill="#000000" fill-opacity="0.4" fill-rule="evenodd" stroke="none" />
+        <path d="M0 4.2C0 1.8804 1.8804 0 4.2 0C6.5196 0 8.4 1.8804 8.4 4.2C8.4 6.5196 6.5196 8.4 4.2 8.4C1.8804 8.4 0 6.5196 0 4.2L0 4.2Z" transform="translate(0.80010223 0.8670044)" id="Circle#14" fill="#4E413E" fill-rule="evenodd" stroke="none" />
+        <path d="M0 2C0 0.89543 0.895432 0 2 0C3.10457 0 4 0.89543 4 2C4 3.10457 3.10457 4 2 4C0.895432 4 0 3.10457 0 2L0 2Z" transform="translate(3.0000534 3)" id="Circle#15" fill="#95B9F6" fill-opacity="0.8" fill-rule="evenodd" stroke="none" />
+      </g>
+    </g>
+  </g>
+</svg>

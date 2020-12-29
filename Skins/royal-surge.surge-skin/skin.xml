@@ -1,0 +1,298 @@
+<surge-skin name="Royal Surge" author="Voger Design" authorURL="https://vogerdesign.com/" version="1">
+  <globals>
+    <window-size x="950" y="594"/>
+
+    <defaultimage directory="Assets/"/>
+
+    <background image="royal-bg"/>
+
+    <zoom-levels>
+      <zoom-level zoom="100"/>
+      <zoom-level zoom="125"/>
+      <zoom-level zoom="150"/>
+      <zoom-level zoom="175"/>
+      <zoom-level zoom="200"/>
+    </zoom-levels>
+
+    <multi-image id="royal-bg">
+      <image zoom-level="100" resource="Assets/background@100.png"/>
+      <!-- <image zoom-level="100" resource="Assets/SurgeMain@100.png"/> -->
+      <image zoom-level="125" resource="Assets/background@125.png"/>
+      <image zoom-level="150" resource="Assets/background@150.png"/>
+      <image zoom-level="175" resource="Assets/background@175.png"/>
+      <!-- <image zoom-level="175" resource="Assets/SurgeMain@175.png"/> -->
+      <image zoom-level="200" resource="Assets/background@200.png"/>
+      <image zoom-level="250" resource="Assets/background@250.png"/>
+      <image zoom-level="300" resource="Assets/background@300.png"/>
+      <image zoom-level="350" resource="Assets/background@350.png"/>
+      <image zoom-level="400" resource="Assets/background@400.png"/>
+    </multi-image>
+
+    <image id="TEMPOSYNC_HORIZONTAL_OVERLAY" resource="assets/bmpTS00153.svg"/>
+    <image id="TEMPOSYNC_VERTICAL_OVERLAY" resource="assets/bmpTS00157.svg"/>
+
+
+    <color id="none" value="#00000000"/>
+    <color id="white" value="#FFFFFF"/>
+    <color id="black" value="#000000"/>
+    <color id="red" value="#FF0000"/>
+    <color id="lightgray" value="#B4B4B4"/>
+    <color id="gray" value="#808080"/>
+    <color id="almostblack" value="#050505"/>
+    <color id="darkestgray" value="#131313"/>
+    <color id="moregray" value="#4f4f4f"/>
+    <color id="darkgray" value="#3c3c3c"/>
+    <color id="darkergray" value="#202020"/>
+    <color id="surgeblue" value="#005CB6"/>
+    <color id="surgeorange" value="#ff9000"/>
+    <color id="buttonbg" value="#151515"/>
+    <color id="displaywave" value="#71625d"/>
+    <color id="menutext" value="#dbd7d7"/>
+    <color id="slidertext" value="#c2b3ae"/>
+    <color id="widgettext" value="#f6d738"/>
+
+    <!-- HEADER COLORS -->
+    <color id="patchbrowser.text" value="widgettext"/>
+    <color id="vumeter.background" value="#574d4c"/>
+    <color id="vumeter.border" value="#26201e"/>
+
+    <color id="scene.split_poly.text" value="widgettext"/>
+    <color id="scene.split_poly.text.hover" value="white"/>
+    <color id="scene.pbrange.text" value="widgettext"/>
+    <color id="scene.pbrange.text.hover" value="white"/>
+    <color id="scene.keytrackroot.text" value="widgettext"/>
+    <color id="scene.keytrackroot.text.hover" value="white"/>
+
+    <!-- OSC COLORS -->
+    <color id="osc.line.bounds" value="displaywave"/>
+    <color id="osc.line.center" value="displaywave"/>
+    <color id="osc.waveform" value="widgettext"/>
+    <color id="osc.wavename.background" value="#746664"/>
+    <color id="osc.wavename.text" value="menutext"/>
+
+    <!-- FILTER COLORS -->
+    <color id="filtermenu.value" value="menutext"/>
+    <color id="filtermenu.value.hover" value="widgettext"/>
+
+    <!-- LFO COLORS -->
+    <color id="lfo.waveform.bounds" value="displaywave"/>
+    <color id="lfo.waveform.center" value="displaywave"/>
+    <color id="lfo.waveform.envelope" value="#9d7f7180"/>
+    <color id="lfo.waveform.wave" value="widgettext"/>
+    <color id="lfo.waveform.wave.deactivated" value="displaywave"/>
+
+    <!-- FX COLORS -->
+    <color id="effect.menu.text" value="menutext"/>
+    <color id="effect.menu.text.hover" value="widgettext"/>
+    <color id="effect.label.presetname" value="#c6b6b1"/>
+    <color id="effect.label.text" value="#c6b6b1"/>
+    <color id="effect.label.separator" value="#9d7f71"/>
+
+
+    <color id="menu.name" value="menutext"/>
+    <color id="menu.name.hover" value="widgettext"/>
+    <color id="menu.name.deactivated" value="menutext"/>
+    <color id="menu.value" value="menutext"/>
+    <color id="menu.value.hover" value="widgettext"/>
+    <color id="menu.value.deactivated" value="menutext"/>
+
+    <color id="slider.light.label" value="slidertext"/>
+    <color id="slider.dark.label" value="slidertext"/>
+  </globals>
+
+
+  <component-classes>
+  </component-classes>
+
+  <controls>
+    <!-- HEADER -->
+    <control ui_identifier="global.active_scene" x="30" y="24" w="51" h="26" rows="1" columns="2"/>
+    <control ui_identifier="global.scene_mode" x="89" y="27" w="32" h="35"/>
+    <control ui_identifier="global.fx_bypass" x="648" y="24" w="131" h="26"/>
+    <control ui_identifier="global.character" x="648" y="54" w="131" h="11"/>
+
+    <control ui_identifier="scene.polylimit" x="129" y="52" w="36" h="13"/>
+    <control ui_identifier="scene.splitpoint" x="129" y="22" w="36" h="13"/>
+
+    <control ui_identifier="controls.patch_browser" x="172" y="24" w="428" h="26"/>
+    <control ui_identifier="controls.patch.store" x="566" y="54" w="34" h="11"/>
+    <control ui_identifier="controls.patch.prevnext" x="261" y="54" w="35" h="11"/>
+    <control ui_identifier="controls.category.prevnext" x="172" y="54" w="35" h="11"/>
+
+    <control ui_identifier="controls.status.panel" x="611" y="24"/>
+    <control ui_identifier="controls.status.mpe" w="26" h="11"/>
+    <control ui_identifier="controls.status.tune" w="26" h="11"/>
+    <control ui_identifier="controls.status.zoom" w="26" h="11"/>
+
+    <control ui_identifier="global.volume" x="781" y="39"/>
+    <control ui_identifier="controls.vu_meter" x="788" y="29"/>
+
+    <!-- PLAY MODE, BEND RANGE, DRIFT/NOISE -->
+    <control ui_identifier="scene.playmode" x="269" y="97" w="47" h="53"/>
+    <control ui_identifier="scene.pbrange_dn" x="183" y="123" w="27"/>
+    <control ui_identifier="scene.pbrange_up" x="210" y="123" w="27"/>
+
+    <control ui_identifier="scene.drift" x="180" y="153"/>
+    <control ui_identifier="scene.noise_color" x="180" y="174"/>
+
+    <!-- FM ROUTING, FILTER CONFIGURATION -->
+    <control ui_identifier="scene.fmrouting" x="332" y="109" w="123" h="56"/>
+    <control ui_identifier="scene.fmdepth" x="328" y="174"/>
+
+    <control ui_identifier="filter.config" x="461" y="103" w="151" h="62"/>
+    <control ui_identifier="filter.feedback" x="479" y="174"/>
+
+    <!-- SCENE OUTPUT -->
+    <control ui_identifier="scene.output.panel" x="630" y="90"/>
+
+    <!-- OSC -->
+    <control ui_identifier="osc.select" x="121" y="82" w="47" h="11"/>
+    <control ui_identifier="osc.display" x="27" y="87" w="141" h="100"/>
+
+    <control ui_identifier="osc.keytrack" x="27" y="190" w="70" h="12"/>
+    <control ui_identifier="osc.retrigger" x="98" y="190" w="70" h="12"/>
+
+    <control ui_identifier="osc.octave" x="27" y="207" w="90" h="14"/>
+    <control ui_identifier="osc.type" x="121" y="207" w="45" h="18"/>
+
+    <control ui_identifier="osc.param.panel" x="28" y="224"/>
+    <control ui_identifier="osc.param_1" y="21"/>
+    <control ui_identifier="osc.param_2" y="42"/>
+    <control ui_identifier="osc.param_3" y="63"/>
+    <control ui_identifier="osc.param_4" y="84"/>
+    <control ui_identifier="osc.param_5" y="105"/>
+    <control ui_identifier="osc.param_6" y="126"/>
+    <control ui_identifier="osc.param_7" y="147"/>
+
+    <!-- SCENE PITCH -->
+    <control ui_identifier="scene.octave" x="229" y="207" w="90" h="14"/>
+
+    <control ui_identifier="scene.pitch" x="178" y="224"/>
+    <control ui_identifier="scene.portamento" x="178" y="245"/>
+
+    <!-- MIXER -->
+    <control ui_identifier="mixer.panel" x="180" y="281"/>
+
+    <control ui_identifier="mixer.mute_o1" w="14" h="8"/>
+    <control ui_identifier="mixer.mute_o2" w="14" h="8"/>
+    <control ui_identifier="mixer.mute_o3" w="14" h="8"/>
+    <control ui_identifier="mixer.mute_ring12" w="14" h="8"/>
+    <control ui_identifier="mixer.mute_ring23" w="14" h="8"/>
+    <control ui_identifier="mixer.mute_noise" w="14" h="8"/>
+
+    <control ui_identifier="mixer.solo_o1" y="9" w="14" h="8"/>
+    <control ui_identifier="mixer.solo_o2" y="9" w="14" h="8"/>
+    <control ui_identifier="mixer.solo_o3" y="9" w="14" h="8"/>
+    <control ui_identifier="mixer.solo_ring12" y="9" w="14" h="8"/>
+    <control ui_identifier="mixer.solo_ring23" y="9" w="14" h="8"/>
+    <control ui_identifier="mixer.solo_noise" y="9" w="14" h="8"/>
+
+    <control ui_identifier="mixer.route_o1" y="21" w="14" h="7"/>
+    <control ui_identifier="mixer.route_o2" y="21" w="14" h="7"/>
+    <control ui_identifier="mixer.route_o3" y="21" w="14" h="7"/>
+    <control ui_identifier="mixer.route_ring12" y="21" w="14" h="7"/>
+    <control ui_identifier="mixer.route_ring23" y="21" w="14" h="7"/>
+    <control ui_identifier="mixer.route_noise" y="21" w="14" h="7"/>
+
+    <control ui_identifier="mixer.level_o1" x="-2" y="33"/>
+    <control ui_identifier="mixer.level_o2" x="18" y="33"/>
+    <control ui_identifier="mixer.level_o3" x="38" y="33"/>
+    <control ui_identifier="mixer.level_ring12" x="58" y="33"/>
+    <control ui_identifier="mixer.level_ring23" x="78" y="33"/>
+    <control ui_identifier="mixer.level_noise" x="98" y="33"/>
+
+    <control ui_identifier="mixer.level_prefiltergain" x="118" y="33"/>
+
+    <!-- FILTERS -->
+    <control ui_identifier="filter.type_1" x="324" y="204" w="124" h="21"/>
+    <control ui_identifier="filter.subtype_1" x="449" y="207" w="22" h="14"/>
+    <control ui_identifier="filter.cutoff_1" x="328" y="224"/>
+    <control ui_identifier="filter.resonance_1" x="328" y="245"/>
+
+    <control ui_identifier="filter.balance" x="479" y="234"/>
+
+    <control ui_identifier="filter.type_2" x="623" y="204" w="124" h="21"/>
+    <control ui_identifier="filter.subtype_2" x="748" y="207" w="22" h="14"/>
+    <control ui_identifier="filter.cutoff_2" x="620" y="224"/>
+    <control ui_identifier="filter.resonance_2" x="620" y="245"/>
+
+    <control ui_identifier="filter.f2_offset_mode" x="754" y="231" w="13" h="13"/>
+    <control ui_identifier="filter.f2_link_resonance" x="754" y="252" w="13" h="13"/>
+
+    <control ui_identifier="filter.highpass" x="373" y="314"/>
+
+    <!-- KEYTRACK -->
+    <control ui_identifier="scene.keytrack_root" x="331" y="286" h="10"/>
+
+    <control ui_identifier="filter.keytrack_1" x="333" y="314"/>
+    <control ui_identifier="filter.keytrack_2" x="353" y="314"/>
+
+    <!-- WAVESHAPER -->
+    <control ui_identifier="filter.waveshaper_drive" x="399" y="314"/>
+    <control ui_identifier="filter.waveshaper_type" x="422" y="319" w="36" h="53"/>
+
+    <!-- FILTER EG -->
+    <control ui_identifier="feg.panel" x="484" y="280"/>
+
+    <control ui_identifier="feg.mode" y="1" w="31" h="17"/>
+
+    <control ui_identifier="feg.attack_shape" x="3" w="19" h="17"/>
+    <control ui_identifier="feg.decay_shape" x="22" w="19" h="17"/>
+    <control ui_identifier="feg.release_shape" x="60" w="19" h="17"/>
+
+    <control ui_identifier="feg.attack" x="-1" y="34"/>
+    <control ui_identifier="feg.decay" x="19" y="34"/>
+    <control ui_identifier="feg.sustain" x="39" y="34"/>
+    <control ui_identifier="feg.release" x="59" y="34"/>
+
+    <control ui_identifier="filter.envmod_1" x="573" y="314"/>
+    <control ui_identifier="filter.envmod_2" x="593" y="314"/>
+
+    <!-- AMPLIFIER EG -->
+    <control ui_identifier="aeg.panel" x="634" y="280"/>
+
+    <control ui_identifier="aeg.mode" y="1" w="31" h="17"/>
+
+    <control ui_identifier="aeg.attack_shape" x="3" w="19" h="17"/>
+    <control ui_identifier="aeg.decay_shape" x="22" w="19" h="17"/>
+    <control ui_identifier="aeg.release_shape" x="60" w="19" h="17"/>
+
+    <control ui_identifier="aeg.attack" x="1" y="34"/>
+    <control ui_identifier="aeg.decay" x="21" y="34"/>
+    <control ui_identifier="aeg.sustain" x="41" y="34"/>
+    <control ui_identifier="aeg.release" x="61" y="34"/>
+
+    <control ui_identifier="scene.gain" x="724" y="314"/>
+    <control ui_identifier="scene.velocity_sensitivity" x="744" y="314"/>
+
+    <!-- LFO -->
+    <!-- <control ui_identifier="lfo.presets"/> -->
+    <!-- <control ui_identifier="lfo.title"/> -->
+
+    <control ui_identifier="lfo.main.panel" x="29" y="490"/>
+
+    <control ui_identifier="lfo.trigger_mode" x="180" y="497" w="58" h="26"/>
+    <control ui_identifier="lfo.unipolar" x="180" y="533" w="58" h="12"/>
+
+    <control ui_identifier="lfo.shape" x="260" y="490"/>
+
+    <control ui_identifier="lfo.envelope.panel" x="640" y="503"/>
+
+    <!-- FX -->
+    <control ui_identifier="fx.selector" x="793" y="85" w="125" h="57"/>
+
+    <control ui_identifier="global.fx1_return" x="781" y="139"/>
+    <control ui_identifier="global.fx2_return" x="781" y="159"/>
+
+    <control ui_identifier="fx.type" x="783" y="205"/>
+    <control ui_identifier="fx.preset.name" x="783" y="224" w="94"/>
+    <control ui_identifier="fx.preset.prevnext" x="878" y="225" w="35" h="11"/>
+
+    <control ui_identifier="fx.param.panel" x="781" y="235"/>
+
+    <!-- MISC -->
+    <control ui_identifier="controls.modulation.panel" x="25" y="414"/>
+
+    <control ui_identifier="controls.surge_menu" x="879" y="566" w="35" h="11"/>
+  </controls>
+</surge-skin>
