@@ -99,10 +99,10 @@
 
     <!-- MENU COLORS -->
     <color id="menu.name" value="menutext"/>
-    <color id="menu.name.hover" value="widgettext"/>
+    <color id="menu.name.hover" value="active"/>
     <color id="menu.name.deactivated" value="menutext"/>
     <color id="menu.value" value="menutext"/>
-    <color id="menu.value.hover" value="widgettext"/>
+    <color id="menu.value.hover" value="active"/>
     <color id="menu.value.deactivated" value="menutext"/>
 
     <color id="filtermenu.value" value="menutext"/>
