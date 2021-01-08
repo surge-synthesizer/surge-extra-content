@@ -2,7 +2,7 @@
   <globals>
     <window-size x="950" y="594"/>
 
-    <defaultimage directory="Assets/"/>
+    <defaultimage directory="assets/"/>
 
     <background image="royal-bg"/>
 
@@ -15,80 +15,89 @@
     </zoom-levels>
 
     <multi-image id="royal-bg">
-      <image zoom-level="100" resource="Assets/background@100.png"/>
-      <!-- <image zoom-level="100" resource="Assets/SurgeMain@100.png"/> -->
-      <image zoom-level="125" resource="Assets/background@125.png"/>
-      <image zoom-level="150" resource="Assets/background@150.png"/>
-      <image zoom-level="175" resource="Assets/background@175.png"/>
-      <!-- <image zoom-level="175" resource="Assets/SurgeMain@175.png"/> -->
-      <image zoom-level="200" resource="Assets/background@200.png"/>
-      <image zoom-level="250" resource="Assets/background@250.png"/>
-      <image zoom-level="300" resource="Assets/background@300.png"/>
-      <image zoom-level="350" resource="Assets/background@350.png"/>
-      <image zoom-level="400" resource="Assets/background@400.png"/>
+      <image zoom-level="100" resource="assets/background@100.png"/>
+      <image zoom-level="125" resource="assets/background@125.png"/>
+      <image zoom-level="150" resource="assets/background@150.png"/>
+      <image zoom-level="175" resource="assets/background@175.png"/>
+      <image zoom-level="200" resource="assets/background@200.png"/>
+      <image zoom-level="250" resource="assets/background@250.png"/>
+      <image zoom-level="300" resource="assets/background@300.png"/>
+      <image zoom-level="350" resource="assets/background@350.png"/>
+      <image zoom-level="400" resource="assets/background@400.png"/>
     </multi-image>
 
     <image id="TEMPOSYNC_HORIZONTAL_OVERLAY" resource="assets/bmpTS00153.svg"/>
     <image id="TEMPOSYNC_VERTICAL_OVERLAY" resource="assets/bmpTS00157.svg"/>
 
-
+    <!-- COLOR DEFINITIONS -->
     <color id="none" value="#00000000"/>
-    <color id="white" value="#FFFFFF"/>
     <color id="black" value="#000000"/>
-    <color id="red" value="#FF0000"/>
-    <color id="lightgray" value="#B4B4B4"/>
-    <color id="gray" value="#808080"/>
-    <color id="almostblack" value="#050505"/>
-    <color id="darkestgray" value="#131313"/>
-    <color id="moregray" value="#4f4f4f"/>
-    <color id="darkgray" value="#3c3c3c"/>
-    <color id="darkergray" value="#202020"/>
-    <color id="surgeblue" value="#005CB6"/>
-    <color id="surgeorange" value="#ff9000"/>
-    <color id="buttonbg" value="#151515"/>
-    <color id="displaywave" value="#71625d"/>
+    <color id="white" value="#FFFFFF"/>
+    <color id="active" value="#f6d537"/>
+    <color id="border" value="#242120"/>
+    <color id="button" value="#736f72"/>
+    <color id="lfodisplay" value="#4d4654"/>
     <color id="menutext" value="#dbd7d7"/>
+    <color id="modpos" value="#e1c192"/>
+    <color id="modneg" value="#886551"/>
+    <color id="oscdisplay" value="#71625d"/>
     <color id="slidertext" value="#c2b3ae"/>
-    <color id="widgettext" value="#f6d738"/>
+    <color id="textfield" value="#544c4b"/>
+    <color id="waveform" value="#e1c192"/>
+    <color id="widgettext" value="#d6c6c1"/>
+    <color id="windowback" value="#383436"/>
+
+    <!-- INFO WINDOW COLORS -->
+    <color id="infowindow.background" value="windowback"/>
+    <color id="infowindow.border" value="black"/>
+    <color id="infowindow.text" value="active"/>
+
+    <color id="infowindow.text.modulation.positive" value="modpos"/>
+    <color id="infowindow.text.modulation.negative" value="modneg"/>
+    <color id="infowindow.text.modulation.value.positive" value="modpos"/>
+    <color id="infowindow.text.modulation.value.negative" value="modneg"/>
+
+    <!-- DIALOG WINDOW -->
+    <color id="dialog.titlebar.background" value="border"/>
+    <color id="dialog.titlebar.text" value="widgettext"/>
+    <color id="dialog.border" value="border"/>
+    <color id="dialog.button.background" value="#4b3e3f"/>
+    <color id="dialog.background" value="windowback"/>
+    <color id="dialog.textfield.background" value="textfield"/>
+    <color id="dialog.textfield.border" value="border"/>
+    <color id="dialog.textfield.text" value="menutext"/>
+    <color id="dialog.button.background" value="button"/>
+    <color id="dialog.button.border" value="#25201f"/>
+    <color id="dialog.button.text" value="menutext"/>
+    <color id="dialog.label.text" value="menutext"/>
+    <color id="dialog.button.hover.background" value="#878386"/>
+    <color id="dialog.button.hover.border" value="border"/>
+    <color id="dialog.button.hover.text" value="menutext"/>
+    <color id="dialog.button.pressed.background" value="#413f40"/>
+    <color id="dialog.button.pressed.border" value="border"/>
+    <color id="dialog.button.pressed.text" value="active"/>
 
     <!-- HEADER COLORS -->
     <color id="patchbrowser.text" value="widgettext"/>
+
+    <color id="scene.split_poly.text" value="widgettext"/>
+    <color id="scene.split_poly.text.hover" value="active"/>
+    <color id="scene.pbrange.text" value="widgettext"/>
+    <color id="scene.pbrange.text.hover" value="active"/>
+    <color id="scene.keytrackroot.text" value="widgettext"/>
+    <color id="scene.keytrackroot.text.hover" value="active"/>
+
     <color id="vumeter.background" value="#574d4c"/>
     <color id="vumeter.border" value="#26201e"/>
 
-    <color id="scene.split_poly.text" value="widgettext"/>
-    <color id="scene.split_poly.text.hover" value="white"/>
-    <color id="scene.pbrange.text" value="widgettext"/>
-    <color id="scene.pbrange.text.hover" value="white"/>
-    <color id="scene.keytrackroot.text" value="widgettext"/>
-    <color id="scene.keytrackroot.text.hover" value="white"/>
-
-    <!-- OSC COLORS -->
-    <color id="osc.line.bounds" value="displaywave"/>
-    <color id="osc.line.center" value="displaywave"/>
-    <color id="osc.waveform" value="widgettext"/>
-    <color id="osc.wavename.background" value="#746664"/>
-    <color id="osc.wavename.text" value="menutext"/>
-
-    <!-- FILTER COLORS -->
-    <color id="filtermenu.value" value="menutext"/>
-    <color id="filtermenu.value.hover" value="widgettext"/>
-
-    <!-- LFO COLORS -->
-    <color id="lfo.waveform.bounds" value="displaywave"/>
-    <color id="lfo.waveform.center" value="displaywave"/>
-    <color id="lfo.waveform.envelope" value="#9d7f7180"/>
-    <color id="lfo.waveform.wave" value="widgettext"/>
-    <color id="lfo.waveform.wave.deactivated" value="displaywave"/>
-
     <!-- FX COLORS -->
-    <color id="effect.menu.text" value="menutext"/>
-    <color id="effect.menu.text.hover" value="widgettext"/>
-    <color id="effect.label.presetname" value="#c6b6b1"/>
-    <color id="effect.label.text" value="#c6b6b1"/>
     <color id="effect.label.separator" value="#9d7f71"/>
+    <color id="effect.label.text" value="slidertext"/>
+    <color id="effect.label.presetname" value="slidertext"/>
+    <color id="effect.menu.text" value="menutext"/>
+    <color id="effect.menu.text.hover" value="active"/>
 
-
+    <!-- MENU COLORS -->
     <color id="menu.name" value="menutext"/>
     <color id="menu.name.hover" value="widgettext"/>
     <color id="menu.name.deactivated" value="menutext"/>
@@ -96,10 +105,114 @@
     <color id="menu.value.hover" value="widgettext"/>
     <color id="menu.value.deactivated" value="menutext"/>
 
+    <color id="filtermenu.value" value="menutext"/>
+    <color id="filtermenu.value.hover" value="active"/>
+
+    <!-- SLIDER COLORS -->
     <color id="slider.light.label" value="slidertext"/>
     <color id="slider.dark.label" value="slidertext"/>
-  </globals>
+    <color id="slider.modulation.positive" value="modpos"/>
+    <color id="slider.modulation.negative" value="modneg"/>
 
+    <!-- OSCILLATOR COLORS -->
+    <color id="osc.line.bounds" value="oscdisplay"/>
+    <color id="osc.line.center" value="oscdisplay"/>
+    <color id="osc.waveform" value="waveform"/>
+    <color id="osc.waveform.dots" value="#82665f"/>
+    <color id="osc.wavename.background" value="#746664"/>
+    <color id="osc.wavename.text" value="menutext"/>
+
+    <!-- MOD ASSIGN BUTTON COLORS -->
+    <color id="modbutton.unused.frame" value="#454c6c"/>
+    <color id="modbutton.unused.frame.hover" value="#747991"/>
+    <color id="modbutton.unused.text" value="#bcaead"/>
+    <color id="modbutton.unused.text.hover" value="#cfc4c4"/>
+
+    <color id="modbutton.used.fill" value="#343446"/>
+    <color id="modbutton.used.frame" value="#96bbf7"/>
+    <color id="modbutton.used.frame.hover" value="#b2d0ff"/>
+    <color id="modbutton.used.text" value="#9bb5fe"/>
+    <color id="modbutton.used.text.hover" value="#b2d0ff"/>
+    <color id="modbutton.used.text.usedmod.hover" value="white"/>
+
+    <color id="modbutton.selected.fill" value="#725451"/>
+    <color id="modbutton.selected.frame" value="active"/>
+    <color id="modbutton.selected.frame.hover" value="#fff099"/>
+    <color id="modbutton.selected.text" value="active"/>
+    <color id="modbutton.selected.text.hover" value="#fff099"/>
+    <color id="modbutton.selected.text.usedmod.hover" value="white"/>
+
+    <color id="modbutton.selected.used.fill" value="#a17368"/>
+    <color id="modbutton.selected.used.frame" value="active"/>
+    <color id="modbutton.selected.used.frame.hover" value="#fff099"/>
+    <color id="modbutton.selected.used.text" value="active"/>
+    <color id="modbutton.selected.used.text.hover" value="#fff099"/>
+    <color id="modbutton.selected.used.text.usedmod.hover" value="white"/>
+
+    <color id="modbutton.armed.fill" value="#7c94c1"/>
+    <color id="modbutton.armed.frame" value="#96bbf7"/>
+    <color id="modbutton.armed.frame.hover" value="#b2d0ff"/>
+    <color id="modbutton.armed.text" value="#4e413e"/>
+    <color id="modbutton.armed.text.hover" value="#735f5b"/>
+    <color id="modbutton.armed.text.usedmod.hover" value="white"/>
+
+    <color id="modbutton.macro.slider.background" value="#413f50"/>
+    <color id="modbutton.macro.slider.fill" value="#b7abb2"/>
+
+    <!-- LFO COLORS -->
+    <color id="lfo.title.text" value="#b8aaa5"/>
+
+    <color id="lfo.waveform.bounds" value="lfodisplay"/>
+    <color id="lfo.waveform.center" value="lfodisplay"/>
+    <color id="lfo.waveform.dots" value="#484250"/>
+    <color id="lfo.waveform.envelope" value="lfodisplay"/>
+    <color id="lfo.waveform.wave" value="waveform"/>
+    <color id="lfo.waveform.wave.deactivated" value="lfodisplay"/>
+    <color id="lfo.waveform.ruler.text" value="waveform"/>
+    <color id="lfo.waveform.ruler.ticks" value="lfodisplay"/>
+    <color id="lfo.waveform.ruler.ticks.extended" value="lfodisplay"/>
+    <color id="lfo.waveform.ruler.ticks.small" value="lfodisplay"/>
+
+    <!-- LFO STEP SEQUENCER COLORS -->
+    <color id="lfo.stepseq.column.shadow" value="#443f4a"/>
+    <color id="lfo.stepseq.drag.line" value="waveform"/>
+    <color id="lfo.stepseq.envelope" value="lfodisplay"/>
+    <color id="lfo.stepseq.loop.markers" value="waveform"/>
+    <color id="lfo.stepseq.loop.outside.step.primary" value="#2b2936"/>
+    <color id="lfo.stepseq.loop.outside.step.secondary" value="#343040"/>
+    <color id="lfo.stepseq.loop.step.primary" value="#2b2936"/>
+    <color id="lfo.stepseq.loop.step.secondary" value="#343040"/>
+    <color id="lfo.stepseq.step.fill" value="#78574f"/>
+    <color id="lfo.stepseq.step.fill.outside" value="#3f445b"/>
+    <color id="lfo.stepseq.wave" value="waveform"/>
+	<color id="lfo.stepseq.step.fill.deactivated" value="waveform"/>
+
+    <color id="lfo.stepseq.popup.background" value="windowback"/>
+    <color id="lfo.stepseq.popup.border" value="black"/>
+    <color id="lfo.stepseq.popup.text" value="active"/>
+
+    <color id="lfo.stepseq.button.background" value="#4d4755"/>
+    <color id="lfo.stepseq.button.border" value="border"/>
+    <color id="lfo.stepseq.button.arrow" value="#beb3bf"/>
+    <color id="lfo.stepseq.button.hover" value="#655d6e"/>
+
+    <!-- MSEG EDITOR COLORS -->
+    <color id="msegeditor.background" value="#302B2D"/>
+    <color id="msegeditor.panel" value="windowback"/>
+    <color id="msegeditor.panel.text" value="widgettext"/>
+    <color id="msegeditor.numberfield.text" value="widgettext"/>
+    <color id="msegeditor.numberfield.text.hover" value="active"/>
+    <color id="msegeditor.axis.line" value="oscdisplay"/>
+    <color id="msegeditor.axis.text" value="waveform"/>
+    <color id="msegeditor.axis.text.secondary" value="waveform"/>
+    <color id="msegeditor.curve" value="waveform"/>
+    <color id="msegeditor.curve.highlight" value="active"/>
+    <color id="msegeditor.grid.primary" value="oscdisplay"/>
+    <color id="msegeditor.loop.marker" value="oscdisplay"/>
+    <color id="msegeditor.loop.region.axis" value="windowback"/>
+    <color id="msegeditor.loop.region.border" value="waveform"/>
+    <color id="msegeditor.loop.region.fill" value="#383436C0"/>
+  </globals>
 
   <component-classes>
   </component-classes>
@@ -108,15 +221,15 @@
     <!-- HEADER -->
     <control ui_identifier="global.active_scene" x="30" y="24" w="51" h="26" rows="1" columns="2"/>
     <control ui_identifier="global.scene_mode" x="89" y="27" w="32" h="35"/>
-    <control ui_identifier="global.fx_bypass" x="648" y="24" w="131" h="26"/>
-    <control ui_identifier="global.character" x="648" y="54" w="131" h="11"/>
+    <control ui_identifier="global.fx_bypass" x="648" y="24" w="132" h="26"/>
+    <control ui_identifier="global.character" x="648" y="54" w="132" h="11"/>
 
     <control ui_identifier="scene.polylimit" x="129" y="52" w="36" h="13"/>
     <control ui_identifier="scene.splitpoint" x="129" y="22" w="36" h="13"/>
 
     <control ui_identifier="controls.patch_browser" x="172" y="24" w="428" h="26"/>
     <control ui_identifier="controls.patch.store" x="566" y="54" w="34" h="11"/>
-    <control ui_identifier="controls.patch.prevnext" x="261" y="54" w="35" h="11"/>
+    <control ui_identifier="controls.patch.prevnext" x="261" y="54" w="34" h="11"/>
     <control ui_identifier="controls.category.prevnext" x="172" y="54" w="35" h="11"/>
 
     <control ui_identifier="controls.status.panel" x="611" y="24"/>
@@ -125,12 +238,12 @@
     <control ui_identifier="controls.status.zoom" w="26" h="11"/>
 
     <control ui_identifier="global.volume" x="781" y="39"/>
-    <control ui_identifier="controls.vu_meter" x="788" y="29"/>
+    <control ui_identifier="controls.vu_meter" x="789" y="29"/>
 
     <!-- PLAY MODE, BEND RANGE, DRIFT/NOISE -->
     <control ui_identifier="scene.playmode" x="269" y="97" w="47" h="53"/>
-    <control ui_identifier="scene.pbrange_dn" x="183" y="123" w="27"/>
-    <control ui_identifier="scene.pbrange_up" x="210" y="123" w="27"/>
+    <control ui_identifier="scene.pbrange_dn" x="183" y="123" w="27" h="13"/>
+    <control ui_identifier="scene.pbrange_up" x="210" y="123" w="27" h="13"/>
 
     <control ui_identifier="scene.drift" x="180" y="153"/>
     <control ui_identifier="scene.noise_color" x="180" y="174"/>
@@ -149,11 +262,11 @@
     <control ui_identifier="osc.select" x="121" y="82" w="47" h="11"/>
     <control ui_identifier="osc.display" x="27" y="87" w="141" h="100"/>
 
-    <control ui_identifier="osc.keytrack" x="27" y="190" w="70" h="12"/>
-    <control ui_identifier="osc.retrigger" x="98" y="190" w="70" h="12"/>
+    <control ui_identifier="osc.keytrack" x="27" y="188" w="70" h="12"/>
+    <control ui_identifier="osc.retrigger" x="98" y="188" w="70" h="12"/>
 
     <control ui_identifier="osc.octave" x="27" y="207" w="90" h="14"/>
-    <control ui_identifier="osc.type" x="121" y="207" w="45" h="18"/>
+    <control ui_identifier="osc.type" x="120" y="205" w="49" h="18"/>
 
     <control ui_identifier="osc.param.panel" x="28" y="224"/>
     <control ui_identifier="osc.param_1" y="21"/>
@@ -204,32 +317,32 @@
     <control ui_identifier="mixer.level_prefiltergain" x="118" y="33"/>
 
     <!-- FILTERS -->
-    <control ui_identifier="filter.type_1" x="324" y="204" w="124" h="21"/>
-    <control ui_identifier="filter.subtype_1" x="449" y="207" w="22" h="14"/>
+    <control ui_identifier="filter.type_1" x="326" y="203" w="106" h="18"/>
+    <control ui_identifier="filter.subtype_1" x="450" y="205" w="22" h="18"/>
     <control ui_identifier="filter.cutoff_1" x="328" y="224"/>
     <control ui_identifier="filter.resonance_1" x="328" y="245"/>
 
     <control ui_identifier="filter.balance" x="479" y="234"/>
 
-    <control ui_identifier="filter.type_2" x="623" y="204" w="124" h="21"/>
-    <control ui_identifier="filter.subtype_2" x="748" y="207" w="22" h="14"/>
+    <control ui_identifier="filter.type_2" x="624" y="203" w="106" h="18"/>
+    <control ui_identifier="filter.subtype_2" x="748" y="205" w="22" h="18"/>
     <control ui_identifier="filter.cutoff_2" x="620" y="224"/>
     <control ui_identifier="filter.resonance_2" x="620" y="245"/>
 
-    <control ui_identifier="filter.f2_offset_mode" x="754" y="231" w="13" h="13"/>
-    <control ui_identifier="filter.f2_link_resonance" x="754" y="252" w="13" h="13"/>
+    <control ui_identifier="filter.f2_offset_mode" x="754" y="231" w="12" h="12"/>
+    <control ui_identifier="filter.f2_link_resonance" x="754" y="251" w="12" h="12"/>
 
     <control ui_identifier="filter.highpass" x="373" y="314"/>
 
     <!-- KEYTRACK -->
-    <control ui_identifier="scene.keytrack_root" x="331" y="286" h="10"/>
+    <control ui_identifier="scene.keytrack_root" x="336" y="286" w="38" h="14"/>
 
     <control ui_identifier="filter.keytrack_1" x="333" y="314"/>
     <control ui_identifier="filter.keytrack_2" x="353" y="314"/>
 
     <!-- WAVESHAPER -->
     <control ui_identifier="filter.waveshaper_drive" x="399" y="314"/>
-    <control ui_identifier="filter.waveshaper_type" x="422" y="319" w="36" h="53"/>
+    <control ui_identifier="filter.waveshaper_type" x="422" y="324" w="36" h="53"/>
 
     <!-- FILTER EG -->
     <control ui_identifier="feg.panel" x="484" y="280"/>
@@ -266,32 +379,35 @@
     <control ui_identifier="scene.velocity_sensitivity" x="744" y="314"/>
 
     <!-- LFO -->
-    <!-- <control ui_identifier="lfo.presets"/> -->
-    <!-- <control ui_identifier="lfo.title"/> -->
+    <control ui_identifier="lfo.title" x="32" y="502"/>
+    <control ui_identifier="lfo.presets" x="32" y="495" w="13" h="12"/>
 
-    <control ui_identifier="lfo.main.panel" x="29" y="490"/>
+    <control ui_identifier="lfo.main.panel" x="51" y="490"/>
 
-    <control ui_identifier="lfo.trigger_mode" x="180" y="497" w="58" h="26"/>
-    <control ui_identifier="lfo.unipolar" x="180" y="533" w="58" h="12"/>
+    <control ui_identifier="lfo.trigger_mode" x="190" y="497" w="58" h="26"/>
+    <control ui_identifier="lfo.unipolar" x="190" y="532" w="58" h="12"/>
 
-    <control ui_identifier="lfo.shape" x="260" y="490"/>
+    <control ui_identifier="lfo.shape" x="260" y="492"/>
 
     <control ui_identifier="lfo.envelope.panel" x="640" y="503"/>
+    <control ui_identifier="lfo.mseg_editor" x="626" y="495" w="12" h="12"/>
 
     <!-- FX -->
-    <control ui_identifier="fx.selector" x="793" y="85" w="125" h="57"/>
+    <control ui_identifier="fx.selector" x="793" y="94" w="125" h="57"/>
 
-    <control ui_identifier="global.fx1_return" x="781" y="139"/>
-    <control ui_identifier="global.fx2_return" x="781" y="159"/>
 
-    <control ui_identifier="fx.type" x="783" y="205"/>
+    <control ui_identifier="global.fx1_return" x="781" y="153"/>
+    <control ui_identifier="global.fx2_return" x="781" y="174"/>
+
+    <control ui_identifier="fx.type" x="783" y="205" w="133" h="18"/>
     <control ui_identifier="fx.preset.name" x="783" y="224" w="94"/>
-    <control ui_identifier="fx.preset.prevnext" x="878" y="225" w="35" h="11"/>
+    <control ui_identifier="fx.preset.prevnext" x="881" y="225" w="34" h="11"/>
 
     <control ui_identifier="fx.param.panel" x="781" y="235"/>
 
     <!-- MISC -->
     <control ui_identifier="controls.modulation.panel" x="25" y="414"/>
+    <control ui_identifier="msegeditor.window" x="24" y="78" h="356" w="747"/>
 
     <control ui_identifier="controls.surge_menu" x="879" y="566" w="35" h="11"/>
   </controls>
