@@ -382,8 +382,8 @@
     <control ui_identifier="aeg.sustain" x="41" y="34"/>
     <control ui_identifier="aeg.release" x="61" y="34"/>
 
-    <control ui_identifier="scene.gain" x="724" y="314"/>
-    <control ui_identifier="scene.velocity_sensitivity" x="744" y="314"/>
+    <control ui_identifier="scene.gain" x="744" y="314"/>
+    <control ui_identifier="scene.velocity_sensitivity" x="724" y="314"/>
 
     <!-- LFO -->
     <control ui_identifier="lfo.title" x="32" y="502"/>
