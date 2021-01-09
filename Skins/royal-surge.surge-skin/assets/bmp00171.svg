@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -46,7 +46,8 @@
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg22315" />
+     inkscape:current-layer="svg22315"
+     inkscape:document-rotation="0" />
   <defs
      id="defs22279">
     <linearGradient
@@ -98,12 +99,13 @@
       <stop
          offset="0"
          stop-color="#787477"
-         id="stop10618" />
+         id="stop10618"
+         style="stop-color:#737172;stop-opacity:1" />
       <stop
          offset="1"
          stop-color="#716B6C"
          id="stop10620"
-         style="stop-color:#696568;stop-opacity:1" />
+         style="stop-color:#6e686d;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"

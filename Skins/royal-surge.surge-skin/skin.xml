@@ -27,7 +27,9 @@
     </multi-image>
 
     <image id="TEMPOSYNC_HORIZONTAL_OVERLAY" resource="assets/bmpTS00153.svg"/>
+    <image id="TEMPOSYNC_HORIZONTAL_HOVER_OVERLAY" resource="assets/hoverTS00153.svg"/>
     <image id="TEMPOSYNC_VERTICAL_OVERLAY" resource="assets/bmpTS00157.svg"/>
+    <image id="TEMPOSYNC_VERTICAL_HOVER_OVERLAY" resource="assets/hoverTS00157.svg"/>
 
     <!-- COLOR DEFINITIONS -->
     <color id="none" value="#00000000"/>
@@ -212,14 +214,19 @@
     <color id="msegeditor.loop.region.axis" value="windowback"/>
     <color id="msegeditor.loop.region.border" value="waveform"/>
     <color id="msegeditor.loop.region.fill" value="#383436C0"/>
+
+    <image id="fx-prevnext-normal" resource="assets/fxpresetarrows.svg" />
+    <image id="fx-prevnext-hover" resource="assets/fxpresetarrows_hover.svg" />
+
   </globals>
 
   <component-classes>
+    <class name="fx-preset-prevnext" parent="CHSwitch2" bg_id="fx-prevnext-normal"/>
   </component-classes>
 
   <controls>
     <!-- HEADER -->
-    <control ui_identifier="global.active_scene" x="30" y="24" w="51" h="26" rows="1" columns="2"/>
+    <control ui_identifier="global.active_scene" x="38" y="24" w="36" h="41"/>
     <control ui_identifier="global.scene_mode" x="89" y="27" w="32" h="35"/>
     <control ui_identifier="global.fx_bypass" x="648" y="24" w="132" h="26"/>
     <control ui_identifier="global.character" x="648" y="54" w="132" h="11"/>
@@ -317,8 +324,8 @@
     <control ui_identifier="mixer.level_prefiltergain" x="118" y="33"/>
 
     <!-- FILTERS -->
-    <control ui_identifier="filter.type_1" x="326" y="203" w="106" h="18"/>
-    <control ui_identifier="filter.subtype_1" x="450" y="205" w="22" h="18"/>
+    <control ui_identifier="filter.type_1" x="325" y="203" w="106" h="18"/>
+    <control ui_identifier="filter.subtype_1" x="449" y="205" w="22" h="18"/>
     <control ui_identifier="filter.cutoff_1" x="328" y="224"/>
     <control ui_identifier="filter.resonance_1" x="328" y="245"/>
 
@@ -335,7 +342,7 @@
     <control ui_identifier="filter.highpass" x="373" y="314"/>
 
     <!-- KEYTRACK -->
-    <control ui_identifier="scene.keytrack_root" x="336" y="286" w="38" h="14"/>
+    <control ui_identifier="scene.keytrack_root" x="336" y="285" w="38" h="14"/>
 
     <control ui_identifier="filter.keytrack_1" x="333" y="314"/>
     <control ui_identifier="filter.keytrack_2" x="353" y="314"/>
@@ -401,7 +408,7 @@
 
     <control ui_identifier="fx.type" x="783" y="205" w="133" h="18"/>
     <control ui_identifier="fx.preset.name" x="783" y="224" w="94"/>
-    <control ui_identifier="fx.preset.prevnext" x="881" y="225" w="34" h="11"/>
+    <control ui_identifier="fx.preset.prevnext" class="fx-preset-prevnext" x="881" y="225" w="34" h="11"/>
 
     <control ui_identifier="fx.param.panel" x="781" y="235"/>
 
