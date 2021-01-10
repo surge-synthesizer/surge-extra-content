@@ -31,6 +31,9 @@
     <image id="TEMPOSYNC_VERTICAL_OVERLAY" resource="assets/bmpTS00157.svg"/>
     <image id="TEMPOSYNC_VERTICAL_HOVER_OVERLAY" resource="assets/hoverTS00157.svg"/>
 
+    <image id="fx-prevnext-normal" resource="assets/fxpresetarrows.svg" />
+    <image id="fx-prevnext-hover" resource="assets/fxpresetarrows_hover.svg" />
+
     <!-- COLOR DEFINITIONS -->
     <color id="none" value="#00000000"/>
     <color id="black" value="#000000"/>
@@ -214,14 +217,10 @@
     <color id="msegeditor.loop.region.axis" value="windowback"/>
     <color id="msegeditor.loop.region.border" value="waveform"/>
     <color id="msegeditor.loop.region.fill" value="#383436C0"/>
-
-    <image id="fx-prevnext-normal" resource="assets/fxpresetarrows.svg" />
-    <image id="fx-prevnext-hover" resource="assets/fxpresetarrows_hover.svg" />
-
   </globals>
 
   <component-classes>
-    <class name="fx-preset-prevnext" parent="CHSwitch2" image="fx-prevnext-normal"/>
+    <class name="fx-preset-prevnext" parent="CHSwitch2" image="fx-prevnext-normal" hover_image="fx-prevnext-hover"/>
   </component-classes>
 
   <controls>
