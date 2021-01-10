@@ -221,7 +221,7 @@
   </globals>
 
   <component-classes>
-    <class name="fx-preset-prevnext" parent="CHSwitch2" bg_id="fx-prevnext-normal"/>
+    <class name="fx-preset-prevnext" parent="CHSwitch2" image="fx-prevnext-normal"/>
   </component-classes>
 
   <controls>
