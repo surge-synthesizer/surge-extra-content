@@ -198,8 +198,9 @@
 
     <color id="lfo.stepseq.button.background" value="#4d4755"/>
     <color id="lfo.stepseq.button.border" value="border"/>
+    <color id="lfo.stepseq.button.hover" value="#69626D"/>
     <color id="lfo.stepseq.button.arrow" value="#beb3bf"/>
-    <color id="lfo.stepseq.button.hover" value="#655d6e"/>
+    <color id="lfo.stepseq.button.arrow.hover" value="#beb3bf"/>
 
     <!-- MSEG EDITOR COLORS -->
     <color id="msegeditor.background" value="#302B2D"/>
