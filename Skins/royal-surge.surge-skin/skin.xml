@@ -163,7 +163,7 @@
 
     <color id="modbutton.macro.slider.background" value="#413f50"/>
     <color id="modbutton.macro.slider.fill" value="#b7abb2"/>
-    <color id="modbutton.macro.slider.zeroline" value="#e6d4e0"/>
+    <color id="modbutton.macro.slider.currentvalue" value="#ead8e4"/>
 
     <!-- LFO COLORS -->
     <color id="lfo.title.text" value="#b8aaa5"/>
