@@ -163,7 +163,7 @@
 
     <color id="modbutton.macro.slider.background" value="#413f50"/>
     <color id="modbutton.macro.slider.fill" value="#b7abb2"/>
-    <color id="modbutton.macro.slider.currentvalue" value="#ead8e4"/>
+    <color id="modbutton.macro.slider.currentvalue" value="#efefef"/>
 
     <!-- LFO COLORS -->
     <color id="lfo.title.text" value="#b8aaa5"/>
@@ -174,7 +174,8 @@
     <color id="lfo.waveform.envelope" value="lfodisplay"/>
     <color id="lfo.waveform.wave" value="waveform"/>
     <color id="lfo.waveform.wave.deactivated" value="lfodisplay"/>
-    <color id="lfo.waveform.wave.amplitudeonewave" value="lfodisplay"/>
+    <color id="lfo.waveform.wave.ghosted" value="#e1c19260"/>
+
     <color id="lfo.waveform.ruler.text" value="waveform"/>
     <color id="lfo.waveform.ruler.ticks" value="lfodisplay"/>
     <color id="lfo.waveform.ruler.ticks.extended" value="lfodisplay"/>
