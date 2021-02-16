@@ -122,11 +122,14 @@
     <!-- OSCILLATOR COLORS -->
     <color id="osc.line.bounds" value="oscdisplay"/>
     <color id="osc.line.center" value="oscdisplay"/>
+
     <color id="osc.waveform" value="waveform"/>
     <color id="osc.waveform.dots" value="#82665f"/>
+
     <color id="osc.wavename.background" value="#746664"/>
     <color id="osc.wavename.background.hover" value="#91807E"/>
-    <color id="osc.wavename.background.hover.frame" value="#91807E"/>
+    <color id="osc.wavename.frame" value="#746664"/>
+    <color id="osc.wavename.frame.hover" value="#91807E"/>
     <color id="osc.wavename.text" value="menutext"/>
     <color id="osc.wavename.text.hover" value="menutext"/>
 
