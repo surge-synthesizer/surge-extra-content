@@ -51,6 +51,8 @@
     <color id="waveform" value="#e1c192"/>
     <color id="widgettext" value="#d6c6c1"/>
     <color id="windowback" value="#383436"/>
+    <color id="fxhovertrans" value="#D7C0AF40"/>
+    <color id="fxgrid" value="#D7C0AF"/>
 
     <!-- INFO WINDOW COLORS -->
     <color id="infowindow.background" value="windowback"/>
@@ -99,6 +101,39 @@
     <color id="effect.label.separator" value="#9d7f71"/>
     <color id="effect.label.text" value="slidertext"/>
     <color id="effect.label.presetname" value="slidertext"/>
+
+    <color id="effect.grid.scene.background" value="none"/>
+    <color id="effect.grid.scene.border" value="fxgrid"/>
+    <color id="effect.grid.scene.text" value="#FFE2C0"/>
+
+    <color id="effect.grid.unselected.background" value="none"/>
+    <color id="effect.grid.unselected.border" value="fxgrid"/>
+    <color id="effect.grid.unselected.text" value="#FFE2C0"/>
+    <color id="effect.grid.unselected.background.hover" value="fxhovertrans"/>
+    <color id="effect.grid.unselected.border.hover" value="fxgrid"/>
+    <color id="effect.grid.unselected.text.hover" value="#FFE2C0"/>
+
+    <color id="effect.grid.selected.background" value="none"/>
+    <color id="effect.grid.selected.border" value="fxgrid"/>
+    <color id="effect.grid.selected.text" value="active"/>
+    <color id="effect.grid.selected.background.hover" value="fxhovertrans"/>
+    <color id="effect.grid.selected.border.hover" value="fxgrid"/>
+    <color id="effect.grid.selected.text.hover" value="active"/>
+
+    <color id="effect.grid.bypassed.background" value="none"/>
+    <color id="effect.grid.bypassed.border" value="fxgrid"/>
+    <color id="effect.grid.bypassed.text" value="#EB5757"/>
+    <color id="effect.grid.bypassed.background.hover" value="fxhovertrans"/>
+    <color id="effect.grid.bypassed.border.hover" value="fxgrid"/>
+    <color id="effect.grid.bypassed.text.hover" value="#EB5757"/>
+
+    <color id="effect.grid.bypassed.selected.background" value="none"/>
+    <color id="effect.grid.bypassed.selected.border" value="fxgrid"/>
+    <color id="effect.grid.bypassed.selected.text" value="#FFAFAF"/>
+    <color id="effect.grid.bypassed.selected.background.hover" value="fxhovertrans"/>
+    <color id="effect.grid.bypassed.selected.border.hover" value="fxgrid"/>
+    <color id="effect.grid.bypassed.selected.text.hover" value="#FFAFAF"/>
+
     <color id="effect.menu.text" value="menutext"/>
     <color id="effect.menu.text.hover" value="active"/>
 
