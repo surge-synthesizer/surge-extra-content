@@ -158,6 +158,9 @@
     <color id="osc.line.bounds" value="oscdisplay"/>
     <color id="osc.line.center" value="oscdisplay"/>
 
+    <color id="osc.type.text" value="menutext"/>
+    <color id="osc.type.text.hover" value="active"/>
+
     <color id="osc.waveform" value="waveform"/>
     <color id="osc.waveform.dots" value="#82665f"/>
 
@@ -317,7 +320,7 @@
     <control ui_identifier="osc.retrigger" x="98" y="188" w="70" h="12"/>
 
     <control ui_identifier="osc.octave" x="27" y="207" w="90" h="14"/>
-    <control ui_identifier="osc.type" x="120" y="205" w="49" h="18"/>
+    <control ui_identifier="osc.type" x="120" y="205" w="49" h="18" font_size="7" text_allcaps="false" text_hoffset="-3" text_voffset="0"/>
 
     <control ui_identifier="osc.param.panel" x="28" y="224"/>
     <control ui_identifier="osc.param_1" y="21"/>
