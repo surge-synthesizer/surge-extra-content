@@ -447,7 +447,7 @@
     <control ui_identifier="lfo.mseg_editor" x="626" y="495" w="12" h="12"/>
 
     <!-- FX -->
-    <control ui_identifier="fx.selector" x="792" y="96" w="125" h="57"/>
+    <control ui_identifier="fx.selector" x="778" y="95"/>
 
 
     <control ui_identifier="global.fx1_return" x="781" y="153"/>
