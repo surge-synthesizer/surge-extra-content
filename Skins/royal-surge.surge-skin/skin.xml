@@ -172,6 +172,7 @@
     <color id="osc.wavename.text.hover" value="menutext"/>
 
     <!-- MOD ASSIGN BUTTON COLORS -->
+    <color id="modbutton.unused.fill" value="#343446"/>
     <color id="modbutton.unused.frame" value="#454c6c"/>
     <color id="modbutton.unused.frame.hover" value="#747991"/>
     <color id="modbutton.unused.text" value="#bcaead"/>
@@ -433,7 +434,7 @@
     <control ui_identifier="scene.velocity_sensitivity" x="724" y="314"/>
 
     <!-- LFO -->
-    <control ui_identifier="lfo.title" x="32" y="502"/>
+    <control ui_identifier="lfo.title" x="32" y="510" h="71"/>
     <control ui_identifier="lfo.presets" x="32" y="495" w="13" h="12"/>
 
     <control ui_identifier="lfo.main.panel" x="51" y="490"/>
