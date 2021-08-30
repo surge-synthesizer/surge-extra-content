@@ -464,7 +464,7 @@
     <control ui_identifier="controls.patch.store.window" x="191" y="69"/>
     <control ui_identifier="msegeditor.window" x="24" y="78" h="356" w="747"/>
 
-    <control ui_identifier="controls.modulation.panel" x="25" y="414"/>
+    <control ui_identifier="controls.modulation.panel" x="26" y="414"/>
 
     <control ui_identifier="controls.surge_menu" x="879" y="566" w="35" h="11"/>
   </controls>
