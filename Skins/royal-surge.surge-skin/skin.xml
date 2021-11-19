@@ -137,6 +137,21 @@
     <color id="effect.menu.text" value="menutext"/>
     <color id="effect.menu.text.hover" value="active"/>
 
+    <!-- button colors for self draw buttons -->
+    <color id="multiswitch.background" value="#787477"/>
+    <color id="multiswitch.border" value="#000000"/>
+    <color id="multiswitch.separator" value="#000000"/>
+    <color id="multiswitch.text.deactivated" value="#a4bcb9"/>
+    <color id="multiswitch.text" value="#e4dcd9"/>
+    <color id="multiswitch.on.text" value="#fce237"/>
+    <color id="multiswitch.hover.text" value="#e4dcd9"/>
+    <color id="multiswitch.hoveron.text" value="#fce237"/>
+    <color id="multiswitch.on.fill" value="#413f40"/>
+    <color id="multiswitch.hover.fill" value="#888487"/>
+    <color id="multiswitch.hoveron.fill" value="#514f50"/>
+    <color id="multiswitch.hoveron.border" value="#00000000"/>
+    <color id="multiswitch.unpressedhighlight" value="#8d898f"/>
+
     <!-- MENU COLORS -->
     <color id="menu.name" value="menutext"/>
     <color id="menu.name.hover" value="active"/>
