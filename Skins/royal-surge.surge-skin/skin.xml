@@ -298,7 +298,7 @@
     <control ui_identifier="scene.splitpoint" x="129" y="22" w="36" h="13"/>
 
     <control ui_identifier="controls.patch_browser" x="172" y="24" w="428" h="26"/>
-    <control ui_identifier="controls.patch.store" x="566" y="54" w="34" h="11"/>
+    <control ui_identifier="controls.patch.save" x="566" y="54" w="34" h="11"/>
     <control ui_identifier="controls.patch.prevnext" x="261" y="54" w="34" h="11"/>
     <control ui_identifier="controls.category.prevnext" x="172" y="54" w="35" h="11"/>
 

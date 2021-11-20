@@ -52,13 +52,11 @@
      inkscape:document-rotation="0" />
   <path
      d="m 0.6,3.4 c 0,-1.10457 0.89543,-2 2,-2 h 31 c 1.1046,0 2,0.89543 2,2 v 7.1 c 0,1.1046 -0.8954,2 -2,2 h -31 c -1.10457,0 -2,-0.8954 -2,-2 z"
-     fill="#242424"
      id="path55"
      sodipodi:nodetypes="sssssssss"
      style="fill:#544c4b;fill-opacity:1" />
   <path
      d="m 2.5,1.95 h 31.05 v -1 H 2.5 Z m 32.55,1.5 v 7.05 h 1 V 3.45 Z M 33.55,12 H 2.5 v 1 H 33.55 Z M 1,10.5 V 3.45 H 0 V 10.5 Z M 2.5,12 C 1.67157,12 1,11.3284 1,10.5 H 0 C 0,11.8807 1.11929,13 2.5,13 Z m 32.55,-1.5 c 0,0.8284 -0.6716,1.5 -1.5,1.5 v 1 c 1.3807,0 2.5,-1.1193 2.5,-2.5 z m -1.5,-8.55 c 0.8284,0 1.5,0.67157 1.5,1.5 h 1 c 0,-1.38071 -1.1193,-2.5 -2.5,-2.5 z M 2.5,0.95 C 1.11929,0.95 0,2.06929 0,3.45 H 1 C 1,2.62157 1.67157,1.95 2.5,1.95 Z"
-     fill="#000000"
      id="path57"
      sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccc"
      style="fill:#221a17;fill-opacity:1" />
