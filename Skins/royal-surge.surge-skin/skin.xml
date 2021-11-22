@@ -78,10 +78,10 @@
     <color id="dialog.button.text" value="menutext"/>
     <color id="dialog.label.text" value="menutext"/>
     <color id="dialog.button.hover.background" value="#878386"/>
-    <color id="dialog.button.hover.border" value="border"/>
+    <color id="dialog.button.hover.border" value="none"/>
     <color id="dialog.button.hover.text" value="menutext"/>
     <color id="dialog.button.pressed.background" value="#413f40"/>
-    <color id="dialog.button.pressed.border" value="border"/>
+    <color id="dialog.button.pressed.border" value="none"/>
     <color id="dialog.button.pressed.text" value="active"/>
 
     <!-- HEADER COLORS -->
