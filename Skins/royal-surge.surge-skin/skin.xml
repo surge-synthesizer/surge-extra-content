@@ -83,6 +83,8 @@
     <color id="dialog.button.pressed.background" value="#413f40"/>
     <color id="dialog.button.pressed.border" value="none"/>
     <color id="dialog.button.pressed.text" value="active"/>
+    <color id="dialog.checkbox.border" value="menutext"/>
+    <color id="dialog.checkbox.tick" value="menutext"/>
 
     <!-- HEADER COLORS -->
     <color id="patchbrowser.text" value="widgettext"/>
