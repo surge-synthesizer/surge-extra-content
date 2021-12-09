@@ -421,9 +421,9 @@
 
     <control ui_identifier="feg.mode" y="1" w="31" h="17"/>
 
-    <control ui_identifier="feg.attack_shape" x="3" y="1" w="19" h="17"/>
-    <control ui_identifier="feg.decay_shape" x="22" y="1" w="19" h="17"/>
-    <control ui_identifier="feg.release_shape" x="60" y="1" w="19" h="17"/>
+    <control ui_identifier="feg.attack_shape" x="3" w="19" h="19"/>
+    <control ui_identifier="feg.decay_shape" x="22" w="19" h="19"/>
+    <control ui_identifier="feg.release_shape" x="60" w="19" h="19"/>
 
     <control ui_identifier="feg.attack" x="-1" y="34"/>
     <control ui_identifier="feg.decay" x="19" y="34"/>
@@ -438,9 +438,9 @@
 
     <control ui_identifier="aeg.mode" y="1" w="31" h="17"/>
 
-    <control ui_identifier="aeg.attack_shape" x="3" y="1" w="19" h="17"/>
-    <control ui_identifier="aeg.decay_shape" x="22" y="1" w="19" h="17"/>
-    <control ui_identifier="aeg.release_shape" x="60" y="1" w="19" h="17"/>
+    <control ui_identifier="aeg.attack_shape" x="3" w="19" h="19"/>
+    <control ui_identifier="aeg.decay_shape" x="22" w="19" h="19"/>
+    <control ui_identifier="aeg.release_shape" x="60" w="19" h="19"/>
 
     <control ui_identifier="aeg.attack" x="1" y="34"/>
     <control ui_identifier="aeg.decay" x="21" y="34"/>
