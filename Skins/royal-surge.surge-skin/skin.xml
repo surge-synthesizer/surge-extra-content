@@ -224,6 +224,7 @@
     <color id="modbutton.armed.text.usedmod.hover" value="white"/>
 
     <color id="modbutton.macro.slider.background" value="#413f50"/>
+    <color id="modbutton.macro.slider.border" value="#343446"/>
     <color id="modbutton.macro.slider.fill" value="#b7abb2"/>
     <color id="modbutton.macro.slider.currentvalue" value="#efefef"/>
 
