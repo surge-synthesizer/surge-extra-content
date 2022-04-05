@@ -38,18 +38,18 @@
     <color id="none" value="#00000000"/>
     <color id="black" value="#000000"/>
     <color id="white" value="#FFFFFF"/>
-    <color id="active" value="#f6d537"/>
+    <color id="active" value="#F6D537"/>
     <color id="border" value="#242120"/>
-    <color id="button" value="#736f72"/>
-    <color id="lfodisplay" value="#4d4654"/>
-    <color id="menutext" value="#dbd7d7"/>
-    <color id="modpos" value="#e1c192"/>
+    <color id="button" value="#736F72"/>
+    <color id="lfodisplay" value="#4D4654"/>
+    <color id="menutext" value="#DBD7D7"/>
+    <color id="modpos" value="#E1C192"/>
     <color id="modneg" value="#886551"/>
-    <color id="oscdisplay" value="#71625d"/>
-    <color id="slidertext" value="#c2b3ae"/>
-    <color id="textfield" value="#544c4b"/>
-    <color id="waveform" value="#e1c192"/>
-    <color id="widgettext" value="#d6c6c1"/>
+    <color id="oscdisplay" value="#71625D"/>
+    <color id="slidertext" value="#C2B3AE"/>
+    <color id="textfield" value="#544C4B"/>
+    <color id="waveform" value="#E1C192"/>
+    <color id="widgettext" value="#D6C6C1"/>
     <color id="windowback" value="#383436"/>
     <color id="fxhovertrans" value="#D7C0AF40"/>
     <color id="fxgrid" value="#D7C0AF"/>
@@ -68,26 +68,35 @@
     <color id="dialog.titlebar.background" value="border"/>
     <color id="dialog.titlebar.text" value="widgettext"/>
     <color id="dialog.border" value="border"/>
-    <color id="dialog.button.background" value="#4b3e3f"/>
+    <color id="dialog.button.background" value="#4B3E3F"/>
     <color id="dialog.background" value="windowback"/>
     <color id="dialog.textfield.background" value="textfield"/>
     <color id="dialog.textfield.border" value="border"/>
+    <color id="dialog.textfield.focus" value="#00000080"/>
     <color id="dialog.textfield.text" value="menutext"/>
     <color id="dialog.button.background" value="button"/>
-    <color id="dialog.button.border" value="#25201f"/>
+    <color id="dialog.button.border" value="#25201F"/>
     <color id="dialog.button.text" value="menutext"/>
     <color id="dialog.label.text" value="menutext"/>
     <color id="dialog.button.hover.background" value="#878386"/>
     <color id="dialog.button.hover.border" value="none"/>
     <color id="dialog.button.hover.text" value="menutext"/>
-    <color id="dialog.button.pressed.background" value="#413f40"/>
+    <color id="dialog.button.pressed.background" value="#413F40"/>
     <color id="dialog.button.pressed.border" value="none"/>
     <color id="dialog.button.pressed.text" value="active"/>
     <color id="dialog.checkbox.border" value="menutext"/>
     <color id="dialog.checkbox.tick" value="menutext"/>
 
+    <!-- POPUP MENU COLORS -->
+    <color id="popupmenu.background" value="#302B2D"/>
+    <color id="popupmenu.background.highlight" value="border"/>
+    <color id="popupmenu.text" value="widgettext"/>
+    <color id="popupmenu.text.header" value="widgettext"/>
+    <color id="popupmenu.text.highlight" value="active"/>
+
     <!-- HEADER COLORS -->
     <color id="patchbrowser.text" value="widgettext"/>
+    <color id="patchbrowser.text.hover" value="waveform"/>
 
     <color id="scene.split_poly.text" value="widgettext"/>
     <color id="scene.split_poly.text.hover" value="active"/>
@@ -96,11 +105,11 @@
     <color id="scene.keytrackroot.text" value="widgettext"/>
     <color id="scene.keytrackroot.text.hover" value="active"/>
 
-    <color id="vumeter.background" value="#574d4c"/>
-    <color id="vumeter.border" value="#26201e"/>
+    <color id="vumeter.background" value="#574D4C"/>
+    <color id="vumeter.border" value="#26201E"/>
 
     <!-- FX COLORS -->
-    <color id="effect.label.separator" value="#9d7f71"/>
+    <color id="effect.label.separator" value="#9D7F71"/>
     <color id="effect.label.text" value="slidertext"/>
     <color id="effect.label.presetname" value="slidertext"/>
 
@@ -139,20 +148,32 @@
     <color id="effect.menu.text" value="menutext"/>
     <color id="effect.menu.text.hover" value="active"/>
 
-    <!-- button colors for self draw buttons -->
+    <!-- INTERNALLY DRAWN BUTTONS -->
     <color id="multiswitch.background" value="#787477"/>
     <color id="multiswitch.border" value="#000000"/>
     <color id="multiswitch.separator" value="#000000"/>
-    <color id="multiswitch.text.deactivated" value="#a4bcb9"/>
-    <color id="multiswitch.text" value="#e4dcd9"/>
-    <color id="multiswitch.on.text" value="#fce237"/>
-    <color id="multiswitch.hover.text" value="#e4dcd9"/>
-    <color id="multiswitch.hoveron.text" value="#fce237"/>
-    <color id="multiswitch.on.fill" value="#413f40"/>
+    <color id="multiswitch.text.deactivated" value="#A4BCB9"/>
+    <color id="multiswitch.text" value="#E4DCD9"/>
+    <color id="multiswitch.on.text" value="#FCE237"/>
+    <color id="multiswitch.hover.text" value="#E4DCD9"/>
+    <color id="multiswitch.hoveron.text" value="#FCE237"/>
+    <color id="multiswitch.on.fill" value="#413F40"/>
     <color id="multiswitch.hover.fill" value="#888487"/>
-    <color id="multiswitch.hoveron.fill" value="#514f50"/>
+    <color id="multiswitch.hoveron.fill" value="#514F50"/>
     <color id="multiswitch.hoveron.border" value="#00000000"/>
-    <color id="multiswitch.unpressedhighlight" value="#8d898f"/>
+    <color id="multiswitch.unpressedhighlight" value="#8D898F"/>
+
+    <!-- WAVESHAPER COLORS -->
+    <!-- <color id="waveshaper.text" value="menutext"/> -->
+    <!-- <color id="waveshaper.text.hover" value="active"/> -->
+    <color id="waveshaper.text" value="black"/>
+    <color id="waveshaper.text.hover" value="black"/>
+    <color id="waveshaper.waveform" value="waveform"/>
+    <color id="waveshaper.waveform.hover" value="active"/>
+    <color id="waveshaper.waveform.dots" value="oscdisplay"/>
+    <color id="waveshaper.preview.background" value="windowback"/>
+    <color id="waveshaper.preview.border" value="oscdisplay"/>
+    <color id="waveshaper.preview.text" value="slidertext"/>
 
     <!-- MENU COLORS -->
     <color id="menu.name" value="menutext"/>
@@ -179,7 +200,7 @@
     <color id="osc.type.text.hover" value="active"/>
 
     <color id="osc.waveform" value="waveform"/>
-    <color id="osc.waveform.dots" value="#82665f"/>
+    <color id="osc.waveform.dots" value="#82665F"/>
 
     <color id="osc.wavename.background" value="#746664"/>
     <color id="osc.wavename.background.hover" value="#91807E"/>
@@ -190,46 +211,46 @@
 
     <!-- MOD ASSIGN BUTTON COLORS -->
     <color id="modbutton.unused.fill" value="#343446"/>
-    <color id="modbutton.unused.frame" value="#454c6c"/>
+    <color id="modbutton.unused.frame" value="#454C6C"/>
     <color id="modbutton.unused.frame.hover" value="#747991"/>
-    <color id="modbutton.unused.text" value="#bcaead"/>
-    <color id="modbutton.unused.text.hover" value="#cfc4c4"/>
+    <color id="modbutton.unused.text" value="#BCAEAD"/>
+    <color id="modbutton.unused.text.hover" value="#CFC4C4"/>
 
     <color id="modbutton.used.fill" value="#343446"/>
-    <color id="modbutton.used.frame" value="#96bbf7"/>
-    <color id="modbutton.used.frame.hover" value="#b2d0ff"/>
-    <color id="modbutton.used.text" value="#9bb5fe"/>
-    <color id="modbutton.used.text.hover" value="#b2d0ff"/>
+    <color id="modbutton.used.frame" value="#96BBF7"/>
+    <color id="modbutton.used.frame.hover" value="#B2D0FF"/>
+    <color id="modbutton.used.text" value="#9BB5FE"/>
+    <color id="modbutton.used.text.hover" value="#B2D0FF"/>
     <color id="modbutton.used.text.usedmod.hover" value="white"/>
 
     <color id="modbutton.selected.fill" value="#725451"/>
     <color id="modbutton.selected.frame" value="active"/>
-    <color id="modbutton.selected.frame.hover" value="#fff099"/>
+    <color id="modbutton.selected.frame.hover" value="#FFF099"/>
     <color id="modbutton.selected.text" value="active"/>
-    <color id="modbutton.selected.text.hover" value="#fff099"/>
+    <color id="modbutton.selected.text.hover" value="#FFF099"/>
     <color id="modbutton.selected.text.usedmod.hover" value="white"/>
 
-    <color id="modbutton.selected.used.fill" value="#a17368"/>
+    <color id="modbutton.selected.used.fill" value="#A17368"/>
     <color id="modbutton.selected.used.frame" value="active"/>
-    <color id="modbutton.selected.used.frame.hover" value="#fff099"/>
+    <color id="modbutton.selected.used.frame.hover" value="#FFF099"/>
     <color id="modbutton.selected.used.text" value="active"/>
-    <color id="modbutton.selected.used.text.hover" value="#fff099"/>
+    <color id="modbutton.selected.used.text.hover" value="#FFF099"/>
     <color id="modbutton.selected.used.text.usedmod.hover" value="white"/>
 
-    <color id="modbutton.armed.fill" value="#7c94c1"/>
-    <color id="modbutton.armed.frame" value="#96bbf7"/>
-    <color id="modbutton.armed.frame.hover" value="#b2d0ff"/>
-    <color id="modbutton.armed.text" value="#4e413e"/>
-    <color id="modbutton.armed.text.hover" value="#735f5b"/>
+    <color id="modbutton.armed.fill" value="#7C94C1"/>
+    <color id="modbutton.armed.frame" value="#96BBF7"/>
+    <color id="modbutton.armed.frame.hover" value="#B2D0FF"/>
+    <color id="modbutton.armed.text" value="#4E413E"/>
+    <color id="modbutton.armed.text.hover" value="#735F5B"/>
     <color id="modbutton.armed.text.usedmod.hover" value="white"/>
 
-    <color id="modbutton.macro.slider.background" value="#413f50"/>
+    <color id="modbutton.macro.slider.background" value="#413F50"/>
     <color id="modbutton.macro.slider.border" value="#343446"/>
-    <color id="modbutton.macro.slider.fill" value="#b7abb2"/>
-    <color id="modbutton.macro.slider.currentvalue" value="#efefef"/>
+    <color id="modbutton.macro.slider.fill" value="#B7ABB2"/>
+    <color id="modbutton.macro.slider.currentvalue" value="#EFEFEF"/>
 
     <!-- LFO COLORS -->
-    <color id="lfo.title.text" value="#b8aaa5"/>
+    <color id="lfo.title.text" value="#B8AAA5"/>
 
     <color id="lfo.waveform.bounds" value="lfodisplay"/>
     <color id="lfo.waveform.center" value="lfodisplay"/>
@@ -237,7 +258,7 @@
     <color id="lfo.waveform.envelope" value="lfodisplay"/>
     <color id="lfo.waveform.wave" value="waveform"/>
     <color id="lfo.waveform.wave.deactivated" value="lfodisplay"/>
-    <color id="lfo.waveform.wave.ghosted" value="#e1c19260"/>
+    <color id="lfo.waveform.wave.ghosted" value="#E1C19260"/>
 
     <color id="lfo.waveform.ruler.text" value="waveform"/>
     <color id="lfo.waveform.ruler.ticks" value="lfodisplay"/>
@@ -245,16 +266,16 @@
     <color id="lfo.waveform.ruler.ticks.small" value="lfodisplay"/>
 
     <!-- LFO STEP SEQUENCER COLORS -->
-    <color id="lfo.stepseq.column.shadow" value="#443f4a"/>
+    <color id="lfo.stepseq.column.shadow" value="#443F4A"/>
     <color id="lfo.stepseq.drag.line" value="waveform"/>
     <color id="lfo.stepseq.envelope" value="lfodisplay"/>
     <color id="lfo.stepseq.loop.markers" value="waveform"/>
-    <color id="lfo.stepseq.loop.outside.step.primary" value="#2b2936"/>
+    <color id="lfo.stepseq.loop.outside.step.primary" value="#2B2936"/>
     <color id="lfo.stepseq.loop.outside.step.secondary" value="#343040"/>
-    <color id="lfo.stepseq.loop.step.primary" value="#2b2936"/>
+    <color id="lfo.stepseq.loop.step.primary" value="#2B2936"/>
     <color id="lfo.stepseq.loop.step.secondary" value="#343040"/>
-    <color id="lfo.stepseq.step.fill" value="#78574f"/>
-    <color id="lfo.stepseq.step.fill.outside" value="#3f445b"/>
+    <color id="lfo.stepseq.step.fill" value="#78574F"/>
+    <color id="lfo.stepseq.step.fill.outside" value="#3F445B"/>
     <color id="lfo.stepseq.wave" value="waveform"/>
 	<color id="lfo.stepseq.step.fill.deactivated" value="waveform"/>
 
@@ -262,11 +283,11 @@
     <color id="lfo.stepseq.popup.border" value="black"/>
     <color id="lfo.stepseq.popup.text" value="active"/>
 
-    <color id="lfo.stepseq.button.background" value="#4d4755"/>
+    <color id="lfo.stepseq.button.background" value="#4D4755"/>
     <color id="lfo.stepseq.button.border" value="border"/>
     <color id="lfo.stepseq.button.hover" value="#69626D"/>
-    <color id="lfo.stepseq.button.arrow" value="#beb3bf"/>
-    <color id="lfo.stepseq.button.arrow.hover" value="#beb3bf"/>
+    <color id="lfo.stepseq.button.arrow" value="#BEB3BF"/>
+    <color id="lfo.stepseq.button.arrow.hover" value="#BEB3BF"/>
 
     <!-- MSEG EDITOR COLORS -->
     <color id="msegeditor.background" value="#302B2D"/>
@@ -416,6 +437,8 @@
     <!-- WAVESHAPER -->
     <control ui_identifier="filter.waveshaper_drive" x="399" y="314"/>
     <control ui_identifier="filter.waveshaper_type" x="422" y="324" w="36" h="53"/>
+    <control ui_identifier="filter.waveshaper_prevnext" x="423" y="375"/>
+    <control ui_identifier="filter.waveshaper_preview" x="435" y="390"/>
 
     <!-- FILTER EG -->
     <control ui_identifier="feg.panel" x="484" y="280"/>
