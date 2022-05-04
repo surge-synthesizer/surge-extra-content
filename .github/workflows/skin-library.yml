@@ -1,0 +1,31 @@
+name: Skin Library
+
+on: [push]
+
+permissions:
+  contents: write
+
+jobs:
+
+  Skin-Library:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 5
+
+      - name: Zip Skins
+        run: cd Skins/; for i in *; do zip -r "$i.zip" $i; done;
+
+      - name: Changes
+        run: echo -e "Changes:\n" > changes.md && git --no-pager log -5 --oneline --no-decorate >> changes.md
+
+      - name: Release
+        uses: softprops/action-gh-release@v0.1.14
+        with:
+          tag_name: skin-library
+          name: Skin Library
+          body_path: changes.md
+          files: |
+            Skins/*.zip

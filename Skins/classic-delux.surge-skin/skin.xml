@@ -1,0 +1,421 @@
+<surge-skin name="Classic Delux" author="Slowboat" authorURL="https://surge-synth-team.org/" version="2">
+
+  <globals>
+  <window-size x="905" y="569"/>
+  
+    <defaultimage directory="SVG/"/>
+  	<image id="TEMPOSYNC_HORIZONTAL_OVERLAY" resource="SVG/bmpTS00153.svg"/>
+  	<image id="TEMPOSYNC_HORIZONTAL_HOVER_OVERLAY" resource="SVG/hoverTS00153.svg"/>
+    <image id="TEMPOSYNC_VERTICAL_OVERLAY" resource="SVG/bmpTS00157.svg"/>
+    <image id="TEMPOSYNC_VERTICAL_HOVER_OVERLAY" resource="SVG/hoverTS00157.svg"/>
+ 
+ <color value="#ffffff" id="white"/>
+
+<color value="#000000" id="black"/>
+
+<color value="#050505" id="almostblack"/>
+
+<color value="#FF0000" id="red"/>
+
+<color value="#242424" id="bggray"/>
+
+<color value="#0F0F0F" id="bordergray"/>
+
+<color value="#808080" id="gray"/>
+
+<color value="#E3E3E3" id="lightgray"/>
+
+<color value="#4f4f4f" id="moregray"/>
+
+<color value="#3c3c3c" id="darkgray"/>
+
+<color value="#202020" id="darkergray"/>
+
+<color value="#131313" id="darkestgray"/>
+
+<color value="#005CB6" id="surgeblue"/>
+
+<color value="#005CB680" id="surgebluetrans"/>
+
+<color value="#ff9300" id="surgeorange"/>
+
+<color value="#6A3D00" id="darkorange"/>
+
+<color value="#2F1C04" id="darkerorange"/>
+
+<color value="#151515" id="buttonbg"/>
+
+<color value="#2E86FE" id="modblue"/>
+
+<color value="#00000000" id="empty"/>
+
+<color value="#A0A0A040" id="fxhovertrans"/>
+
+<color value="#A0A0A0" id="fxgridgray"/>
+
+<color value="#737373" id="fxbypass"/>
+
+<color value="#A05000" id="fxbypasssel"/>
+
+<color value="#AEAFB4" id="lightergray"/>
+
+
+<color id="infowindow.background" value="bggray"/>
+<color id="infowindow.border" value="bordergray"/>
+<color id="infowindow.text" value="lightgray"/>
+
+<color id="popupmenu.background" value="bggray"/>
+<color id="popupmenu.background.highlight" value="black"/>
+<color id="popupmenu.text" value="lightgray"/>
+<color id="popupmenu.text.header" value="lightgray"/>
+<color id="popupmenu.text.highlight" value="lightgray"/>
+
+<color id="patchbrowser.text" value="lightgray"/>
+<color id="patchbrowser.tooltip.background" value="bggray"/>
+<color id="patchbrowser.tooltip.border" value="bordergray"/>
+<color id="patchbrowser.tooltip.text" value="lightgray"/>
+<color id="patchbrowser.typeahead.background" value="bggray"/>
+<color id="patchbrowser.typeahead.background.highlight" value="black"/>
+<color id="patchbrowser.typeahead.border" value="bordergray"/>
+<color id="patchbrowser.typeahead.separator" value="lightgray"/>
+<color id="patchbrowser.typeahead.subtext" value="lightgray"/>
+<color id="patchbrowser.typeahead.subtext.highlight" value="lightgray"/>
+<color id="patchbrowser.typeahead.text" value="lightgray"/>
+<color id="patchbrowser.typeahead.text.highlight" value="lightgray"/>
+
+
+<color value="lightergray" id="lfo.title.text"/>
+
+<color value="black" id="lfo.waveform.background"/>
+
+<color value="almostblack" id="lfo.waveform.dots"/>
+
+<color value="surgeorange" id="lfo.waveform.ruler.text"/>
+
+<color value="surgeorange" id="lfo.waveform.ruler.ticks"/>
+
+<color value="surgeorange" id="lfo.waveform.ruler.ticks.small"/>
+
+<color value="darkorange" id="lfo.waveform.ruler.ticks.extended"/>
+
+<color value="darkergray" id="lfo.waveform.bounds"/>
+
+<color value="darkergray" id="lfo.waveform.center"/>
+
+<color value="darkorange" id="lfo.waveform.envelope"/>
+
+<color value="surgeorange" id="lfo.waveform.wave"/>
+
+<color value="darkorange" id="lfo.waveform.wave.deactivated"/>
+
+<color value="darkorange" id="lfo.waveform.wave.ghosted"/>
+
+<color value="surgeorange" id="lfo.type.selected.background"/>
+
+<color value="surgeorange" id="lfo.type.selected.text"/>
+
+<color value="lightgray" id="lfo.type.unselected.text"/>
+
+<color value="darkorange" id="lfo.stepseq.background"/>
+
+<color value="almostblack" id="lfo.stepseq.column.shadow"/>
+
+<color value="surgeorange" id="lfo.stepseq.step.fill"/>
+
+<color value="darkorange" id="lfo.stepseq.step.fill.disabled"/>
+
+<color value="darkgray" id="lfo.stepseq.step.fill.outside"/>
+
+<color value="black" id="lfo.stepseq.loop.outside.step.primary"/>
+
+<color value="darkestgray" id="lfo.stepseq.loop.outside.step.secondary"/>
+
+<color value="buttonbg" id="lfo.stepseq.loop.step.primary"/>
+
+<color value="darkergray" id="lfo.stepseq.loop.step.secondary"/>
+
+<color value="darkorange" id="lfo.stepseq.loop.markers"/>
+
+<color value="lightgray" id="lfo.stepseq.trigger.click"/>
+
+<color value="lightgray" id="lfo.stepseq.drag.line"/>
+
+<color value="darkorange" id="lfo.stepseq.envelope"/>
+
+<color value="white" id="lfo.stepseq.wave"/>
+
+<color value="darkergray" id="lfo.stepseq.button.background"/>
+
+<color value="buttonbg" id="lfo.stepseq.button.border"/>
+
+<color value="surgeorange" id="lfo.stepseq.button.hover"/>
+
+<color value="lightgray" id="lfo.stepseq.button.arrow"/>
+
+<color value="black" id="lfo.stepseq.button.arrow.hover"/>
+
+<color value="white" id="lfo.stepseq.popup.background"/>
+
+<color value="darkestgray" id="lfo.stepseq.popup.border"/>
+
+<color value="darkestgray" id="lfo.stepseq.popup.text"/>
+
+<color value="red" id="overlay.background"/>
+
+<color value="surgeorange" id="osc.waveform"/>
+
+<color value="white" id="osc.waveform.animated"/>
+
+<color value="white" id="osc.wavename.frame.hover"/>
+
+<color value="black" id="osc.wavename.text.hover"/>
+
+
+
+<color value="bggray" id="dialog.background"/>
+
+<color value="bordergray" id="dialog.border"/>
+
+<color value="bordergray" id="dialog.titlebar.background"/>
+
+<color value="lightergray" id="dialog.titlebar.text"/>
+
+<color value="bggray" id="dialog.button.background"/>
+
+<color value="black" id="dialog.button.border"/>
+
+<color value="lightgray" id="dialog.button.text"/>
+
+<color value="#399DFF" id="dialog.button.hover.background"/>
+
+<color value="black" id="dialog.button.hover.border"/>
+
+<color value="white" id="dialog.button.hover.text"/>
+
+<color value="surgeorange" id="dialog.button.pressed.background"/>
+
+<color value="black" id="dialog.button.pressed.border"/>
+
+<color value="black" id="dialog.button.pressed.text"/>
+
+<color value="black" id="dialog.textfield.focus"/>
+
+<color value="bordergray" id="dialog.textfield.border"/>
+
+<color value="#2E2E2E" id="dialog.textfield.background"/>
+
+<color value="lightgray" id="dialog.textfield.text"/>
+
+<color value="lightgray" id="dialog.label.text"/>
+
+<color value="white" id="dialog.checkbox.background"/>
+
+<color value="lightgray" id="dialog.checkbox.border"/>
+
+<color value="darkergray" id="dialog.checkbox.tick"/>
+
+<color value="gray" id="effect.label.separator"/>
+
+<color value="darkergray" id="effect.label.text"/>
+
+<color value="darkergray" id="effect.label.presetname"/>
+
+<color value="white" id="effect.grid.scene.background"/>
+
+<color value="darkergray" id="effect.grid.scene.border"/>
+
+<color value="black" id="effect.grid.scene.text"/>
+
+<color value="fxhovertrans" id="effect.grid.scene.background.hover"/>
+
+<color value="fxgridgray" id="effect.grid.scene.border.hover"/>
+
+<color value="gray" id="effect.grid.scene.text.hover"/>
+
+<color value="darkgray" id="effect.grid.unselected.background"/>
+
+<color value="darkerorange" id="effect.grid.unselected.border"/>
+
+<color value="lightgray" id="effect.grid.unselected.text"/>
+
+<color value="black" id="effect.grid.unselected.background.hover"/>
+
+<color value="white" id="effect.grid.unselected.border.hover"/>
+
+<color value="surgeorange" id="effect.grid.selected.background"/>
+
+<color value="black" id="effect.grid.selected.border"/>
+
+<color value="black" id="effect.grid.selected.text"/>
+
+<color value="surgeorange" id="effect.grid.selected.background.hover"/>
+
+<color value="black" id="effect.grid.selected.border.hover"/>
+
+<color value="black" id="effect.grid.selected.text.hover"/>
+
+<color value="gray" id="effect.grid.bypassed.background"/>
+
+<color value="gray" id="effect.grid.bypassed.border"/>
+
+<color value="lightgray" id="effect.grid.bypassed.text"/>
+
+<color value="fxhovertrans" id="effect.grid.bypassed.background.hover"/>
+
+<color value="lightgray" id="effect.grid.bypassed.border.hover"/>
+
+<color value="fxbypass" id="effect.grid.bypassed.text.hover"/>
+
+<color value="empty" id="effect.grid.bypassed.selected.background"/>
+
+<color value="surgeorange" id="effect.grid.bypassed.selected.border"/>
+
+<color value="surgeorange" id="effect.grid.bypassed.selected.text"/>
+
+<color value="fxhovertrans" id="effect.grid.bypassed.selected.background.hover"/>
+
+<color value="white" id="effect.grid.bypassed.selected.border.hover"/>
+
+<color value="surgeorange" id="effect.grid.bypassed.selected.text.hover"/>
+
+<color value="white" id="effect.menu.text"/>
+
+<color value="surgeorange" id="effect.menu.value"/>
+
+<color value="darkgray" id="effect.menu.text.hover"/>
+
+<color value="lightgray" id="menu.name"/>
+
+<color value="white" id="menu.name.hover"/>
+
+<color value="gray" id="menu.name.deactivated"/>
+
+<color value="surgeorange" id="menu.value"/>
+
+<color value="black" id="menu.value.hover"/>
+
+<color value="gray" id="menu.value.deactivated"/>
+
+<color value="surgeorange" id="filtermenu.value"/>
+
+<color value="white" id="filtermenu.value.hover"/>
+
+<color value="lightgray" id="patchbrowser.text"/>
+
+<color value="lightergray" id="slider.light.label"/>
+
+<color value="almostblack" id="slider.dark.label"/>
+
+
+
+<color value="surgeorange" id="scene.split_poly.text"/>
+
+<color value="darkergray" id="scene.split_poly.text.hover"/>
+
+<color value="surgeorange" id="scene.pbrange.text"/>
+
+<color value="white" id="scene.pbrange.text.hover"/>
+
+<color value="surgeorange" id="scene.keytrackroot.text"/>
+
+<color value="darkergray" id="scene.keytrackroot.text.hover"/>
+
+<color value="bordergray" id="vumeter.background"/>
+
+<color value="darkergray" id="vumeter.border"/>
+
+<color value="surgeblue" id="vumeter.level.low"/>
+
+<color value="darkergray" id="vumeter.level.low.notch"/>
+
+<color value="surgeorange" id="vumeter.level.mid"/>
+
+<color value="darkergray" id="vumeter.level.mid.notch"/>
+
+<color value="red" id="vumeter.level.high"/>
+
+<color value="darkergray" id="vumeter.level.high.notch"/>
+
+<color value="surgeorange" id="vumeter.level.gr"/>
+
+<color value="darkergray" id="vumeter.level.gr.notch"/>
+
+<color value="#2F1C04" id="modbutton.macro.slider.background"/>
+
+<color value="darkerorange" id="modbutton.macro.slider.border"/>
+
+<color value="white" id="modbutton.macro.slider.currentvalue"/>
+
+<color value="surgeorange" id="modbutton.macro.slider.fill"/>
+
+
+
+<color value="darkerorange" id="modbutton.selected.fill"/>
+
+<color value="surgeorange" id="modbutton.selected.frame"/>
+
+<color value="#f1bb72" id="modbutton.selected.frame.hover"/>
+
+<color value="surgeorange" id="modbutton.selected.text"/>
+
+<color value="lightgray" id="modbutton.selected.text.hover"/>
+
+<color value="white" id="modbutton.selected.text.usedmod.hover"/>
+
+<color value="gray" id="modbutton.selected.used.fill"/>
+
+<color value="lightergray" id="modbutton.selected.used.frame"/>
+
+<color value="white" id="modbutton.selected.used.frame.hover"/>
+
+<color value="white" id="modbutton.selected.used.text"/>
+
+<color value="white" id="modbutton.selected.used.text.hover"/>
+
+<color value="#adff6b" id="modbutton.selected.used.text.usedmod.hover"/>
+
+<color value="darkergray" id="modbutton.unused.fill"/>
+<color value="moregray" id="modbutton.unused.frame"/>
+<color value="lightergray" id="modbutton.unused.frame.hover"/>
+<color value="gray" id="modbutton.unused.text"/>
+<color value="lightergray" id="modbutton.unused.text.hover"/>
+
+<color value="darkgray" id="modbutton.used.fill"/>
+<color value="lightergray" id="modbutton.used.frame"/>
+<color value="gray" id="modbutton.used.frame.hover"/>
+<color value="lightergray" id="modbutton.used.text"/>
+<color value="white" id="modbutton.used.text.hover"/>
+<color value="#adff6b" id="modbutton.used.text.usedmod.hover"/>
+
+
+<image id="TEMPOSYNC_HORIZONTAL_OVERLAY" resource="SVG/bmpTS00153.svg"/>
+
+<image id="TEMPOSYNC_VERTICAL_OVERLAY" resource="SVG/bmpTS00157.svg"/>
+
+<image id="mod-norm-h" resource="SVG/hslider_mod.svg"/>
+
+<image id="mod-ts-h" resource="SVG/hslider_mod_ts.svg"/>
+
+<image id="mod-hover-h" resource="SVG/hslider_mod_hover.svg"/>
+
+<image id="mod-norm-v" resource="SVG/vslider_mod.svg"/>
+
+<image id="mod-ts-v" resource="SVG/vslider_mod_ts.svg"/>
+
+<image id="mod-hover-v" resource="SVG/vslider_mod_hover.svg"/>
+
+<image id="def-norm-h" resource="SVG/hslider_def.svg"/>
+
+<image id="def-ts-h" resource="SVG/hslider_def_ts.svg"/>
+
+<image id="def-hover-h" resource="SVG/hslider_def_hover.svg"/>
+  </globals>
+
+
+
+  <component-classes>
+  </component-classes>
+
+  <controls>
+  </controls>
+</surge-skin>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg76" inkscape:version="1.1 (c68e22c387, 2021-05-23)" sodipodi:docname="hslider_mod_hover.svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="56px" height="48px"
+	 viewBox="0 0 56 48" style="enable-background:new 0 0 56 48;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.2;fill:#EEEEEE;enable-background:new    ;}
+	.st1{fill:#6B6B6B;}
+	.st2{fill:#808080;stroke:#000000;stroke-width:0.3017;}
+	.st3{fill:#FF9300;fill-opacity:0.7765;}
+	.st4{fill:#FFFFFF;stroke:#4D4D4D;stroke-width:0.1588;stroke-opacity:0.828;}
+	.st5{fill:#1F1F1F;}
+	.st6{fill:#7EB94E;stroke:#333333;stroke-width:0.3017;stroke-opacity:0.828;}
+	.st7{fill:#7EB94E;stroke:#333333;stroke-width:0.302;stroke-opacity:0.828;}
+	.st8{fill:#FFFFFF;stroke:#4D4D4D;stroke-width:0.1579;stroke-opacity:0.828;}
+</style>
+<sodipodi:namedview  bordercolor="#666666" borderopacity="1.0" id="namedview78" inkscape:current-layer="svg76" inkscape:cx="26.966007" inkscape:cy="20.522577" inkscape:guide-bbox="true" inkscape:pagecheckerboard="0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-height="1017" inkscape:window-maximized="1" inkscape:window-width="1920" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:zoom="19.71" pagecolor="#ffffff" showgrid="false" showguides="true">
+	<sodipodi:guide  id="guide37283" orientation="1,0" position="39.523085,44.95586"></sodipodi:guide>
+	<sodipodi:guide  id="guide37819" orientation="0,-1" position="18.187117,46.338677"></sodipodi:guide>
+	<sodipodi:guide  id="guide37821" orientation="0,-1" position="17.604197,32.902361"></sodipodi:guide>
+</sodipodi:namedview>
+<g>
+	<path id="path14" class="st0" d="M12.35,31.95h-2c-0.3,0-0.5,0.2-0.5,0.5c0,0.3,0.2,0.5,0.5,0.5h2c0.3,0,0.5-0.2,0.5-0.5
+		C12.85,32.15,12.55,31.95,12.35,31.95z"/>
+	<path id="path16" class="st1" d="M12.55,31.95h-2c-0.3,0-0.5,0.2-0.5,0.5c0,0.3,0.2,0.5,0.5,0.5h2c0.3,0,0.5-0.2,0.5-0.5
+		C13.05,32.15,12.85,31.95,12.55,31.95z"/>
+	<path id="rect846" class="st2" d="M17.95,29.35v6.3c0,0.6-0.5,1.2-1.2,1.2H6.25c-0.6,0-1.2-0.5-1.2-1.2v-6.3c0-0.6,0.5-1.2,1.2-1.2
+		h10.6C17.45,28.15,17.95,28.65,17.95,29.35z"/>
+	<rect id="rect29386" x="5.85" y="29.15" class="st3" width="11.3" height="6.7"/>
+	<rect id="rect33470" x="10.75" y="28.15" class="st4" width="1.6" height="8.7"/>
+</g>
+<g>
+	<path id="path30" class="st0" d="M38.95,31.75v2c0,0.3,0.2,0.5,0.5,0.5s0.5-0.3,0.5-0.5v-2c0-0.3-0.2-0.5-0.5-0.5
+		S38.95,31.45,38.95,31.75z"/>
+	<path id="path32" class="st5" d="M38.95,31.45v2c0,0.3,0.2,0.5,0.5,0.5s0.5-0.2,0.5-0.5v-2c0-0.3-0.2-0.5-0.5-0.5
+		S38.95,31.15,38.95,31.45z"/>
+	<path id="path869" class="st0" d="M40.35,31.95h-2c-0.3,0-0.5,0.2-0.5,0.5c0,0.3,0.2,0.5,0.5,0.5h2c0.3,0,0.5-0.2,0.5-0.5
+		C40.85,32.15,40.65,31.95,40.35,31.95z"/>
+	<path id="path871" class="st1" d="M40.65,31.95h-2c-0.3,0-0.5,0.2-0.5,0.5c0,0.3,0.2,0.5,0.5,0.5h2c0.3,0,0.5-0.2,0.5-0.5
+		C41.15,32.15,40.95,31.95,40.65,31.95z"/>
+	<path id="rect873" class="st6" d="M45.95,29.35v6.3c0,0.6-0.5,1.2-1.2,1.2h-10.5c-0.6,0-1.2-0.5-1.2-1.2v-6.3
+		c0-0.6,0.5-1.2,1.2-1.2h10.6C45.45,28.15,45.95,28.65,45.95,29.35z"/>
+	<rect id="rect879" x="38.75" y="28.15" class="st4" width="1.6" height="8.7"/>
+</g>
+<g>
+	<path id="path22" class="st0" d="M38.95,7.75v2c0,0.3,0.2,0.5,0.5,0.5s0.5-0.3,0.5-0.5v-2c0-0.3-0.2-0.5-0.5-0.5
+		S38.95,7.45,38.95,7.75z"/>
+	<path id="path24" class="st5" d="M38.95,7.45v2c0,0.3,0.2,0.5,0.5,0.5s0.5-0.2,0.5-0.5v-2c0-0.3-0.2-0.5-0.5-0.5
+		S38.95,7.15,38.95,7.45z"/>
+	<path id="path881" class="st0" d="M40.35,8.05h-2c-0.3,0-0.5,0.2-0.5,0.5s0.2,0.5,0.5,0.5h2c0.3,0,0.5-0.2,0.5-0.5
+		S40.55,8.05,40.35,8.05z"/>
+	<path id="path883" class="st1" d="M40.55,8.05h-2c-0.3,0-0.5,0.2-0.5,0.5s0.2,0.5,0.5,0.5h2c0.3,0,0.5-0.2,0.5-0.5
+		S40.85,8.05,40.55,8.05z"/>
+	<path id="path885" class="st0" d="M40.35,7.95h-2c-0.3,0-0.5,0.2-0.5,0.5s0.2,0.5,0.5,0.5h2c0.3,0,0.5-0.2,0.5-0.5
+		S40.55,7.95,40.35,7.95z"/>
+	<path id="path887" class="st1" d="M40.55,7.95h-2c-0.3,0-0.5,0.2-0.5,0.5s0.2,0.5,0.5,0.5h2c0.3,0,0.5-0.2,0.5-0.5
+		S40.85,7.95,40.55,7.95z"/>
+	<path id="rect889" class="st7" d="M45.95,5.35v6.3c0,0.6-0.5,1.2-1.2,1.2h-10.5c-0.6,0-1.2-0.5-1.2-1.2v-6.3c0-0.6,0.5-1.2,1.2-1.2
+		h10.6C45.45,4.15,45.95,4.65,45.95,5.35z"/>
+	<rect id="rect895" x="38.75" y="4.15" class="st8" width="1.6" height="8.7"/>
+</g>
+<g>
+	<path id="path14_1_" class="st0" d="M12.35,7.95h-2c-0.3,0-0.5,0.2-0.5,0.5s0.2,0.5,0.5,0.5h2c0.3,0,0.5-0.2,0.5-0.5
+		S12.55,7.95,12.35,7.95z"/>
+	<path id="path16_1_" class="st1" d="M12.55,7.95h-2c-0.3,0-0.5,0.2-0.5,0.5s0.2,0.5,0.5,0.5h2c0.3,0,0.5-0.2,0.5-0.5
+		S12.85,7.95,12.55,7.95z"/>
+	<path id="rect846_1_" class="st2" d="M17.95,5.35v6.3c0,0.6-0.5,1.2-1.2,1.2H6.25c-0.6,0-1.2-0.5-1.2-1.2v-6.3
+		c0-0.6,0.5-1.2,1.2-1.2h10.6C17.45,4.15,17.95,4.65,17.95,5.35z"/>
+	<rect id="rect29386_1_" x="5.85" y="5.15" class="st3" width="11.3" height="6.7"/>
+	<rect id="rect33470_1_" x="10.75" y="4.15" class="st4" width="1.6" height="8.7"/>
+</g>
+</svg>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" baseProfile="basic" id="Layer_1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="49px" height="18px"
+	 viewBox="0 0 49 18" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);}
+	.st1{fill:#399DFF;}
+	.st2{fill:none;stroke:#399DFF;}
+	.st3{fill:#FFFFFF;}
+</style>
+<g>
+	<defs>
+		<rect id="SVGID_1_" width="49" height="18"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g id="hover00119" class="st0">
+		<path id="Rectangle" class="st1" d="M0.5,4V3c0-0.3,0.1-0.5,0.3-0.7S1.2,2,1.5,2h46c0.3,0,0.5,0.1,0.7,0.3s0.3,0.4,0.3,0.7v9
+			c0,0.3-0.1,0.5-0.3,0.7S47.8,13,47.5,13h-46c-0.3,0-0.5-0.1-0.7-0.3S0.5,12.3,0.5,12V4z"/>
+		<path id="Rectangle_1_" class="st2" d="M0.5,4V3c0-0.3,0.1-0.5,0.3-0.7S1.2,2,1.5,2h46c0.3,0,0.5,0.1,0.7,0.3s0.3,0.4,0.3,0.7v9
+			c0,0.3-0.1,0.5-0.3,0.7S47.8,13,47.5,13h-46c-0.3,0-0.5-0.1-0.7-0.3S0.5,12.3,0.5,12V4z"/>
+		<path id="Shape" class="st3" d="M45.5,10L43,7h5L45.5,10L45.5,10z"/>
+	</g>
+</g>
+</svg>

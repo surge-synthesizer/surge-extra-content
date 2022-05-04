@@ -1,0 +1,427 @@
+<surge-skin name="Modern Dark Blue" author="RovingEye" version="2">
+<globals>
+    <defaultimage directory="SVG/"/>
+    <image id="TEMPOSYNC_HORIZONTAL_OVERLAY" resource="SVG/bmpTS00153.svg"/>
+    <image id="TEMPOSYNC_VERTICAL_OVERLAY" resource="SVG/bmpTS00157.svg"/>
+    <image id="mod-norm-h" resource="SVG/hslider_mod.svg"/>
+    <image id="mod-ts-h" resource="SVG/hslider_mod_ts.svg"/>
+    <image id="mod-hover-h" resource="SVG/hslider_mod_hover.svg"/>
+    <image id="mod-norm-v" resource="SVG/vslider_mod.svg"/>
+    <image id="mod-ts-v" resource="SVG/vslider_mod_ts.svg"/>
+    <image id="mod-hover-v" resource="SVG/vslider_mod_hover.svg"/>
+    <image id="def-norm-h" resource="SVG/hslider_def.svg"/>
+    <image id="def-ts-h" resource="SVG/hslider_def_ts.svg"/>
+    <image id="def-hover-h" resource="SVG/hslider_def_hover.svg"/>
+    <color id="black" value="#000000"/>
+    <color id="white" value="#ffffff"/>
+    <color id="white2" value="#DBDBDB"/>
+    <color id="grey" value="#383838"/>
+    <color id="greydots" value="#515151"/>
+    <color id="grey2" value="#171717"/>
+    <color id="grey3" value="#CDCED4"/>
+    <color id="grey4" value="#242424"/>
+    <color id="grey5" value="#202020"/>
+    <color id="grey6" value="#6C6C6C"/>
+    <color id="error" value="#BC0000"/>
+    <color id="blue" value="#369EB3"/>
+    <color id="blue2" value="#369EB380"/>
+    <color id="blue3" value="#369EB326"/>
+    <color id="about.page.column.text" value="white2"/>
+    <color id="about.page.hover.link" value="white2"/>
+    <color id="about.page.link" value="blue"/>
+    <color id="about.page.text" value="white2"/>
+    <color id="dialog.background" value="#111111"/>
+    <color id="dialog.border" value="greydots"/>
+    <color id="dialog.button.background" value="blue"/>
+    <color id="dialog.button.border" value="blue"/>
+    <color id="dialog.button.hover.background" value="white2"/>
+    <color id="dialog.button.hover.border" value="white2"/>
+    <color id="dialog.button.hover.text" value="black"/>
+    <color id="dialog.button.pressed.background" value="black"/>
+    <color id="dialog.button.pressed.border" value="black"/>
+    <color id="dialog.button.pressed.text" value="blue"/>
+    <color id="dialog.button.text" value="black"/>
+    <color id="dialog.checkbox.background" value="#111111"/>
+    <color id="dialog.checkbox.border" value="white2"/>
+    <color id="dialog.checkbox.tick" value="blue"/>
+    <color id="dialog.label.text" value="white2"/>
+    <color id="dialog.label.text.error" value="error"/>
+    <color id="dialog.textfield.background" value="#202020"/>
+    <color id="dialog.textfield.border" value="greydots"/>
+    <color id="dialog.textfield.caret" value="blue"/>
+    <color id="dialog.textfield.focus" value="#E4E4E440"/>
+    <color id="dialog.textfield.text" value="white2"/>
+    <color id="dialog.titlebar.background" value="#000000"/>
+    <color id="dialog.titlebar.text" value="blue"/>
+    <color id="editor.overlay.background" value="#000000C0"/>
+    <color id="effect.grid.border" value="#B4B4B480"/>
+    <color id="effect.grid.bypassed.background" value="black"/>
+    <color id="effect.grid.bypassed.background.hover" value="black"/>
+    <color id="effect.grid.bypassed.border" value="black"/>
+    <color id="effect.grid.bypassed.border.hover" value="white2"/>
+    <color id="effect.grid.bypassed.selected.background" value="black"/>
+    <color id="effect.grid.bypassed.selected.background.hover" value="black"/>
+    <color id="effect.grid.bypassed.selected.border" value="blue"/>
+    <color id="effect.grid.bypassed.selected.border.hover" value="white2"/>
+    <color id="effect.grid.bypassed.selected.text" value="white2"/>
+    <color id="effect.grid.bypassed.selected.text.hover" value="white2"/>
+    <color id="effect.grid.bypassed.text" value="white2"/>
+    <color id="effect.grid.bypassed.text.hover" value="white2"/>
+    <color id="effect.grid.scene.background" value="blue"/>
+    <color id="effect.grid.scene.background.hover" value="blue"/>
+    <color id="effect.grid.scene.border" value="blue"/>
+    <color id="effect.grid.scene.border.hover" value="white2"/>
+    <color id="effect.grid.scene.text" value="black"/>
+    <color id="effect.grid.scene.text.hover" value="black"/>
+    <color id="effect.grid.selected.background" value="grey5"/>
+    <color id="effect.grid.selected.background.hover" value="grey5"/>
+    <color id="effect.grid.selected.border" value="blue"/>
+    <color id="effect.grid.selected.border.hover" value="white2"/>
+    <color id="effect.grid.selected.text" value="blue"/>
+    <color id="effect.grid.selected.text.hover" value="blue"/>
+    <color id="effect.grid.unselected.background" value="grey5"/>
+    <color id="effect.grid.unselected.background.hover" value="grey5"/>
+    <color id="effect.grid.unselected.border" value="#B4B4B480"/>
+    <color id="effect.grid.unselected.border.hover" value="white2"/>
+    <color id="effect.grid.unselected.text" value="white2"/>
+    <color id="effect.grid.unselected.text.hover" value="white2"/>
+    <color id="effect.label.presetname" value="white2"/>
+    <color id="effect.label.separator" value="#484848"/>
+    <color id="effect.label.text" value="white2"/>
+    <color id="effect.menu.text" value="white2"/>
+    <color id="effect.menu.text.hover" value="white2"/>
+    <color id="filtermenu.value" value="white2"/>
+    <color id="filtermenu.value.hover" value="white2"/>
+    <color id="formulaeditor.background" value="grey5"/>
+    <color id="formulaeditor.debugger.row.primary" value="grey5"/>
+    <color id="formulaeditor.debugger.row.secondary" value="#3D3D3D"/>
+    <color id="formulaeditor.debugger.text" value="white2"/>
+    <color id="formulaeditor.debugger.text.subscriptions" value="blue"/>
+    <color id="formulaeditor.highlight" value="#E4E4E440"/>
+    <color id="formulaeditor.linenumber.background" value="grey5"/>
+    <color id="formulaeditor.linenumber.text" value="white2"/>
+    <color id="formulaeditor.lua.bracket" value="blue"/>
+    <color id="formulaeditor.lua.comment" value="grey6"/>
+    <color id="formulaeditor.lua.error" value="error"/>
+    <color id="formulaeditor.lua.identifier" value="blue2"/>
+    <color id="formulaeditor.lua.interpunction" value="white"/>
+    <color id="formulaeditor.lua.keyword" value="blue"/>
+    <color id="formulaeditor.lua.number" value="white"/>
+    <color id="formulaeditor.lua.string" value="white2"/>
+    <color id="formulaeditor.text" value="white2"/>
+    <color id="infowindow.background" value="#101010"/>
+    <color id="infowindow.border" value="#101010"/>
+    <color id="infowindow.text" value="#6EC4D3"/>
+    <color id="infowindow.text.modulation.negative" value="black"/>
+    <color id="infowindow.text.modulation.positive" value="black"/>
+    <color id="infowindow.text.modulation.value.negative" value="black"/>
+    <color id="infowindow.text.modulation.value.positive" value="black"/>
+    <color id="lfo.stepseq.background" value="#FFFFFF00"/>
+    <color id="lfo.stepseq.button.arrow" value="white2"/>
+    <color id="lfo.stepseq.button.arrow.hover" value="black"/>
+    <color id="lfo.stepseq.button.background" value="#242424"/>
+    <color id="lfo.stepseq.button.border" value="black"/>
+    <color id="lfo.stepseq.button.hover" value="blue"/>
+    <color id="lfo.stepseq.column.shadow" value="black"/>
+    <color id="lfo.stepseq.drag.line" value="grey"/>
+    <color id="lfo.stepseq.envelope" value="greydots"/>
+    <color id="lfo.stepseq.loop.markers" value="blue"/>
+    <color id="lfo.stepseq.loop.outside.step.primary" value="grey"/>
+    <color id="lfo.stepseq.loop.outside.step.secondary" value="#2F2F2F"/>
+    <color id="lfo.stepseq.loop.step.primary" value="grey"/>
+    <color id="lfo.stepseq.loop.step.secondary" value="#2F2F2F"/>
+    <color id="lfo.stepseq.popup.background" value="blue"/>
+    <color id="lfo.stepseq.popup.border" value="black"/>
+    <color id="lfo.stepseq.popup.text" value="black"/>
+    <color id="lfo.stepseq.step.fill.deactivated" value="#101010"/>
+    <color id="lfo.stepseq.step.fill.outside" value="#101010"/>
+    <color id="lfo.stepseq.step.fill" value="white2"/>
+    <color id="lfo.stepseq.trigger.click" value="blue"/>
+    <color id="lfo.stepseq.wave" value="blue"/>
+    <color id="lfo.title.text" value="white2"/>
+    <color id="lfo.type.selected.background" value="black"/>
+    <color id="lfo.type.selected.text" value="white2"/>
+    <color id="lfo.type.unselected.text" value="white2"/>
+    <color id="lfo.waveform.background" value="#00000059"/>
+    <color id="lfo.waveform.bounds" value="blue3"/>
+    <color id="lfo.waveform.center" value="blue3"/>
+    <color id="lfo.waveform.dots" value="blue3"/>
+    <color id="lfo.waveform.envelope" value="greydots"/>
+    <color id="lfo.waveform.ruler.text" value="white2"/>
+    <color id="lfo.waveform.ruler.ticks.extended" value="white2"/>
+    <color id="lfo.waveform.ruler.ticks.small" value="white2"/>
+    <color id="lfo.waveform.ruler.ticks" value="white2"/>
+    <color id="lfo.waveform.wave" value="blue"/>
+    <color id="lfo.waveform.wave.deactivated" value="#FFFFFF80"/>
+    <color id="lfo.waveform.wave.ghosted" value="#FFFFFF80"/>
+    <color id="menu.name" value="white2"/>
+    <color id="menu.name.deactivated" value="#565656"/>
+    <color id="menu.name.hover" value="white2"/>
+    <color id="menu.value" value="white2"/>
+    <color id="menu.value.deactivated" value="#565656"/>
+    <color id="menu.value.hover" value="white2"/>
+    <color id="modbutton.armed.fill" value="blue"/>
+    <color id="modbutton.armed.frame" value="grey"/>
+    <color id="modbutton.armed.frame.hover" value="white2"/>
+    <color id="modbutton.armed.text" value="black"/>
+    <color id="modbutton.armed.text.hover" value="black"/>
+    <color id="modbutton.armed.text.usedmod.hover" value="black"/>
+    <color id="modbutton.macro.slider.background" value="#484848"/>
+    <color id="modbutton.macro.slider.border" value="grey5"/>
+    <color id="modbutton.macro.slider.currentvalue" value="white2"/>
+    <color id="modbutton.macro.slider.fill" value="blue"/>
+    <color id="modbutton.selected.fill" value="grey5"/>
+    <color id="modbutton.selected.frame" value="white2"/>
+    <color id="modbutton.selected.frame.hover" value="white2"/>
+    <color id="modbutton.selected.text" value="white2"/>
+    <color id="modbutton.selected.text.hover" value="white2"/>
+    <color id="modbutton.selected.text.usedmod.hover" value="white2"/>
+    <color id="modbutton.selected.used.fill" value="grey5"/>
+    <color id="modbutton.selected.used.frame" value="white2"/>
+    <color id="modbutton.selected.used.frame.hover" value="white2"/>
+    <color id="modbutton.selected.used.text" value="blue"/>
+    <color id="modbutton.selected.used.text.hover" value="blue"/>
+    <color id="modbutton.selected.used.text.usedmod.hover" value="blue"/>
+    <color id="modbutton.unused.fill" value="grey5"/>
+    <color id="modbutton.unused.frame" value="#B4B4B480"/>
+    <color id="modbutton.unused.frame.hover" value="white2"/>
+    <color id="modbutton.unused.text" value="white2"/>
+    <color id="modbutton.unused.text.hover" value="white2"/>
+    <color id="modbutton.used.fill" value="grey5"/>
+    <color id="modbutton.used.frame" value="blue"/>
+    <color id="modbutton.used.frame.hover" value="white2"/>
+    <color id="modbutton.used.text" value="blue"/>
+    <color id="modbutton.used.text.hover" value="blue"/>
+    <color id="modbutton.used.text.usedmod.hover" value="blue"/>
+    <color id="modlist.arrows" value="blue"/>
+    <color id="modlist.border" value="white2"/>
+    <color id="modlist.text" value="white2"/>
+    <color id="modlist.text.dimmed" value="grey6"/>
+    <color id="msegeditor.axis.line" value="#FFFFFF40"/>
+    <color id="msegeditor.axis.text" value="white2"/>
+    <color id="msegeditor.axis.text.secondary" value="white2"/>
+    <color id="msegeditor.background" value="grey5"/>
+    <color id="msegeditor.curve" value="blue"/>
+    <color id="msegeditor.curve.deformed" value="#FFFFFF40"/>
+    <color id="msegeditor.curve.highlight" value="white2"/>
+    <color id="msegeditor.fill.gradient.end" value="black"/>
+    <color id="msegeditor.fill.gradient.start" value="#369EB326"/>
+    <color id="msegeditor.grid.primary" value="#FFFFFF40"/>
+    <color id="msegeditor.grid.secondary.horizontal" value="#FFFFFF33"/>
+    <color id="msegeditor.grid.secondary.vertical" value="#FFFFFF33"/>
+    <color id="msegeditor.loop.marker" value="#FFFFFF4C"/>
+    <color id="msegeditor.loop.region.axis" value="#FFFFFF33"/>
+    <color id="msegeditor.loop.region.border" value="blue"/>
+    <color id="msegeditor.loop.region.fill" value="black"/>
+    <color id="msegeditor.numberfield.text" value="black"/>
+    <color id="msegeditor.numberfield.text.hover" value="black"/>
+    <color id="msegeditor.panel" value="#369EB319"/>
+    <color id="msegeditor.panel.text" value="white2"/>
+    <color id="multiswitch.background" value="#242424"/>
+    <color id="multiswitch.border" value="#242424"/>
+    <color id="multiswitch.hover.fill" value="white2"/>
+    <color id="multiswitch.hover.text" value="black"/>
+    <color id="multiswitch.hoveron.border" value="white2"/>
+    <color id="multiswitch.hoveron.fill" value="white2"/>
+    <color id="multiswitch.hoveron.text" value="black"/>
+    <color id="multiswitch.on.fill" value="blue"/>
+    <color id="multiswitch.on.text" value="black"/>
+    <color id="multiswitch.separator" value="#4A4A4A"/>
+    <color id="multiswitch.text" value="white2"/>
+    <color id="multiswitch.text.deactivated" value="#565656"/>
+    <color id="multiswitch.unpressed.highlight" value="#4A4A4A"/>
+    <color id="numberfield.text" value="black"/>
+    <color id="numberfield.text.hover" value="black"/>
+    <color id="osc.line.bounds" value="blue3"/>
+    <color id="osc.line.center" value="blue3"/>
+    <color id="osc.type.text" value="blue"/>
+    <color id="osc.type.text.hover" value="blue"/>
+    <color id="osc.waveform" value="blue"/>
+    <color id="osc.waveform.animated" value="blue"/>
+    <color id="osc.waveform.dots" value="blue3"/>
+    <color id="osc.waveform3d.current" value="blue"/>
+    <color id="osc.waveform3d.fill.gradient.end" value="#00000032"/>
+    <color id="osc.waveform3d.fill.gradient.start" value="#369EB332"/>
+    <color id="osc.waveform3d.gradient.end" value="black"/>
+    <color id="osc.waveform3d.gradient.start" value="#369EB3"/>
+    <color id="osc.wavename.background" value="blue"/>
+    <color id="osc.wavename.background.hover" value="#7cb6c2"/>
+    <color id="osc.wavename.frame" value="blue"/>
+    <color id="osc.wavename.frame.hover" value="#7cb6c2"/>
+    <color id="osc.wavename.text" value="black"/>
+    <color id="osc.wavename.text.hover" value="black"/>
+    <color id="patchbrowser.text" value="white2"/>
+    <color id="patchbrowser.text.hover" value="blue"/>
+    <color id="patchbrowser.tooltip.background" value="#101010"/>
+    <color id="patchbrowser.tooltip.border" value="#101010"/>
+    <color id="patchbrowser.tooltip.text" value="blue"/>
+    <color id="patchbrowser.typeahead.background" value="#000000C0"/>
+    <color id="patchbrowser.typeahead.background.highlight" value="#E4E4E440"/>
+    <color id="patchbrowser.typeahead.border" value="black"/>
+    <color id="patchbrowser.typeahead.separator" value="grey"/>
+    <color id="patchbrowser.typeahead.subtext" value="white2"/>
+    <color id="patchbrowser.typeahead.subtext.highlight" value="blue"/>
+    <color id="patchbrowser.typeahead.text" value="white2"/>
+    <color id="patchbrowser.typeahead.text.highlight" value="blue"/>
+    <color id="popupmenu.background" value="#111111"/>
+    <color id="popupmenu.background.highlight" value="#E4E4E440"/>
+    <color id="popupmenu.text" value="white2"/>
+    <color id="popupmenu.text.header" value="blue"/>
+    <color id="popupmenu.text.highlight" value="white2"/>
+    <color id="scene.keytrackroot.text" value="black"/>
+    <color id="scene.keytrackroot.text.hover" value="black"/>
+    <color id="scene.pbrange.text" value="black"/>
+    <color id="scene.pbrange.text.hover" value="black"/>
+    <color id="scene.split_poly.text" value="black"/>
+    <color id="scene.split_poly.text.hover" value="black"/>
+    <color id="slider.dark.label" value="white2"/>
+    <color id="slider.light.label" value="white2"/>
+    <color id="slider.modulation.negative" value="white"/>
+    <color id="slider.modulation.positive" value="white"/>
+    <!--
+    <color id="tabbar.active.background" value=""/>
+    <color id="tabbar.border" value=""/>
+    <color id="tabbar.inactive.background" value=""/>
+    <color id="tabbar.text" value=""/>
+    <color id="tabbar.text.hover" value=""/>
+    -->
+    <color id="tuningeditor.interval.background" value="black"/>
+    <color id="tuningeditor.interval.heatmap.negative.far" value="#a4a4a4"/>
+    <color id="tuningeditor.interval.heatmap.negative.near" value="#777777"/>
+    <color id="tuningeditor.interval.heatmap.positive.far" value="blue"/>
+    <color id="tuningeditor.interval.heatmap.positive.near" value="#777777"/>
+    <color id="tuningeditor.interval.heatmap.zero" value="#888888"/>
+    <color id="tuningeditor.interval.notelabel.background" value="#333333"/>
+    <color id="tuningeditor.interval.notelabel.background.played" value="blue"/>
+    <color id="tuningeditor.interval.notelabel.foreground" value="white2"/>
+    <color id="tuningeditor.interval.notelabel.foreground.hover" value="white"/>
+    <color id="tuningeditor.interval.notelabel.foreground.hover.played" value="blue"/>
+    <color id="tuningeditor.interval.notelabel.foreground.played" value="blue"/>
+    <color id="tuningeditor.interval.skipped" value="#101010"/>
+    <color id="tuningeditor.interval.text" value="black"/>
+    <color id="tuningeditor.interval.text.hover" value="white"/>
+    <color id="tuningeditor.keyboard.key.black" value="black"/>
+    <color id="tuningeditor.keyboard.key.pressed" value="blue"/>
+    <color id="tuningeditor.keyboard.key.white" value="#333333"/>
+    <color id="tuningeditor.keyboard.separator" value="black"/>
+    <color id="tuningeditor.keyboard.text" value="white2"/>
+    <color id="tuningeditor.keyboard.text.pressed" value="white2"/>
+    <color id="tuningeditor.radial.background" value="black"/>
+    <color id="tuningeditor.radial.knob.border" value="white2"/>
+    <color id="tuningeditor.radial.knob.fill" value="black"/>
+    <color id="tuningeditor.radial.knob.fill.hover" value="white"/>
+    <color id="tuningeditor.radial.knob.played" value="blue"/>
+    <color id="tuningeditor.radial.knob.thumb" value="white2"/>
+    <color id="tuningeditor.radial.tonelabel" value="white2"/>
+    <color id="tuningeditor.radial.tonelabel.background" value="black"/>
+    <color id="tuningeditor.radial.tonelabel.background.played" value="blue"/>
+    <color id="tuningeditor.radial.tonelabel.border" value="greydots"/>
+    <color id="tuningeditor.radial.tonelabel.border.played" value="blue"/>
+    <color id="tuningeditor.radial.tonelabel.played" value="blue"/>
+    <color id="tuningeditor.radial.tonelabel.text" value="white2"/>
+    <color id="tuningeditor.radial.tonelabel.text.played" value="black"/>
+    <color id="tuningeditor.scala.background" value="black"/>
+    <color id="tuningeditor.scala.border" value="greydots"/>
+    <color id="tuningeditor.scala.cents" value="#83DBED"/>
+    <color id="tuningeditor.scala.comment" value="#888888"/>
+    <color id="tuningeditor.scala.played" value="blue"/>
+    <color id="tuningeditor.scala.ratio" value="blue"/>
+    <color id="tuningeditor.scala.text" value="white2"/>
+    <color id="vkb.key.black" value="black"/>
+    <color id="vkb.key.mouse_over" value="blue"/>
+    <color id="vkb.key.pressed" value="blue"/>
+    <color id="vkb.key.separator" value="black"/>
+    <color id="vkb.key.white" value="white"/>
+    <color id="vkb.octave.arrow" value="blue"/>
+    <color id="vkb.octave.background" value="#111111"/>
+    <color id="vkb.shadow" value="black"/>
+    <color id="vkb.text" value="black"/>
+    <color id="vkb.wheel.background" value="black"/>
+    <color id="vkb.wheel.border" value="greydots"/>
+    <color id="vkb.wheel.value" value="blue"/>
+    <color id="vumeter.background" value="black"/>
+    <color id="vumeter.border" value="#FFFFFF00"/>
+    <color id="vumeter.unavailabletext" value="error"/>
+    <color id="waveshaper.preview.background" value="grey5"/>
+    <color id="waveshaper.preview.border" value="blue3"/>
+    <color id="waveshaper.preview.text" value="white2"/>
+    <color id="waveshaper.text" value="blue"/>
+    <color id="waveshaper.text.hover" value="white2"/>
+    <color id="waveshaper.waveform" value="blue"/>
+    <color id="waveshaper.waveform.dots" value="blue3"/>
+    <color id="waveshaper.waveform.hover" value="white2"/>
+</globals>
+<component-classes>
+    <class name="mod-hslider" parent="Slider" handle_image="mod-norm-h" handle_hover_image="mod-hover-h" handle_temposync_image="mod-ts-h"/>
+    <class name="mod-vslider" parent="Slider" handle_image="mod-norm-v" handle_hover_image="mod-hover-v" handle_temposync_image="mod-ts-v"/>
+    <class name="def-hslider" parent="Slider" handle_image="def-norm-h" handle_hover_image="def-hover-h" handle_temposync_image="def-ts-h"/>
+</component-classes>
+<controls>
+    <!-- Global & Scene -->
+    <control ui_identifier="controls.surge_menu" x="860"/>
+    <!-- Bend Depth & Play Mode -->
+    <control ui_identifier="scene.pbrange_dn" x="157"/>
+    <control ui_identifier="scene.pbrange_up" x="188"/>
+    <!-- Mixer -->
+    <control ui_identifier="mixer.mute_o1" x="0" y="1"/>
+    <control ui_identifier="mixer.mute_o2" x="20" y="1"/>
+    <control ui_identifier="mixer.mute_o3" x="40" y="1"/>
+    <control ui_identifier="mixer.mute_ring12" x="60" y="1"/>
+    <control ui_identifier="mixer.mute_ring23" x="80" y="1"/>
+    <control ui_identifier="mixer.mute_noise" x="100" y="1"/>
+    <control ui_identifier="mixer.solo_o1" x="0" y="12"/>
+    <control ui_identifier="mixer.solo_o2" x="20" y="12"/>
+    <control ui_identifier="mixer.solo_o3" x="40" y="12"/>
+    <control ui_identifier="mixer.solo_ring12" x="60" y="12"/>
+    <control ui_identifier="mixer.solo_ring23" x="80" y="12"/>
+    <control ui_identifier="mixer.solo_noise" x="100" y="12"/>
+    <control ui_identifier="mixer.route_o1" x="0" y="23"/>
+    <control ui_identifier="mixer.route_o2" x="20" y="23"/>
+    <control ui_identifier="mixer.route_o3" x="40" y="23"/>
+    <control ui_identifier="mixer.route_ring12" x="60" y="23"/>
+    <control ui_identifier="mixer.route_ring23" x="80" y="23"/>
+    <control ui_identifier="mixer.route_noise" x="100" y="23"/>
+    <!-- Filter -->
+    <control ui_identifier="filter.type_1" x="305" y="191"/>
+    <control ui_identifier="filter.subtype_1" x="432" y="194"/>
+    <control ui_identifier="filter.type_2" x="605" y="191"/>
+    <control ui_identifier="filter.subtype_2" x="732" y="194"/>
+    <control ui_identifier="filter.envmod_1" x="551" y="301"/>
+    <control ui_identifier="filter.envmod_2" x="571" y="301"/>
+    <!-- Keytrack & Waveshaper -->
+    <control ui_identifier="scene.keytrack_root" x="310" y="265"/>
+    <control ui_identifier="filter.keytrack_1" y="301"/>
+    <control ui_identifier="filter.keytrack_2" y="301"/>
+    <control ui_identifier="filter.highpass" y="301"/>
+    <!-- FEG -->
+    <control ui_identifier="feg.attack" x="-3" y="35"/>
+    <control ui_identifier="feg.decay" x="17" y="35"/>
+    <control ui_identifier="feg.sustain" x="37" y="35"/>
+    <control ui_identifier="feg.release" x="57" y="35"/>
+    <!-- AEG -->
+    <control ui_identifier="aeg.attack" x="-3" y="35"/>
+    <control ui_identifier="aeg.decay" x="17" y="35"/>
+    <control ui_identifier="aeg.sustain" x="37" y="35"/>
+    <control ui_identifier="aeg.release" x="57" y="35"/>
+    <!-- Modulation Panel -->
+    <control ui_identifier="controls.modulation.panel" x="2" y="401"/>
+    <!-- LFO -->
+    <control ui_identifier="lfo.rate" class="mod-hslider"/>
+    <control ui_identifier="lfo.phase" class="mod-hslider"/>
+    <control ui_identifier="lfo.deform" class="mod-hslider"/>
+    <control ui_identifier="lfo.amplitude" class="mod-hslider"/>
+    <control ui_identifier="lfo.delay" class="mod-vslider"/>
+    <control ui_identifier="lfo.attack" class="mod-vslider"/>
+    <control ui_identifier="lfo.hold" class="mod-vslider"/>
+    <control ui_identifier="lfo.decay" class="mod-vslider"/>
+    <control ui_identifier="lfo.sustain" class="mod-vslider"/>
+    <control ui_identifier="lfo.release" class="mod-vslider"/>
+    <control ui_identifier="lfo.main.panel" y="477"/>
+    <control ui_identifier="lfo.envelope.panel" x="614" y="492"/>
+    <control ui_identifier="lfo.presets" y="482"/>
+    <!-- FX Section -->
+    <control ui_identifier="fx.selector" y="77"/>
+    <control ui_identifier="fx.preset.prevnext" y="213"/>
+    <control ui_identifier="fx.preset.name" y="213"/>
+  </controls>
+</surge-skin>
