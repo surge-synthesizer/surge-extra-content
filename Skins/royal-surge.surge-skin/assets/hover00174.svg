@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="36px" height="14px" viewBox="0 0 36 14" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <rect width="36" height="14" id="artboard_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#artboard_1" clip-rule="evenodd" />
+    </clipPath>
+  </defs>
+  <g id="hover00174" clip-path="url(#clip_1)">
+    <path d="M33.55 12.5L33.55 12L2.5 12C1.67157 12 1 11.3284 1 10.5L1 3.45C1 2.62157 1.67157 1.95 2.5 1.95L33.55 1.95L33.55 1.4L33.55 1.95C34.3784 1.95 35.05 2.62157 35.05 3.45L35.05 10.5C35.05 11.3284 34.3784 12 33.55 12L33.55 12.5L33.55 12.5Z" id="path55-Difference" fill="#FFFFFF" fill-opacity="0.4" fill-rule="evenodd" stroke="none" />
+  </g>
+</svg>
