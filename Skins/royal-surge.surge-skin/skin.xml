@@ -54,6 +54,7 @@
     <color id="slidertext" value="#C2B3AE"/>
     <color id="textfield" value="#544C4B"/>
     <color id="waveform" value="#E1C192"/>
+    <color id="waveformghost" value="#E1C19280"/>
     <color id="widgettext" value="#D6C6C1"/>
     <color id="windowback" value="#383436"/>
     <color id="fxhovertrans" value="#D7C0AF40"/>
@@ -278,7 +279,7 @@
     <color id="lfo.waveform.envelope" value="lfodisplay"/>
     <color id="lfo.waveform.wave" value="waveform"/>
     <color id="lfo.waveform.wave.deactivated" value="lfodisplay"/>
-    <color id="lfo.waveform.wave.ghosted" value="#E1C19260"/>
+    <color id="lfo.waveform.wave.ghosted" value="waveformghost"/>
 
     <color id="lfo.waveform.ruler.text" value="waveform"/>
     <color id="lfo.waveform.ruler.ticks" value="lfodisplay"/>
@@ -317,7 +318,7 @@
     <color id="msegeditor.numberfield.text.hover" value="menutext"/>
     <color id="msegeditor.axis.line" value="oscdisplay"/>
     <color id="msegeditor.axis.text" value="waveform"/>
-    <color id="msegeditor.axis.text.secondary" value="waveform"/>
+    <color id="msegeditor.axis.text.secondary" value="waveformghost"/>
     <color id="msegeditor.curve" value="waveform"/>
     <color id="msegeditor.curve.highlight" value="active"/>
     <color id="msegeditor.grid.primary" value="oscdisplay"/>
