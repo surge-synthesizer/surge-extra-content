@@ -1,6 +1,12 @@
 name: Skin Library
 
-on: [push]
+on:
+  push:
+    paths:
+      - 'Skins/**'
+  pull_request:
+    paths:
+      - 'Skins/**'
 
 permissions:
   contents: write
