@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="35px"
+   height="11px"
+   viewbox="0 0 35 11"
+   version="1.1"
+   id="svg4041"
+   sodipodi:docname="hover00164.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata4045">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#3f3f3f"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="3753"
+     inkscape:window-height="2137"
+     id="namedview4043"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     inkscape:zoom="30.142857"
+     inkscape:cx="27.638094"
+     inkscape:cy="5.5"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4041" />
+  <defs
+     id="defs4014">
+    <path
+       d="M0 0L7 0L7 8L0 8L0 0Z"
+       id="path_1" />
+    <rect
+       width="35"
+       height="11"
+       id="artboard_1" />
+    <clipPath
+       id="clip_1">
+      <use
+         xlink:href="#artboard_1"
+         clip-rule="evenodd"
+         id="use4008" />
+    </clipPath>
+    <clipPath
+       id="mask_1">
+      <use
+         xlink:href="#path_1"
+         id="use4011" />
+    </clipPath>
+  </defs>
+  <path
+     d="m 0.5,2.5000166 v -1 C 0.5,1.2238746 0.5976311,0.98817163 0.792893,0.79290963 0.988155,0.59764773 1.223858,0.50001663 1.5,0.50001663 h 32 c 0.2761,0 0.5118,0.0976311 0.7071,0.292893 C 34.4024,0.98817163 34.5,1.2238746 34.5,1.5000166 v 8 c 0,0.27614 -0.0976,0.5118404 -0.2929,0.7071104 -0.1953,0.19526 -0.431,0.29289 -0.7071,0.29289 h -32 c -0.276142,0 -0.511845,-0.09763 -0.707107,-0.29289 C 0.5976311,10.011857 0.5,9.7761566 0.5,9.5000166 Z"
+     id="Rectangle"
+     stroke="none"
+     style="fill:#ffffff;fill-opacity:1;opacity:0.14" />
+  <path
+     d="m 0.5,2.5000166 v -1 C 0.5,1.2238746 0.5976311,0.9881716 0.792893,0.7929096 0.988155,0.5976477 1.223858,0.5000166 1.5,0.5000166 h 32 c 0.2761,0 0.5118,0.0976311 0.7071,0.292893 0.1953,0.195262 0.2929,0.430965 0.2929,0.707107 v 8 c 0,0.27614 -0.0976,0.5118404 -0.2929,0.7071104 -0.1953,0.19526 -0.431,0.29289 -0.7071,0.29289 h -32 c -0.276142,0 -0.511845,-0.09763 -0.707107,-0.29289 C 0.5976311,10.011857 0.5,9.7761566 0.5,9.5000166 Z"
+     id="path4023"
+     fill="#ffffff"
+     fill-opacity="0"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 1.5,1.5000167 h 7 v 8 h -7 z"
+     id="path4031"
+     fill="none"
+     fill-rule="evenodd"
+     stroke="none" />
+</svg>

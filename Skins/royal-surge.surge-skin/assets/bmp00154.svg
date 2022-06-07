@@ -1,252 +1,1546 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg width="399px" height="84px" viewBox="0 0 399 84" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <path d="M0 0L399 0L399 84L0 84L0 0Z" id="path_1" />
-    <rect width="399" height="84" id="artboard_1" />
-    <clipPath id="clip_1">
-      <use xlink:href="#artboard_1" clip-rule="evenodd" />
-    </clipPath>
-    <clipPath id="mask_1">
-      <use xlink:href="#path_1" />
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="399px"
+   height="84px"
+   viewbox="0 0 399 84"
+   version="1.1"
+   id="svg49141"
+   sodipodi:docname="bmp00154.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata49145">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#333333"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="3753"
+     inkscape:window-height="2137"
+     id="namedview49143"
+     showgrid="false"
+     inkscape:zoom="7.4786732"
+     inkscape:cx="192.07602"
+     inkscape:cy="31.099877"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg49141" />
+  <defs
+     id="defs48591">
+    <rect
+       width="399"
+       height="84"
+       id="artboard_1" />
+    <clipPath
+       id="clip_1">
+      <use
+         xlink:href="#artboard_1"
+         clip-rule="evenodd"
+         id="use48588" />
     </clipPath>
   </defs>
-  <g id="bmp00154" clip-path="url(#clip_1)">
-    <path d="M0 0L399 0L399 84L0 84L0 0Z" id="Background" fill="none" fill-rule="evenodd" stroke="none" />
-    <g clip-path="url(#mask_1)">
-      <path d="M144 77L257 77L257 79L144 79L144 77Z" id="path50916" fill="#FFFFFF" fill-opacity="0.08" fill-rule="evenodd" stroke="none" />
-      <path d="M144 63L257 63L257 65L144 65L144 63Z" id="path50918" fill="#FFFFFF" fill-opacity="0.08" fill-rule="evenodd" stroke="none" />
-      <path d="M144 49L257 49L257 51L144 51L144 49Z" id="path50920" fill="#FFFFFF" fill-opacity="0.08" fill-rule="evenodd" stroke="none" />
-      <path d="M144 21L257 21L257 23L144 23L144 21Z" id="path50922" fill="#FFFFFF" fill-opacity="0.08" fill-rule="evenodd" stroke="none" />
-      <path d="M144 7L257 7L257 9L144 9L144 7Z" id="path50924" fill="#FFFFFF" fill-opacity="0.08" fill-rule="evenodd" stroke="none" />
-      <path d="M144 35L257 35L257 37L144 37L144 35Z" id="path50926" fill="#FFFEFE" fill-opacity="0.08" fill-rule="evenodd" stroke="none" />
-      <path d="M277 77L390 77L390 79L277 79L277 77Z" id="path50928" fill="#FFFFFF" fill-opacity="0.08" fill-rule="evenodd" stroke="none" />
-      <path d="M277 63L390 63L390 65L277 65L277 63Z" id="path50930" fill="#FFFFFF" fill-opacity="0.08" fill-rule="evenodd" stroke="none" />
-      <path d="M277 49L390 49L390 51L277 51L277 49Z" id="path50932" fill="#FFFFFF" fill-opacity="0.08" fill-rule="evenodd" stroke="none" />
-      <path d="M277 21L390 21L390 23L277 23L277 21Z" id="path50934" fill="#FFFFFF" fill-opacity="0.08" fill-rule="evenodd" stroke="none" />
-      <path d="M277 7L390 7L390 9L277 9L277 7Z" id="path50936" fill="#FFFFFF" fill-opacity="0.08" fill-rule="evenodd" stroke="none" />
-      <path d="M277 35L390 35L390 37L277 37L277 35Z" id="path50938" fill="#FFFEFE" fill-opacity="0.08" fill-rule="evenodd" stroke="none" />
-      <path d="M11 77L124 77L124 79L11 79L11 77Z" id="path50914" fill="#FFFFFF" fill-opacity="0.08" fill-rule="evenodd" stroke="none" />
-      <path d="M11 63L124 63L124 65L11 65L11 63Z" id="path50912" fill="#FFFFFF" fill-opacity="0.08" fill-rule="evenodd" stroke="none" />
-      <path d="M11 49L124 49L124 51L11 51L11 49Z" id="path50910" fill="#FFFFFF" fill-opacity="0.08" fill-rule="evenodd" stroke="none" />
-      <path d="M11 21L124 21L124 23L11 23L11 21Z" id="path50906" fill="#FFFFFF" fill-opacity="0.08" fill-rule="evenodd" stroke="none" />
-      <path d="M11 7L124 7L124 9L11 9L11 7Z" id="path50904" fill="#FFFFFF" fill-opacity="0.08" fill-rule="evenodd" stroke="none" />
-      <path d="M10 6L123 6L123 8L10 8L10 6Z" id="Rectangle" fill="#070403" fill-rule="evenodd" stroke="none" />
-      <path d="M10 3L11 3L11 4L10 4L10 3Z" id="path48594" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M122 3L123 3L123 4L122 4L122 3Z" id="path48596" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M10 10L11 10L11 11L10 11L10 10Z" id="path48598" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M122 10L123 10L123 11L122 11L122 10Z" id="path48600" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M12 6L12 5.33333L121 2L121 6L12 6Z" id="Shape" fill="#FFFFFF" fill-opacity="0.08" fill-rule="evenodd" stroke="none" />
-      <path d="M10 20L123 20L123 22L10 22L10 20Z" id="path48606" fill="#070403" fill-rule="evenodd" stroke="none" />
-      <path d="M10 17L11 17L11 18L10 18L10 17Z" id="path48608" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M122 17L123 17L123 18L122 18L122 17Z" id="path48610" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M10 24L11 24L11 25L10 25L10 24Z" id="path48612" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M122 24L123 24L123 25L122 25L122 24Z" id="path48614" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M68 20L68 19.3333L121 16L121 20L68 20Z" id="path48616" fill="#FFFFFF" fill-opacity="0.08" fill-rule="evenodd" stroke="none" />
-      <path d="M65 23L65 23.6667L12 27L12 23L65 23Z" id="path48618" fill="#FFFFFF" fill-opacity="0.08" fill-rule="evenodd" stroke="none" />
-      <path d="M66 17L67 17L67 18L66 18L66 17Z" id="path48620" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M66 24L67 24L67 25L66 25L66 24Z" id="path48622" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M10 34L123 34L123 36L10 36L10 34Z" id="path48630" fill="#070403" fill-rule="evenodd" stroke="none" />
-      <path d="M10 31L11 31L11 32L10 32L10 31Z" id="path48632" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M122 31L123 31L123 32L122 32L122 31Z" id="path48634" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M10 38L11 38L11 39L10 39L10 38Z" id="path48636" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M122 38L123 38L123 39L122 39L122 38Z" id="path48638" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M68 34L68 32.6667L121 30L121 34L68 34Z" id="path48640" fill="#FFFFFF" fill-opacity="0.08" fill-rule="evenodd" stroke="none" />
-      <path d="M65 37L65 38.3333L12 41L12 37L65 37Z" id="path48642" fill="#FFFFFF" fill-opacity="0.08" fill-rule="evenodd" stroke="none" />
-      <path d="M74 31.001L75 31.001L75 32.001L74 32.001L74 31.001Z" id="path48644" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M18 38.001L19 38.001L19 39.001L18 39.001L18 38.001Z" id="path48646" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M82 31.001L83 31.001L83 32.001L82 32.001L82 31.001Z" id="path48648" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M26 38.001L27 38.001L27 39.001L26 39.001L26 38.001Z" id="path48650" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M90 31.001L91 31.001L91 32.001L90 32.001L90 31.001Z" id="path48652" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M34 38.001L35 38.001L35 39.001L34 39.001L34 38.001Z" id="path48654" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M98 31.001L99 31.001L99 32.001L98 32.001L98 31.001Z" id="path48656" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M42 38.001L43 38.001L43 39.001L42 39.001L42 38.001Z" id="path48658" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M106 31.001L107 31.001L107 32.001L106 32.001L106 31.001Z" id="path48660" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M50 38.001L51 38.001L51 39.001L50 39.001L50 38.001Z" id="path48662" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M114 31.001L115 31.001L115 32.001L114 32.001L114 31.001Z" id="path48664" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M58 38.001L59 38.001L59 39.001L58 39.001L58 38.001Z" id="path48666" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M66 31L67 31L67 32L66 32L66 31Z" id="path48668" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M66 38L67 38L67 39L66 39L66 38Z" id="path48670" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M143 6L256 6L256 8L143 8L143 6Z" id="path48680" fill="#070403" fill-rule="evenodd" stroke="none" />
-      <path d="M143 3L144 3L144 4L143 4L143 3Z" id="path48682" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M255 3L256 3L256 4L255 4L255 3Z" id="path48684" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M143 10L144 10L144 11L143 11L143 10Z" id="path48686" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M255 10L256 10L256 11L255 11L255 10Z" id="path48688" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M145 6L145 5.33333L254 2L254 6L145 6Z" id="path48690" fill="#95B9F6" fill-opacity="0.4" fill-rule="evenodd" stroke="none" />
-      <path d="M143 20L256 20L256 22L143 22L143 20Z" id="path48696" fill="#070403" fill-rule="evenodd" stroke="none" />
-      <path d="M143 17L144 17L144 18L143 18L143 17Z" id="path48698" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M255 17L256 17L256 18L255 18L255 17Z" id="path48700" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M143 24L144 24L144 25L143 25L143 24Z" id="path48702" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M255 24L256 24L256 25L255 25L255 24Z" id="path48704" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M201 20L201 19.3333L254 16L254 20L201 20Z" id="path48706" fill="#95B9F6" fill-opacity="0.4" fill-rule="evenodd" stroke="none" />
-      <path d="M198 23L198 23.6667L145 27L145 23L198 23Z" id="path48708" fill="#95B9F6" fill-opacity="0.4" fill-rule="evenodd" stroke="none" />
-      <path d="M199 17L200 17L200 18L199 18L199 17Z" id="path48710" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M199 24L200 24L200 25L199 25L199 24Z" id="path48712" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M143 34L256 34L256 36L143 36L143 34Z" id="path48720" fill="#070403" fill-rule="evenodd" stroke="none" />
-      <path d="M143 31L144 31L144 32L143 32L143 31Z" id="path48722" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M255 31L256 31L256 32L255 32L255 31Z" id="path48724" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M143 38L144 38L144 39L143 39L143 38Z" id="path48726" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M255 38L256 38L256 39L255 39L255 38Z" id="path48728" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M201 34L201 32.6667L254 30L254 34L201 34Z" id="path48730" fill="#95B9F6" fill-opacity="0.4" fill-rule="evenodd" stroke="none" />
-      <path d="M198 37L198 38.3333L145 41L145 37L198 37Z" id="path48732" fill="#95B9F6" fill-opacity="0.4" fill-rule="evenodd" stroke="none" />
-      <path d="M207 31.001L208 31.001L208 32.001L207 32.001L207 31.001Z" id="path48734" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M151 38.001L152 38.001L152 39.001L151 39.001L151 38.001Z" id="path48736" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M215 31.001L216 31.001L216 32.001L215 32.001L215 31.001Z" id="path48738" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M159 38.001L160 38.001L160 39.001L159 39.001L159 38.001Z" id="path48740" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M223 31.001L224 31.001L224 32.001L223 32.001L223 31.001Z" id="path48742" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M167 38.001L168 38.001L168 39.001L167 39.001L167 38.001Z" id="path48744" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M231 31.001L232 31.001L232 32.001L231 32.001L231 31.001Z" id="path48746" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M175 38.001L176 38.001L176 39.001L175 39.001L175 38.001Z" id="path48748" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M239 31.001L240 31.001L240 32.001L239 32.001L239 31.001Z" id="path48750" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M183 38.001L184 38.001L184 39.001L183 39.001L183 38.001Z" id="path48752" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M247 31.001L248 31.001L248 32.001L247 32.001L247 31.001Z" id="path48754" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M191 38.001L192 38.001L192 39.001L191 39.001L191 38.001Z" id="path48756" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M199 31L200 31L200 32L199 32L199 31Z" id="path48758" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M199 38L200 38L200 39L199 39L199 38Z" id="path48760" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M143 48L256 48L256 50L143 50L143 48Z" id="path48772" fill="#070403" fill-rule="evenodd" stroke="none" />
-      <path d="M143 45L144 45L144 46L143 46L143 45Z" id="path48774" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M255 45L256 45L256 46L255 46L255 45Z" id="path48776" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M143 52L144 52L144 53L143 53L143 52Z" id="path48778" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M255 52L256 52L256 53L255 53L255 52Z" id="path48780" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M145 48L145 47.3333L254 44L254 48L145 48Z" id="path48782" fill="#95B9F6" fill-opacity="0.4" fill-rule="evenodd" stroke="none" />
-      <path d="M143 62L256 62L256 64L143 64L143 62Z" id="path48788" fill="#070403" fill-rule="evenodd" stroke="none" />
-      <path d="M143 59L144 59L144 60L143 60L143 59Z" id="path48790" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M255 59L256 59L256 60L255 60L255 59Z" id="path48792" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M143 66L144 66L144 67L143 67L143 66Z" id="path48794" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M255 66L256 66L256 67L255 67L255 66Z" id="path48796" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M201 62L201 61.3333L254 58L254 62L201 62Z" id="path48798" fill="#95B9F6" fill-opacity="0.4" fill-rule="evenodd" stroke="none" />
-      <path d="M198 65L198 65.6667L145 69L145 65L198 65Z" id="path48800" fill="#95B9F6" fill-opacity="0.4" fill-rule="evenodd" stroke="none" />
-      <path d="M199 59L200 59L200 60L199 60L199 59Z" id="path48802" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M199 66L200 66L200 67L199 67L199 66Z" id="path48804" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M143 76L256 76L256 78L143 78L143 76Z" id="path48812" fill="#070403" fill-rule="evenodd" stroke="none" />
-      <path d="M143 73L144 73L144 74L143 74L143 73Z" id="path48814" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M255 73L256 73L256 74L255 74L255 73Z" id="path48816" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M143 80L144 80L144 81L143 81L143 80Z" id="path48818" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M255 80L256 80L256 81L255 81L255 80Z" id="path48820" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M201 76L201 74.6667L254 72L254 76L201 76Z" id="path48822" fill="#95B9F6" fill-opacity="0.4" fill-rule="evenodd" stroke="none" />
-      <path d="M198 79L198 80.3333L145 83L145 79L198 79Z" id="path48824" fill="#95B9F6" fill-opacity="0.4" fill-rule="evenodd" stroke="none" />
-      <path d="M207 73.001L208 73.001L208 74.001L207 74.001L207 73.001Z" id="path48826" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M151 80.001L152 80.001L152 81.001L151 81.001L151 80.001Z" id="path48828" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M215 73.001L216 73.001L216 74.001L215 74.001L215 73.001Z" id="path48830" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M159 80.001L160 80.001L160 81.001L159 81.001L159 80.001Z" id="path48832" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M223 73.001L224 73.001L224 74.001L223 74.001L223 73.001Z" id="path48834" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M167 80.001L168 80.001L168 81.001L167 81.001L167 80.001Z" id="path48836" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M231 73.001L232 73.001L232 74.001L231 74.001L231 73.001Z" id="path48838" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M175 80.001L176 80.001L176 81.001L175 81.001L175 80.001Z" id="path48840" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M239 73.001L240 73.001L240 74.001L239 74.001L239 73.001Z" id="path48842" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M183 80.001L184 80.001L184 81.001L183 81.001L183 80.001Z" id="path48844" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M247 73.001L248 73.001L248 74.001L247 74.001L247 73.001Z" id="path48846" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M191 80.001L192 80.001L192 81.001L191 81.001L191 80.001Z" id="path48848" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M199 73L200 73L200 74L199 74L199 73Z" id="path48850" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M199 80L200 80L200 81L199 81L199 80Z" id="path48852" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M276 6L389 6L389 8L276 8L276 6Z" id="path48864" fill="#070403" fill-rule="evenodd" stroke="none" />
-      <path d="M276 3L277 3L277 4L276 4L276 3Z" id="path48866" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M388 3L389 3L389 4L388 4L388 3Z" id="path48868" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M276 10L277 10L277 11L276 11L276 10Z" id="path48870" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M388 10L389 10L389 11L388 11L388 10Z" id="path48872" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M278 6L278 5.33333L387 2L387 6L278 6Z" id="path48874" fill="#95B9F6" fill-opacity="0.8" fill-rule="evenodd" stroke="none" />
-      <path d="M276 20L389 20L389 22L276 22L276 20Z" id="path48880" fill="#070403" fill-rule="evenodd" stroke="none" />
-      <path d="M276 17L277 17L277 18L276 18L276 17Z" id="path48882" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M388 17L389 17L389 18L388 18L388 17Z" id="path48884" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M276 24L277 24L277 25L276 25L276 24Z" id="path48886" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M388 24L389 24L389 25L388 25L388 24Z" id="path48888" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M334 20L334 19.3333L387 16L387 20L334 20Z" id="path48890" fill="#95B9F6" fill-opacity="0.8" fill-rule="evenodd" stroke="none" />
-      <path d="M331 23L331 23.6667L278 27L278 23L331 23Z" id="path48892" fill="#95B9F6" fill-opacity="0.8" fill-rule="evenodd" stroke="none" />
-      <path d="M332 17L333 17L333 18L332 18L332 17Z" id="path48894" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M332 24L333 24L333 25L332 25L332 24Z" id="path48896" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M276 34L389 34L389 36L276 36L276 34Z" id="path48904" fill="#070403" fill-rule="evenodd" stroke="none" />
-      <path d="M276 31L277 31L277 32L276 32L276 31Z" id="path48906" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M388 31L389 31L389 32L388 32L388 31Z" id="path48908" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M276 38L277 38L277 39L276 39L276 38Z" id="path48910" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M388 38L389 38L389 39L388 39L388 38Z" id="path48912" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M334 34L334 32.6667L387 30L387 34L334 34Z" id="path48914" fill="#95B9F6" fill-opacity="0.8" fill-rule="evenodd" stroke="none" />
-      <path d="M331 37L331 38.3333L278 41L278 37L331 37Z" id="path48916" fill="#95B9F6" fill-opacity="0.8" fill-rule="evenodd" stroke="none" />
-      <path d="M340 31.001L341 31.001L341 32.001L340 32.001L340 31.001Z" id="path48918" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M284 38.001L285 38.001L285 39.001L284 39.001L284 38.001Z" id="path48920" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M348 31.001L349 31.001L349 32.001L348 32.001L348 31.001Z" id="path48922" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M292 38.001L293 38.001L293 39.001L292 39.001L292 38.001Z" id="path48924" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M356 31.001L357 31.001L357 32.001L356 32.001L356 31.001Z" id="path48926" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M300 38.001L301 38.001L301 39.001L300 39.001L300 38.001Z" id="path48928" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M364 31.001L365 31.001L365 32.001L364 32.001L364 31.001Z" id="path48930" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M308 38.001L309 38.001L309 39.001L308 39.001L308 38.001Z" id="path48932" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M372 31.001L373 31.001L373 32.001L372 32.001L372 31.001Z" id="path48934" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M316 38.001L317 38.001L317 39.001L316 39.001L316 38.001Z" id="path48936" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M380 31.001L381 31.001L381 32.001L380 32.001L380 31.001Z" id="path48938" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M324 38.001L325 38.001L325 39.001L324 39.001L324 38.001Z" id="path48940" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M332 31L333 31L333 32L332 32L332 31Z" id="path48942" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M332 38L333 38L333 39L332 39L332 38Z" id="path48944" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M276 48L389 48L389 50L276 50L276 48Z" id="path48956" fill="#070403" fill-rule="evenodd" stroke="none" />
-      <path d="M276 45L277 45L277 46L276 46L276 45Z" id="path48958" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M388 45L389 45L389 46L388 46L388 45Z" id="path48960" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M276 52L277 52L277 53L276 53L276 52Z" id="path48962" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M388 52L389 52L389 53L388 53L388 52Z" id="path48964" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M278 48L278 47.3333L387 44L387 48L278 48Z" id="path48966" fill="#95B9F6" fill-opacity="0.8" fill-rule="evenodd" stroke="none" />
-      <path d="M276 62L389 62L389 64L276 64L276 62Z" id="path48972" fill="#070403" fill-rule="evenodd" stroke="none" />
-      <path d="M276 59L277 59L277 60L276 60L276 59Z" id="path48974" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M388 59L389 59L389 60L388 60L388 59Z" id="path48976" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M276 66L277 66L277 67L276 67L276 66Z" id="path48978" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M388 66L389 66L389 67L388 67L388 66Z" id="path48980" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M334 62L334 61.3333L387 58L387 62L334 62Z" id="path48982" fill="#95B9F6" fill-opacity="0.8" fill-rule="evenodd" stroke="none" />
-      <path d="M331 65L331 65.6667L278 69L278 65L331 65Z" id="path48984" fill="#95B9F6" fill-opacity="0.8" fill-rule="evenodd" stroke="none" />
-      <path d="M332 59L333 59L333 60L332 60L332 59Z" id="path48986" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M332 66L333 66L333 67L332 67L332 66Z" id="path48988" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M276 76L389 76L389 78L276 78L276 76Z" id="path48996" fill="#070403" fill-rule="evenodd" stroke="none" />
-      <path d="M276 73L277 73L277 74L276 74L276 73Z" id="path48998" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M388 73L389 73L389 74L388 74L388 73Z" id="path49000" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M276 80L277 80L277 81L276 81L276 80Z" id="path49002" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M388 80L389 80L389 81L388 81L388 80Z" id="path49004" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M334 76L334 74.6667L387 72L387 76L334 76Z" id="path49006" fill="#95B9F6" fill-opacity="0.8" fill-rule="evenodd" stroke="none" />
-      <path d="M331 79L331 80.3333L278 83L278 79L331 79Z" id="path49008" fill="#95B9F6" fill-opacity="0.8" fill-rule="evenodd" stroke="none" />
-      <path d="M340 73.001L341 73.001L341 74.001L340 74.001L340 73.001Z" id="path49010" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M284 80.001L285 80.001L285 81.001L284 81.001L284 80.001Z" id="path49012" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M348 73.001L349 73.001L349 74.001L348 74.001L348 73.001Z" id="path49014" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M292 80.001L293 80.001L293 81.001L292 81.001L292 80.001Z" id="path49016" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M356 73.001L357 73.001L357 74.001L356 74.001L356 73.001Z" id="path49018" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M300 80.001L301 80.001L301 81.001L300 81.001L300 80.001Z" id="path49020" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M364 73.001L365 73.001L365 74.001L364 74.001L364 73.001Z" id="path49022" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M308 80.001L309 80.001L309 81.001L308 81.001L308 80.001Z" id="path49024" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M372 73.001L373 73.001L373 74.001L372 74.001L372 73.001Z" id="path49026" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M316 80.001L317 80.001L317 81.001L316 81.001L316 80.001Z" id="path49028" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M380 73.001L381 73.001L381 74.001L380 74.001L380 73.001Z" id="path49030" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M324 80.001L325 80.001L325 81.001L324 81.001L324 80.001Z" id="path49032" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M332 73L333 73L333 74L332 74L332 73Z" id="path49034" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M332 80L333 80L333 81L332 81L332 80Z" id="path49036" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M10 48L123 48L123 50L10 50L10 48Z" id="path49048" fill="#070403" fill-rule="evenodd" stroke="none" />
-      <path d="M10 45L11 45L11 46L10 46L10 45Z" id="path49050" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M122 45L123 45L123 46L122 46L122 45Z" id="path49052" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M10 52L11 52L11 53L10 53L10 52Z" id="path49054" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M122 52L123 52L123 53L122 53L122 52Z" id="path49056" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M12 48L12 47.3333L121 44L121 48L12 48Z" id="path49058" fill="#FFFFFF" fill-opacity="0.08" fill-rule="evenodd" stroke="none" />
-      <path d="M10 62L123 62L123 64L10 64L10 62Z" id="path49064" fill="#070403" fill-rule="evenodd" stroke="none" />
-      <path d="M10 59L11 59L11 60L10 60L10 59Z" id="path49066" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M122 59L123 59L123 60L122 60L122 59Z" id="path49068" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M10 66L11 66L11 67L10 67L10 66Z" id="path49070" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M122 66L123 66L123 67L122 67L122 66Z" id="path49072" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M68 62L68 61.3333L121 58L121 62L68 62Z" id="path49074" fill="#FFFFFF" fill-opacity="0.08" fill-rule="evenodd" stroke="none" />
-      <path d="M65 65L65 65.6667L12 69L12 65L65 65Z" id="path49076" fill="#FFFFFF" fill-opacity="0.08" fill-rule="evenodd" stroke="none" />
-      <path d="M66 59L67 59L67 60L66 60L66 59Z" id="path49078" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M66 66L67 66L67 67L66 67L66 66Z" id="path49080" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M10 76L123 76L123 78L10 78L10 76Z" id="path49088" fill="#070403" fill-rule="evenodd" stroke="none" />
-      <path d="M10 73L11 73L11 74L10 74L10 73Z" id="path49090" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M122 73L123 73L123 74L122 74L122 73Z" id="path49092" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M10 80L11 80L11 81L10 81L10 80Z" id="path49094" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M122 80L123 80L123 81L122 81L122 80Z" id="path49096" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M68 76L68 74.6667L121 72L121 76L68 76Z" id="path49098" fill="#FFFFFF" fill-opacity="0.08" fill-rule="evenodd" stroke="none" />
-      <path d="M65 78L65 79.3333L12 82L12 78L65 78Z" id="path49100" fill="#FFFFFF" fill-opacity="0.08" fill-rule="evenodd" stroke="none" />
-      <path d="M74 73.001L75 73.001L75 74.001L74 74.001L74 73.001Z" id="path49102" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M18 80.001L19 80.001L19 81.001L18 81.001L18 80.001Z" id="path49104" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M82 73.001L83 73.001L83 74.001L82 74.001L82 73.001Z" id="path49106" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M26 80.001L27 80.001L27 81.001L26 81.001L26 80.001Z" id="path49108" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M90 73.001L91 73.001L91 74.001L90 74.001L90 73.001Z" id="path49110" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M34 80.001L35 80.001L35 81.001L34 81.001L34 80.001Z" id="path49112" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M98 73.001L99 73.001L99 74.001L98 74.001L98 73.001Z" id="path49114" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M42 80.001L43 80.001L43 81.001L42 81.001L42 80.001Z" id="path49116" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M106 73.001L107 73.001L107 74.001L106 74.001L106 73.001Z" id="path49118" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M50 80.001L51 80.001L51 81.001L50 81.001L50 80.001Z" id="path49120" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M114 73.001L115 73.001L115 74.001L114 74.001L114 73.001Z" id="path49122" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M58 80.001L59 80.001L59 81.001L58 81.001L58 80.001Z" id="path49124" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M66 73L67 73L67 74L66 74L66 73Z" id="path49126" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M66 80L67 80L67 81L66 81L66 80Z" id="path49128" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
-      <path d="M11 35L124 35L124 37L11 37L11 35Z" id="path50908" fill="#FFFEFE" fill-opacity="0.08" fill-rule="evenodd" stroke="none" />
-    </g>
-  </g>
+  <path
+     d="m 144,77 h 113 v 2 H 144 Z"
+     id="path50916"
+     fill="#070403"
+     fill-rule="evenodd"
+     stroke="none"
+     style="opacity:0.08;fill:#ffffff;fill-opacity:1" />
+  <path
+     d="m 144,63 h 113 v 2 H 144 Z"
+     id="path50918"
+     fill="#070403"
+     fill-rule="evenodd"
+     stroke="none"
+     style="opacity:0.08;fill:#ffffff;fill-opacity:1" />
+  <path
+     d="m 144,49 h 113 v 2 H 144 Z"
+     id="path50920"
+     fill="#070403"
+     fill-rule="evenodd"
+     stroke="none"
+     style="opacity:0.08;fill:#ffffff;fill-opacity:1" />
+  <path
+     d="m 144,21 h 113 v 2 H 144 Z"
+     id="path50922"
+     fill="#070403"
+     fill-rule="evenodd"
+     stroke="none"
+     style="opacity:0.08;fill:#ffffff;fill-opacity:1" />
+  <path
+     d="M 144,7 H 257 V 9 H 144 Z"
+     id="path50924"
+     fill="#070403"
+     fill-rule="evenodd"
+     stroke="none"
+     style="opacity:0.08;fill:#ffffff;fill-opacity:1" />
+  <path
+     d="m 144,35 h 113 v 2 H 144 Z"
+     id="path50926"
+     fill="#070403"
+     fill-rule="evenodd"
+     stroke="none"
+     style="opacity:0.08;fill:#fffefe;fill-opacity:1" />
+  <path
+     d="m 277,77 h 113 v 2 H 277 Z"
+     id="path50928"
+     fill="#070403"
+     fill-rule="evenodd"
+     stroke="none"
+     style="opacity:0.08;fill:#ffffff;fill-opacity:1" />
+  <path
+     d="m 277,63 h 113 v 2 H 277 Z"
+     id="path50930"
+     fill="#070403"
+     fill-rule="evenodd"
+     stroke="none"
+     style="opacity:0.08;fill:#ffffff;fill-opacity:1" />
+  <path
+     d="m 277,49 h 113 v 2 H 277 Z"
+     id="path50932"
+     fill="#070403"
+     fill-rule="evenodd"
+     stroke="none"
+     style="opacity:0.08;fill:#ffffff;fill-opacity:1" />
+  <path
+     d="m 277,21 h 113 v 2 H 277 Z"
+     id="path50934"
+     fill="#070403"
+     fill-rule="evenodd"
+     stroke="none"
+     style="opacity:0.08;fill:#ffffff;fill-opacity:1" />
+  <path
+     d="M 277,7 H 390 V 9 H 277 Z"
+     id="path50936"
+     fill="#070403"
+     fill-rule="evenodd"
+     stroke="none"
+     style="opacity:0.08;fill:#ffffff;fill-opacity:1" />
+  <path
+     d="m 277,35 h 113 v 2 H 277 Z"
+     id="path50938"
+     fill="#070403"
+     fill-rule="evenodd"
+     stroke="none"
+     style="opacity:0.08;fill:#fffefe;fill-opacity:1" />
+  <path
+     d="m 11,77 h 113 v 2 H 11 Z"
+     id="path50914"
+     fill="#070403"
+     fill-rule="evenodd"
+     stroke="none"
+     style="opacity:0.08;fill:#ffffff;fill-opacity:1" />
+  <path
+     d="m 11,63 h 113 v 2 H 11 Z"
+     id="path50912"
+     fill="#070403"
+     fill-rule="evenodd"
+     stroke="none"
+     style="opacity:0.08;fill:#ffffff;fill-opacity:1" />
+  <path
+     d="m 11,49 h 113 v 2 H 11 Z"
+     id="path50910"
+     fill="#070403"
+     fill-rule="evenodd"
+     stroke="none"
+     style="opacity:0.08;fill:#ffffff;fill-opacity:1" />
+  <path
+     d="m 11,21 h 113 v 2 H 11 Z"
+     id="path50906"
+     fill="#070403"
+     fill-rule="evenodd"
+     stroke="none"
+     style="opacity:0.08;fill:#ffffff;fill-opacity:1" />
+  <path
+     d="M 11,7 H 124 V 9 H 11 Z"
+     id="path50904"
+     fill="#070403"
+     fill-rule="evenodd"
+     stroke="none"
+     style="fill:#ffffff;fill-opacity:1;opacity:0.08" />
+  <path
+     d="M 10,6 H 123 V 8 H 10 Z"
+     id="Rectangle"
+     fill="#070403"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 10,3 h 1 v 1 h -1 z"
+     id="path48594"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 122,3 h 1 v 1 h -1 z"
+     id="path48596"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 10,10 h 1 v 1 h -1 z"
+     id="path48598"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 122,10 h 1 v 1 h -1 z"
+     id="path48600"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="M 11.999997,6 V 5.3333333 L 121,2 v 4 z"
+     id="Shape"
+     fill="#d1bfb9"
+     fill-opacity="0.2"
+     fill-rule="evenodd"
+     stroke="none"
+     style="stroke-width:0.816497;fill:#ffffff;fill-opacity:1;opacity:0.08" />
+  <path
+     d="m 10,20 h 113 v 2 H 10 Z"
+     id="path48606"
+     fill="#070403"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 10,17 h 1 v 1 h -1 z"
+     id="path48608"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 122,17 h 1 v 1 h -1 z"
+     id="path48610"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 10,24 h 1 v 1 h -1 z"
+     id="path48612"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 122,24 h 1 v 1 h -1 z"
+     id="path48614"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="M 67.999998,20 V 19.333333 L 121,16 v 4 z"
+     id="path48616"
+     fill="#d1bfb9"
+     fill-opacity="0.2"
+     fill-rule="evenodd"
+     stroke="none"
+     style="stroke-width:0.816497;fill:#ffffff;fill-opacity:1;opacity:0.08" />
+  <path
+     d="m 64.999998,23.000001 v 0.666666 l -53,3.333333 v -4 z"
+     id="path48618"
+     fill="#d1bfb9"
+     fill-opacity="0.2"
+     fill-rule="evenodd"
+     stroke="none"
+     style="stroke-width:0.816497;fill:#ffffff;fill-opacity:1;opacity:0.08" />
+  <path
+     d="m 65.999998,17 h 1 v 1 h -1 z"
+     id="path48620"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 65.999998,24 h 1 v 1 h -1 z"
+     id="path48622"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 10,34 h 113 v 2 H 10 Z"
+     id="path48630"
+     fill="#070403"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 10,31 h 1 v 1 h -1 z"
+     id="path48632"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 122,31 h 1 v 1 h -1 z"
+     id="path48634"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 10,38 h 1 v 1 h -1 z"
+     id="path48636"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 122,38 h 1 v 1 h -1 z"
+     id="path48638"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="M 68,34 V 32.666667 L 121,30 v 4 z"
+     id="path48640"
+     fill="#d1bfb9"
+     fill-opacity="0.2"
+     fill-rule="evenodd"
+     stroke="none"
+     style="stroke-width:1.1547;fill:#ffffff;fill-opacity:1;opacity:0.08" />
+  <path
+     d="m 65,37 v 1.333333 L 12,41 v -4 z"
+     id="path48642"
+     fill="#d1bfb9"
+     fill-opacity="0.2"
+     fill-rule="evenodd"
+     stroke="none"
+     style="stroke-width:1.1547;fill:#ffffff;fill-opacity:1;opacity:0.08" />
+  <path
+     d="m 74,31.000999 h 1 v 1 h -1 z"
+     id="path48644"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 18,38.000999 h 1 v 1 h -1 z"
+     id="path48646"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 82,31.000999 h 1 v 1 h -1 z"
+     id="path48648"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 26,38.000999 h 1 v 1 h -1 z"
+     id="path48650"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 90,31.000999 h 1 v 1 h -1 z"
+     id="path48652"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 34,38.000999 h 1 v 1 h -1 z"
+     id="path48654"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 98,31.000999 h 1 v 1 h -1 z"
+     id="path48656"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 42,38.000999 h 1 v 1 h -1 z"
+     id="path48658"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 106,31.000999 h 1 v 1 h -1 z"
+     id="path48660"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 50,38.000999 h 1 v 1 h -1 z"
+     id="path48662"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 114,31.000999 h 1 v 1 h -1 z"
+     id="path48664"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 58,38.000999 h 1 v 1 h -1 z"
+     id="path48666"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 66,31 h 1 v 1 h -1 z"
+     id="path48668"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 66,38 h 1 v 1 h -1 z"
+     id="path48670"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="M 143,6 H 256 V 8 H 143 Z"
+     id="path48680"
+     fill="#070403"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 143,3 h 1 v 1 h -1 z"
+     id="path48682"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 255,3 h 1 v 1 h -1 z"
+     id="path48684"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 143,10 h 1 v 1 h -1 z"
+     id="path48686"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 255,10 h 1 v 1 h -1 z"
+     id="path48688"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="M 145,6 V 5.3333333 L 254,2 v 4 z"
+     id="path48690"
+     fill="#95b9f6"
+     fill-opacity="0.4"
+     fill-rule="evenodd"
+     stroke="none"
+     style="stroke-width:0.816497" />
+  <path
+     d="m 143,20 h 113 v 2 H 143 Z"
+     id="path48696"
+     fill="#070403"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 143,17 h 1 v 1 h -1 z"
+     id="path48698"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 255,17 h 1 v 1 h -1 z"
+     id="path48700"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 143,24 h 1 v 1 h -1 z"
+     id="path48702"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 255,24 h 1 v 1 h -1 z"
+     id="path48704"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="M 201,20 V 19.333333 L 254,16 v 4 z"
+     id="path48706"
+     fill="#95b9f6"
+     fill-opacity="0.4"
+     fill-rule="evenodd"
+     stroke="none"
+     style="stroke-width:0.816497" />
+  <path
+     d="m 198,23.000001 v 0.666666 L 145,27 v -4 z"
+     id="path48708"
+     fill="#95b9f6"
+     fill-opacity="0.4"
+     fill-rule="evenodd"
+     stroke="none"
+     style="stroke-width:0.816497" />
+  <path
+     d="m 199,17 h 1 v 1 h -1 z"
+     id="path48710"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 199,24 h 1 v 1 h -1 z"
+     id="path48712"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 143,34 h 113 v 2 H 143 Z"
+     id="path48720"
+     fill="#070403"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 143,31 h 1 v 1 h -1 z"
+     id="path48722"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 255,31 h 1 v 1 h -1 z"
+     id="path48724"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 143,38 h 1 v 1 h -1 z"
+     id="path48726"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 255,38 h 1 v 1 h -1 z"
+     id="path48728"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="M 201,34 V 32.666667 L 254,30 v 4 z"
+     id="path48730"
+     fill="#95b9f6"
+     fill-opacity="0.4"
+     fill-rule="evenodd"
+     stroke="none"
+     style="stroke-width:1.1547" />
+  <path
+     d="m 198,37 v 1.333333 L 145,41 v -4 z"
+     id="path48732"
+     fill="#95b9f6"
+     fill-opacity="0.4"
+     fill-rule="evenodd"
+     stroke="none"
+     style="stroke-width:1.1547" />
+  <path
+     d="m 207,31.000999 h 1 v 1 h -1 z"
+     id="path48734"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 151,38.000999 h 1 v 1 h -1 z"
+     id="path48736"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 215,31.000999 h 1 v 1 h -1 z"
+     id="path48738"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 159,38.000999 h 1 v 1 h -1 z"
+     id="path48740"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 223,31.000999 h 1 v 1 h -1 z"
+     id="path48742"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 167,38.000999 h 1 v 1 h -1 z"
+     id="path48744"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 231,31.000999 h 1 v 1 h -1 z"
+     id="path48746"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 175,38.000999 h 1 v 1 h -1 z"
+     id="path48748"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 239,31.000999 h 1 v 1 h -1 z"
+     id="path48750"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 183,38.000999 h 1 v 1 h -1 z"
+     id="path48752"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 247,31.000999 h 1 v 1 h -1 z"
+     id="path48754"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 191,38.000999 h 1 v 1 h -1 z"
+     id="path48756"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 199,31 h 1 v 1 h -1 z"
+     id="path48758"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 199,38 h 1 v 1 h -1 z"
+     id="path48760"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 143,48 h 113 v 2 H 143 Z"
+     id="path48772"
+     fill="#070403"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 143,45 h 1 v 1 h -1 z"
+     id="path48774"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 255,45 h 1 v 1 h -1 z"
+     id="path48776"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 143,52 h 1 v 1 h -1 z"
+     id="path48778"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 255,52 h 1 v 1 h -1 z"
+     id="path48780"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="M 145,48 V 47.333333 L 254,44 v 4 z"
+     id="path48782"
+     fill="#95b9f6"
+     fill-opacity="0.4"
+     fill-rule="evenodd"
+     stroke="none"
+     style="stroke-width:0.816497" />
+  <path
+     d="m 143,62 h 113 v 2 H 143 Z"
+     id="path48788"
+     fill="#070403"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 143,59 h 1 v 1 h -1 z"
+     id="path48790"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 255,59 h 1 v 1 h -1 z"
+     id="path48792"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 143,66 h 1 v 1 h -1 z"
+     id="path48794"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 255,66 h 1 v 1 h -1 z"
+     id="path48796"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="M 201,62 V 61.333333 L 254,58 v 4 z"
+     id="path48798"
+     fill="#95b9f6"
+     fill-opacity="0.4"
+     fill-rule="evenodd"
+     stroke="none"
+     style="stroke-width:0.816497" />
+  <path
+     d="m 198,65 v 0.666667 L 145,69 v -4 z"
+     id="path48800"
+     fill="#95b9f6"
+     fill-opacity="0.4"
+     fill-rule="evenodd"
+     stroke="none"
+     style="stroke-width:0.816497" />
+  <path
+     d="m 199,59 h 1 v 1 h -1 z"
+     id="path48802"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 199,66 h 1 v 1 h -1 z"
+     id="path48804"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 143,76 h 113 v 2 H 143 Z"
+     id="path48812"
+     fill="#070403"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 143,73 h 1 v 1 h -1 z"
+     id="path48814"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 255,73 h 1 v 1 h -1 z"
+     id="path48816"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 143,80 h 1 v 1 h -1 z"
+     id="path48818"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 255,80 h 1 v 1 h -1 z"
+     id="path48820"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="M 201,76 V 74.666667 L 254,72 v 4 z"
+     id="path48822"
+     fill="#95b9f6"
+     fill-opacity="0.4"
+     fill-rule="evenodd"
+     stroke="none"
+     style="stroke-width:1.1547" />
+  <path
+     d="m 198,79 v 1.333333 L 145,83 v -4 z"
+     id="path48824"
+     fill="#95b9f6"
+     fill-opacity="0.4"
+     fill-rule="evenodd"
+     stroke="none"
+     style="stroke-width:1.1547" />
+  <path
+     d="m 207,73.000999 h 1 v 1 h -1 z"
+     id="path48826"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 151,80.001 h 1 v 1 h -1 z"
+     id="path48828"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 215,73.000999 h 1 v 1 h -1 z"
+     id="path48830"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 159,80.001 h 1 v 1 h -1 z"
+     id="path48832"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 223,73.000999 h 1 v 1 h -1 z"
+     id="path48834"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 167,80.001 h 1 v 1 h -1 z"
+     id="path48836"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 231,73.000999 h 1 v 1 h -1 z"
+     id="path48838"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 175,80.001 h 1 v 1 h -1 z"
+     id="path48840"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 239,73.000999 h 1 v 1 h -1 z"
+     id="path48842"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 183,80.001 h 1 v 1 h -1 z"
+     id="path48844"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 247,73.000999 h 1 v 1 h -1 z"
+     id="path48846"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 191,80.001 h 1 v 1 h -1 z"
+     id="path48848"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 199,73 h 1 v 1 h -1 z"
+     id="path48850"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 199,80 h 1 v 1 h -1 z"
+     id="path48852"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="M 276,6 H 389 V 8 H 276 Z"
+     id="path48864"
+     fill="#070403"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 276,3 h 1 v 1 h -1 z"
+     id="path48866"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 388,3 h 1 v 1 h -1 z"
+     id="path48868"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 276,10 h 1 v 1 h -1 z"
+     id="path48870"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 388,10 h 1 v 1 h -1 z"
+     id="path48872"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="M 278,6 V 5.3333333 L 387,2 v 4 z"
+     id="path48874"
+     fill="#95b9f6"
+     fill-opacity="0.8"
+     fill-rule="evenodd"
+     stroke="none"
+     style="stroke-width:0.816497" />
+  <path
+     d="m 276,20 h 113 v 2 H 276 Z"
+     id="path48880"
+     fill="#070403"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 276,17 h 1 v 1 h -1 z"
+     id="path48882"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 388,17 h 1 v 1 h -1 z"
+     id="path48884"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 276,24 h 1 v 1 h -1 z"
+     id="path48886"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 388,24 h 1 v 1 h -1 z"
+     id="path48888"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="M 334,20 V 19.333333 L 387,16 v 4 z"
+     id="path48890"
+     fill="#95b9f6"
+     fill-opacity="0.8"
+     fill-rule="evenodd"
+     stroke="none"
+     style="stroke-width:0.816497" />
+  <path
+     d="m 331,23.000001 v 0.666666 L 278,27 v -4 z"
+     id="path48892"
+     fill="#95b9f6"
+     fill-opacity="0.8"
+     fill-rule="evenodd"
+     stroke="none"
+     style="stroke-width:0.816497" />
+  <path
+     d="m 332,17 h 1 v 1 h -1 z"
+     id="path48894"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 332,24 h 1 v 1 h -1 z"
+     id="path48896"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 276,34 h 113 v 2 H 276 Z"
+     id="path48904"
+     fill="#070403"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 276,31 h 1 v 1 h -1 z"
+     id="path48906"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 388,31 h 1 v 1 h -1 z"
+     id="path48908"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 276,38 h 1 v 1 h -1 z"
+     id="path48910"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 388,38 h 1 v 1 h -1 z"
+     id="path48912"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="M 334,34 V 32.666667 L 387,30 v 4 z"
+     id="path48914"
+     fill="#95b9f6"
+     fill-opacity="0.8"
+     fill-rule="evenodd"
+     stroke="none"
+     style="stroke-width:1.1547" />
+  <path
+     d="m 331,37 v 1.333333 L 278,41 v -4 z"
+     id="path48916"
+     fill="#95b9f6"
+     fill-opacity="0.8"
+     fill-rule="evenodd"
+     stroke="none"
+     style="stroke-width:1.1547" />
+  <path
+     d="m 340,31.000999 h 1 v 1 h -1 z"
+     id="path48918"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 284,38.000999 h 1 v 1 h -1 z"
+     id="path48920"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 348,31.000999 h 1 v 1 h -1 z"
+     id="path48922"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 292,38.000999 h 1 v 1 h -1 z"
+     id="path48924"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 356,31.000999 h 1 v 1 h -1 z"
+     id="path48926"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 300,38.000999 h 1 v 1 h -1 z"
+     id="path48928"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 364,31.000999 h 1 v 1 h -1 z"
+     id="path48930"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 308,38.000999 h 1 v 1 h -1 z"
+     id="path48932"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 372,31.000999 h 1 v 1 h -1 z"
+     id="path48934"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 316,38.000999 h 1 v 1 h -1 z"
+     id="path48936"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 380,31.000999 h 1 v 1 h -1 z"
+     id="path48938"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 324,38.000999 h 1 v 1 h -1 z"
+     id="path48940"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 332,31 h 1 v 1 h -1 z"
+     id="path48942"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 332,38 h 1 v 1 h -1 z"
+     id="path48944"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 276,48 h 113 v 2 H 276 Z"
+     id="path48956"
+     fill="#070403"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 276,45 h 1 v 1 h -1 z"
+     id="path48958"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 388,45 h 1 v 1 h -1 z"
+     id="path48960"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 276,52 h 1 v 1 h -1 z"
+     id="path48962"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 388,52 h 1 v 1 h -1 z"
+     id="path48964"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="M 278,48 V 47.333333 L 387,44 v 4 z"
+     id="path48966"
+     fill="#95b9f6"
+     fill-opacity="0.8"
+     fill-rule="evenodd"
+     stroke="none"
+     style="stroke-width:0.816497" />
+  <path
+     d="m 276,62 h 113 v 2 H 276 Z"
+     id="path48972"
+     fill="#070403"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 276,59 h 1 v 1 h -1 z"
+     id="path48974"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 388,59 h 1 v 1 h -1 z"
+     id="path48976"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 276,66 h 1 v 1 h -1 z"
+     id="path48978"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 388,66 h 1 v 1 h -1 z"
+     id="path48980"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="M 334,62 V 61.333333 L 387,58 v 4 z"
+     id="path48982"
+     fill="#95b9f6"
+     fill-opacity="0.8"
+     fill-rule="evenodd"
+     stroke="none"
+     style="stroke-width:0.816497" />
+  <path
+     d="m 331,65 v 0.666667 L 278,69 v -4 z"
+     id="path48984"
+     fill="#95b9f6"
+     fill-opacity="0.8"
+     fill-rule="evenodd"
+     stroke="none"
+     style="stroke-width:0.816497" />
+  <path
+     d="m 332,59 h 1 v 1 h -1 z"
+     id="path48986"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 332,66 h 1 v 1 h -1 z"
+     id="path48988"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 276,76 h 113 v 2 H 276 Z"
+     id="path48996"
+     fill="#070403"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 276,73 h 1 v 1 h -1 z"
+     id="path48998"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 388,73 h 1 v 1 h -1 z"
+     id="path49000"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 276,80 h 1 v 1 h -1 z"
+     id="path49002"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 388,80 h 1 v 1 h -1 z"
+     id="path49004"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="M 334,76 V 74.666667 L 387,72 v 4 z"
+     id="path49006"
+     fill="#95b9f6"
+     fill-opacity="0.8"
+     fill-rule="evenodd"
+     stroke="none"
+     style="stroke-width:1.1547" />
+  <path
+     d="m 331,79 v 1.333333 L 278,83 v -4 z"
+     id="path49008"
+     fill="#95b9f6"
+     fill-opacity="0.8"
+     fill-rule="evenodd"
+     stroke="none"
+     style="stroke-width:1.1547" />
+  <path
+     d="m 340,73.000999 h 1 v 1 h -1 z"
+     id="path49010"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 284,80.001 h 1 v 1 h -1 z"
+     id="path49012"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 348,73.000999 h 1 v 1 h -1 z"
+     id="path49014"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 292,80.001 h 1 v 1 h -1 z"
+     id="path49016"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 356,73.000999 h 1 v 1 h -1 z"
+     id="path49018"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 300,80.001 h 1 v 1 h -1 z"
+     id="path49020"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 364,73.000999 h 1 v 1 h -1 z"
+     id="path49022"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 308,80.001 h 1 v 1 h -1 z"
+     id="path49024"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 372,73.000999 h 1 v 1 h -1 z"
+     id="path49026"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 316,80.001 h 1 v 1 h -1 z"
+     id="path49028"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 380,73.000999 h 1 v 1 h -1 z"
+     id="path49030"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 324,80.001 h 1 v 1 h -1 z"
+     id="path49032"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 332,73 h 1 v 1 h -1 z"
+     id="path49034"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 332,80 h 1 v 1 h -1 z"
+     id="path49036"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 10,48 h 113 v 2 H 10 Z"
+     id="path49048"
+     fill="#070403"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 10,45 h 1 v 1 h -1 z"
+     id="path49050"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 122,45 h 1 v 1 h -1 z"
+     id="path49052"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 10,52 h 1 v 1 h -1 z"
+     id="path49054"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 122,52 h 1 v 1 h -1 z"
+     id="path49056"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="M 11.999997,48 V 47.333333 L 121,44 v 4 z"
+     id="path49058"
+     fill="#d1bfb9"
+     fill-opacity="0.2"
+     fill-rule="evenodd"
+     stroke="none"
+     style="stroke-width:0.816497;fill:#ffffff;fill-opacity:1;opacity:0.08" />
+  <path
+     d="m 10,62 h 113 v 2 H 10 Z"
+     id="path49064"
+     fill="#070403"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 10,59 h 1 v 1 h -1 z"
+     id="path49066"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 122,59 h 1 v 1 h -1 z"
+     id="path49068"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 10,66 h 1 v 1 h -1 z"
+     id="path49070"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 122,66 h 1 v 1 h -1 z"
+     id="path49072"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="M 67.999998,62 V 61.333333 L 121,58 v 4 z"
+     id="path49074"
+     fill="#d1bfb9"
+     fill-opacity="0.2"
+     fill-rule="evenodd"
+     stroke="none"
+     style="stroke-width:0.816497;fill:#ffffff;fill-opacity:1;opacity:0.08" />
+  <path
+     d="m 64.999998,65 v 0.666667 l -53,3.333333 v -4 z"
+     id="path49076"
+     fill="#d1bfb9"
+     fill-opacity="0.2"
+     fill-rule="evenodd"
+     stroke="none"
+     style="stroke-width:0.816497;fill:#ffffff;fill-opacity:1;opacity:0.08" />
+  <path
+     d="m 65.999998,59 h 1 v 1 h -1 z"
+     id="path49078"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 65.999998,66 h 1 v 1 h -1 z"
+     id="path49080"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 10,76 h 113 v 2 H 10 Z"
+     id="path49088"
+     fill="#070403"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 10,73 h 1 v 1 h -1 z"
+     id="path49090"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 122,73 h 1 v 1 h -1 z"
+     id="path49092"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 10,80 h 1 v 1 h -1 z"
+     id="path49094"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 122,80 h 1 v 1 h -1 z"
+     id="path49096"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="M 68,76 V 74.666667 L 121,72 v 4 z"
+     id="path49098"
+     fill="#d1bfb9"
+     fill-opacity="0.2"
+     fill-rule="evenodd"
+     stroke="none"
+     style="stroke-width:1.1547;fill:#ffffff;fill-opacity:1;opacity:0.08" />
+  <path
+     d="m 65,78 v 1.333333 L 12,82 v -4 z"
+     id="path49100"
+     fill="#d1bfb9"
+     fill-opacity="0.2"
+     fill-rule="evenodd"
+     stroke="none"
+     style="stroke-width:1.1547;fill:#ffffff;fill-opacity:1;opacity:0.08" />
+  <path
+     d="m 74,73.000999 h 1 v 1 h -1 z"
+     id="path49102"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 18,80.001 h 1 v 1 h -1 z"
+     id="path49104"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 82,73.000999 h 1 v 1 h -1 z"
+     id="path49106"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 26,80.001 h 1 v 1 h -1 z"
+     id="path49108"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 90,73.000999 h 1 v 1 h -1 z"
+     id="path49110"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 34,80.001 h 1 v 1 h -1 z"
+     id="path49112"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 98,73.000999 h 1 v 1 h -1 z"
+     id="path49114"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 42,80.001 h 1 v 1 h -1 z"
+     id="path49116"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 106,73.000999 h 1 v 1 h -1 z"
+     id="path49118"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 50,80.001 h 1 v 1 h -1 z"
+     id="path49120"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 114,73.000999 h 1 v 1 h -1 z"
+     id="path49122"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 58,80.001 h 1 v 1 h -1 z"
+     id="path49124"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 66,73 h 1 v 1 h -1 z"
+     id="path49126"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 66,80 h 1 v 1 h -1 z"
+     id="path49128"
+     fill="#d1bfb9"
+     fill-rule="evenodd"
+     stroke="none" />
+  <path
+     d="m 11,35 h 113 v 2 H 11 Z"
+     id="path50908"
+     fill="#070403"
+     fill-rule="evenodd"
+     stroke="none"
+     style="opacity:0.08;fill:#fffefe;fill-opacity:1" />
 </svg>

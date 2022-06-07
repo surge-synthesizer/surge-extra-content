@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="36px" height="82px" viewBox="0 0 36 82" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M3.05176e-05 -3.27229e-05L36 -3.27229e-05L36 82L3.05176e-05 82L3.05176e-05 -3.27229e-05Z" id="path_1" />
+    <rect width="36" height="82" id="artboard_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#artboard_1" clip-rule="evenodd" />
+    </clipPath>
+    <clipPath id="mask_1">
+      <use xlink:href="#path_1" />
+    </clipPath>
+  </defs>
+  <g id="hover00113" clip-path="url(#clip_1)">
+    <path d="M3.05176e-05 -3.27229e-05L36 -3.27229e-05L36 82L3.05176e-05 82L3.05176e-05 -3.27229e-05Z" id="Background" fill="none" fill-rule="evenodd" stroke="none" />
+    <g clip-path="url(#mask_1)">
+      <path d="M35.6 20.4L35.6 1.4526C35.6 0.871246 35.1623 0.399967 34.6223 0.399967L1.37878 0.399968C0.838759 0.399968 0.400997 0.871247 0.400997 1.4526L0.400024 20.4L35.6 20.4Z" id="path33" fill="#FFFFFF" fill-opacity="0.08" fill-rule="evenodd" stroke="none" />
+      <path d="M0.400024 62L0.400025 80.4736C0.400025 81.0405 0.837793 81.5 1.3778 81.5L34.6213 81.5C35.1613 81.5 35.599 81.0405 35.599 80.4736L35.6 62L0.400024 62Z" id="path4932" fill="#FFFFFF" fill-opacity="0.08" fill-rule="evenodd" stroke="none" />
+    </g>
+  </g>
+</svg>

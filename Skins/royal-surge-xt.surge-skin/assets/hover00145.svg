@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="19px" height="170px" viewBox="0 0 19 170" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <rect width="19" height="170" id="artboard_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#artboard_1" clip-rule="evenodd" />
+    </clipPath>
+  </defs>
+  <g id="hover00145" clip-path="url(#clip_1)">
+    <path d="M13 153.4L19 153.4L19 169.8L13 169.8L13 153.4L13 153.4Z" id="Release-Exp-2" fill="#FFFFFF" fill-opacity="0.14117648" fill-rule="evenodd" stroke="none" />
+    <path d="M7 134.4L13 134.4L13 150.8L7 150.8L7 134.4L7 134.4Z" id="Release-Exp-1" fill="#FFFFFF" fill-opacity="0.14117648" fill-rule="evenodd" stroke="none" />
+    <path d="M1 115.4L7 115.4L7 131.8L1 131.8L1 115.4L1 115.4Z" id="Release-Lin" fill="#FFFFFF" fill-opacity="0.14117648" fill-rule="evenodd" stroke="none" />
+    <path d="M13 96.4L19 96.4L19 112.8L13 112.8L13 96.4L13 96.4Z" id="Decay-Exp-2" fill="#FFFFFF" fill-opacity="0.14117648" fill-rule="evenodd" stroke="none" />
+    <path d="M7 77.4L13 77.4L13 93.8L7 93.8L7 77.4L7 77.4Z" id="Decay-Exp-1" fill="#FFFFFF" fill-opacity="0.14117648" fill-rule="evenodd" stroke="none" />
+    <path d="M1 58.4L7 58.4L7 74.8L1 74.8L1 58.4L1 58.4Z" id="Decay-Lin" fill="#FFFFFF" fill-opacity="0.14117648" fill-rule="evenodd" stroke="none" />
+    <path d="M13 39.4L19 39.4L19 55.9L13 55.9L13 39.4L13 39.4Z" id="Attack-Exp" fill="#FFFFFF" fill-opacity="0.14117648" fill-rule="evenodd" stroke="none" />
+    <path d="M7 20.4L13 20.4L13 36.7L7 36.7L7 20.4L7 20.4Z" id="Attack-Lin" fill="#FFFFFF" fill-opacity="0.14117648" fill-rule="evenodd" stroke="none" />
+    <path d="M1 1.39999L7 1.39999L7 17.9L1 17.9L1 1.39999L1 1.39999Z" id="Attack-Log" fill="#FFFFFF" fill-opacity="0.14117648" fill-rule="evenodd" stroke="none" />
+  </g>
+</svg>

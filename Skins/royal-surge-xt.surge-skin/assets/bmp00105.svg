@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="48px" height="281px" viewBox="0 0 48 281" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M0 0L48 0L48 281L0 281L0 0Z" id="path_1" />
+    <rect width="48" height="281" id="artboard_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#artboard_1" clip-rule="evenodd" />
+    </clipPath>
+    <clipPath id="mask_1">
+      <use xlink:href="#path_1" />
+    </clipPath>
+  </defs>
+  <g id="bmp00105" clip-path="url(#clip_1)">
+    <path d="M0 0L48 0L48 281L0 281L0 0Z" id="Background" fill="none" fill-rule="evenodd" stroke="none" />
+    <g clip-path="url(#mask_1)">
+      <path d="M39 235L42 235L42 275L39 275L39 235Z" id="path42838" fill="#FFFFFF" fill-opacity="0.21" fill-rule="evenodd" stroke="none" />
+      <path d="M23 235L26 235L26 275L23 275L23 235Z" id="path42840" fill="#FFFFFF" fill-opacity="0.21" fill-rule="evenodd" stroke="none" />
+      <path d="M7 235L10 235L10 275L7 275L7 235Z" id="path42842" fill="#FFFFFF" fill-opacity="0.21" fill-rule="evenodd" stroke="none" />
+      <path d="M39 160L42 160L42 200L39 200L39 160Z" id="path42832" fill="#FFFFFF" fill-opacity="0.21" fill-rule="evenodd" stroke="none" />
+      <path d="M23 160L26 160L26 200L23 200L23 160Z" id="path42834" fill="#FFFFFF" fill-opacity="0.21" fill-rule="evenodd" stroke="none" />
+      <path d="M7 160L10 160L10 200L7 200L7 160Z" id="path42836" fill="#FFFFFF" fill-opacity="0.21" fill-rule="evenodd" stroke="none" />
+      <path d="M39 85L42 85L42 142L39 142L39 85Z" id="path42826" fill="#FFFFFF" fill-opacity="0.21" fill-rule="evenodd" stroke="none" />
+      <path d="M23 85L26 85L26 142L23 142L23 85Z" id="path42828" fill="#FFFFFF" fill-opacity="0.21" fill-rule="evenodd" stroke="none" />
+      <path d="M7 85L10 85L10 142L7 142L7 85Z" id="path42830" fill="#FFFFFF" fill-opacity="0.21" fill-rule="evenodd" stroke="none" />
+      <path d="M39 10L42 10L42 67L39 67L39 10Z" id="path42824" fill="#FFFFFF" fill-opacity="0.21" fill-rule="evenodd" stroke="none" />
+      <path d="M23 10L26 10L26 67L23 67L23 10Z" id="path42822" fill="#FFFFFF" fill-opacity="0.21" fill-rule="evenodd" stroke="none" />
+      <path d="M7 10L10 10L10 67L7 67L7 10Z" id="path42820" fill="#FFFFFF" fill-opacity="0.21" fill-rule="evenodd" stroke="none" />
+      <path d="M7 8.99995L9 8.99995L9 66L7 66L7 8.99995Z" id="Rectangle" fill="#070403" fill-rule="evenodd" stroke="none" />
+      <path d="M4 8.99995L5 8.99995L5 9.99995L4 9.99995L4 8.99995Z" id="path41758" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
+      <path d="M11 8.99995L12 8.99995L12 9.99995L11 9.99995L11 8.99995Z" id="path41760" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
+      <path d="M4 65L5 65L5 66L4 66L4 65Z" id="path41762" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
+      <path d="M11 65L12 65L12 66L11 66L11 65Z" id="path41764" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
+      <path d="M10 64L10 11L14 11L10.6667 64L10 64Z" id="Shape" fill="#FFFFFF" fill-opacity="0.08" fill-rule="evenodd" stroke="none" />
+      <path d="M7 84L9 84L9 141L7 141L7 84Z" id="path41770" fill="#070403" fill-rule="evenodd" stroke="none" />
+      <path d="M4 84L5 84L5 85L4 85L4 84Z" id="path41772" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
+      <path d="M11 84L12 84L12 85L11 85L11 84Z" id="path41774" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
+      <path d="M4 140L5 140L5 141L4 141L4 140Z" id="path41776" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
+      <path d="M11 140L12 140L12 141L11 141L11 140Z" id="path41778" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
+      <path d="M10 111L10.6667 111L14 86L10 86L10 111Z" id="path41782" fill="#D1BFB9" fill-opacity="0.2" fill-rule="evenodd" stroke="none" />
+      <path d="M6 114L5.33333 114L2 139L6 139L6 114Z" id="path41784" fill="#D1BFB9" fill-opacity="0.2" fill-rule="evenodd" stroke="none" />
+      <path d="M4 112L5 112L5 113L4 113L4 112Z" id="path41786" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
+      <path d="M11 112L12 112L12 113L11 113L11 112Z" id="path41788" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
+      <path d="M23 8.99995L25 8.99995L25 66L23 66L23 8.99995Z" id="path41794" fill="#070403" fill-rule="evenodd" stroke="none" />
+      <path d="M20 8.99995L21 8.99995L21 9.99995L20 9.99995L20 8.99995Z" id="path41796" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
+      <path d="M27 8.99995L28 8.99995L28 9.99995L27 9.99995L27 8.99995Z" id="path41798" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
+      <path d="M20 65L21 65L21 66L20 66L20 65Z" id="path41800" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
+      <path d="M27 65L28 65L28 66L27 66L27 65Z" id="path41802" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
+      <path d="M26 64L26 11L30 11L26.6667 64L26 64Z" id="path41806" fill="#95B9F6" fill-opacity="0.4" fill-rule="evenodd" stroke="none" />
+      <path d="M23 84L25 84L25 141L23 141L23 84Z" id="path41810" fill="#070403" fill-rule="evenodd" stroke="none" />
+      <path d="M20 84L21 84L21 85L20 85L20 84Z" id="path41812" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
+      <path d="M27 84L28 84L28 85L27 85L27 84Z" id="path41814" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
+      <path d="M20 140L21 140L21 141L20 141L20 140Z" id="path41816" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
+      <path d="M27 140L28 140L28 141L27 141L27 140Z" id="path41818" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
+      <path d="M26 111L26.6667 111L30 86L26 86L26 111Z" id="path41822" fill="#95B9F6" fill-opacity="0.4" fill-rule="evenodd" stroke="none" />
+      <path d="M22 114L21.3333 114L18 139L22 139L22 114Z" id="path41824" fill="#95B9F6" fill-opacity="0.4" fill-rule="evenodd" stroke="none" />
+      <path d="M20 112L21 112L21 113L20 113L20 112Z" id="path41826" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
+      <path d="M27 112L28 112L28 113L27 113L27 112Z" id="path41828" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
+      <path d="M39 84L41 84L41 141L39 141L39 84Z" id="path41834" fill="#070403" fill-rule="evenodd" stroke="none" />
+      <path d="M36 84L37 84L37 85L36 85L36 84Z" id="path41836" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
+      <path d="M43 84L44 84L44 85L43 85L43 84Z" id="path41838" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
+      <path d="M36 140L37 140L37 141L36 141L36 140Z" id="path41840" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
+      <path d="M43 140L44 140L44 141L43 141L43 140Z" id="path41842" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
+      <path d="M42 111L42.6667 111L46 86L42 86L42 111Z" id="path41846" fill="#95B9F6" fill-opacity="0.8" fill-rule="evenodd" stroke="none" />
+      <path d="M38 114L37.3333 114L34 139L38 139L38 114Z" id="path41848" fill="#95B9F6" fill-opacity="0.8" fill-rule="evenodd" stroke="none" />
+      <path d="M36 112L37 112L37 113L36 113L36 112Z" id="path41850" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
+      <path d="M43 112L44 112L44 113L43 113L43 112Z" id="path41852" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
+      <path d="M39 8.99995L41 8.99995L41 66L39 66L39 8.99995Z" id="path41858" fill="#070403" fill-rule="evenodd" stroke="none" />
+      <path d="M36 8.99995L37 8.99995L37 9.99995L36 9.99995L36 8.99995Z" id="path41860" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
+      <path d="M43 8.99995L44 8.99995L44 9.99995L43 9.99995L43 8.99995Z" id="path41862" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
+      <path d="M36 65L37 65L37 66L36 66L36 65Z" id="path41864" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
+      <path d="M43 65L44 65L44 66L43 66L43 65Z" id="path41866" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
+      <path d="M42 64L42 11L46 11L42.6667 64L42 64Z" id="path41870" fill="#95B9F6" fill-rule="evenodd" stroke="none" />
+      <path d="M10 272L10 236L14 236L10.6667 272L10 272Z" id="path41874" fill="#98999B" fill-opacity="0.2" fill-rule="evenodd" stroke="none" />
+      <path d="M7 234L9 234L9 274L7 274L7 234Z" id="path41876" fill="#070403" fill-rule="evenodd" stroke="none" />
+      <path d="M4 273L5 273L5 274L4 274L4 273Z" id="path41878" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
+      <path d="M4 234L5 234L5 235L4 235L4 234Z" id="path41880" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
+      <path d="M11 273L12 273L12 274L11 274L11 273Z" id="path41882" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
+      <path d="M11 234L12 234L12 235L11 235L11 234Z" id="path41884" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
+      <path d="M10 197L10 161L14 161L10.6667 197L10 197Z" id="path41890" fill="#98999B" fill-opacity="0.2" fill-rule="evenodd" stroke="none" />
+      <path d="M7 159L9 159L9 199L7 199L7 159Z" id="path41892" fill="#070403" fill-rule="evenodd" stroke="none" />
+      <path d="M4 198L5 198L5 199L4 199L4 198Z" id="path41894" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
+      <path d="M4 159L5 159L5 160L4 160L4 159Z" id="path41896" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
+      <path d="M11 198L12 198L12 199L11 199L11 198Z" id="path41898" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
+      <path d="M11 159L12 159L12 160L11 160L11 159Z" id="path41900" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
+      <path d="M26 272L26 236L30 236L26.6667 272L26 272Z" id="path41906" fill="#95B9F6" fill-opacity="0.4" fill-rule="evenodd" stroke="none" />
+      <path d="M23 234L25 234L25 274L23 274L23 234Z" id="path41908" fill="#070403" fill-rule="evenodd" stroke="none" />
+      <path d="M20 273L21 273L21 274L20 274L20 273Z" id="path41910" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
+      <path d="M20 234L21 234L21 235L20 235L20 234Z" id="path41912" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
+      <path d="M27 273L28 273L28 274L27 274L27 273Z" id="path41914" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
+      <path d="M27 234L28 234L28 235L27 235L27 234Z" id="path41916" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
+      <path d="M26 197L26 161L30 161L26.6667 197L26 197Z" id="path41922" fill="#95B9F6" fill-opacity="0.4" fill-rule="evenodd" stroke="none" />
+      <path d="M23 159L25 159L25 199L23 199L23 159Z" id="path41924" fill="#070403" fill-rule="evenodd" stroke="none" />
+      <path d="M20 198L21 198L21 199L20 199L20 198Z" id="path41926" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
+      <path d="M20 159L21 159L21 160L20 160L20 159Z" id="path41928" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
+      <path d="M27 198L28 198L28 199L27 199L27 198Z" id="path41930" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
+      <path d="M27 159L28 159L28 160L27 160L27 159Z" id="path41932" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
+      <path d="M42 272L42 236L46 236L42.6667 272L42 272Z" id="path41938" fill="#95B9F6" fill-opacity="0.8" fill-rule="evenodd" stroke="none" />
+      <path d="M39 234L41 234L41 274L39 274L39 234Z" id="path41940" fill="#070403" fill-rule="evenodd" stroke="none" />
+      <path d="M36 273L37 273L37 274L36 274L36 273Z" id="path41942" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
+      <path d="M36 234L37 234L37 235L36 235L36 234Z" id="path41944" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
+      <path d="M43 273L44 273L44 274L43 274L43 273Z" id="path41946" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
+      <path d="M43 234L44 234L44 235L43 235L43 234Z" id="path41948" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
+      <path d="M42 197L42 161L46 161L42.6667 197L42 197Z" id="path41954" fill="#95B9F6" fill-opacity="0.8" fill-rule="evenodd" stroke="none" />
+      <path d="M39 159L41 159L41 199L39 199L39 159Z" id="path41956" fill="#070403" fill-rule="evenodd" stroke="none" />
+      <path d="M36 198L37 198L37 199L36 199L36 198Z" id="path41958" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
+      <path d="M36 159L37 159L37 160L36 160L36 159Z" id="path41960" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
+      <path d="M43 198L44 198L44 199L43 199L43 198Z" id="path41962" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
+      <path d="M43 159L44 159L44 160L43 160L43 159Z" id="path41964" fill="#D1BFB9" fill-rule="evenodd" stroke="none" />
+    </g>
+  </g>
+</svg>
