@@ -1,4 +1,13 @@
-<svg width="31" height="21" viewBox="0 0 31 21" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path fill-rule="evenodd" clip-rule="evenodd" d="M1.84643 0.414219L15.2487 0.4142V9.99697L1.84643 9.99699C1.05588 9.99699 0.419434 9.36054 0.419434 8.56998V1.84121C0.419434 1.05066 1.05588 0.414219 1.84643 0.414219Z" fill="white" fill-opacity="0.08"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M29.1785 11.4142H15.7539V20.997H29.1785C29.9553 20.997 30.5806 20.3605 30.5806 19.57V12.8412C30.5806 12.0506 29.9553 11.4142 29.1785 11.4142Z" fill="white" fill-opacity="0.08"/>
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="33px" height="26px" viewBox="0 0 33 26" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <rect width="33" height="26" id="artboard_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#artboard_1" clip-rule="evenodd" />
+    </clipPath>
+  </defs>
+  <g id="wstypearrows_hover" clip-path="url(#clip_1)">
+    <path d="M2.84643 1.4142L16.2487 1.41418L16.2487 10.997L2.84643 10.997C2.05588 10.997 1.41943 10.3605 1.41943 9.56996L1.41943 2.84119C1.41943 2.05064 2.05588 1.4142 2.84643 1.4142L2.84643 1.4142Z" id="Shape" fill="#FFFFFF" fill-opacity="0.078431375" fill-rule="evenodd" stroke="none" />
+    <path d="M30.1785 14.4142L16.7539 14.4142L16.7539 23.997L30.1785 23.997C30.9553 23.997 31.5806 23.3605 31.5806 22.57L31.5806 15.8412C31.5806 15.0506 30.9553 14.4142 30.1785 14.4142L30.1785 14.4142Z" id="Shape" fill="#FFFFFF" fill-opacity="0.078431375" fill-rule="evenodd" stroke="none" />
+  </g>
 </svg>

@@ -135,6 +135,9 @@
     <color id="effect.grid.scene.background" value="none"/>
     <color id="effect.grid.scene.border" value="fxgrid"/>
     <color id="effect.grid.scene.text" value="fxgrid"/>
+    <color id="effect.grid.scene.background.hover" value="fxhovertrans"/>
+    <color id="effect.grid.scene.border.hover" value="fxgrid"/>
+    <color id="effect.grid.scene.text.hover" value="fxgrid"/>
 
     <color id="effect.grid.unselected.background" value="none"/>
     <color id="effect.grid.unselected.border" value="fxgrid"/>
@@ -334,8 +337,8 @@
     <color id="formulaeditor.linenumber.background" value="#2D2D2D"/>
     <color id="formulaeditor.linenumber.text" value="#808080"/>
 
-    <color id="formulaeditor.debugger.row.primary" value="#2D2D2D"/>
-    <color id="formulaeditor.debugger.row.secondary" value="#242424"/>
+    <color id="formulaeditor.debugger.row.primary" value="#484144"/>
+    <color id="formulaeditor.debugger.row.secondary" value="#302B2D"/>
     <color id="formulaeditor.debugger.text" value="#808080"/>
     <color id="formulaeditor.debugger.text.subscriptions" value="#606060"/>
 
@@ -481,9 +484,9 @@
 
     <!-- WAVESHAPER -->
     <control ui_identifier="filter.waveshaper_drive" x="399" y="314"/>
-    <control ui_identifier="filter.waveshaper_type" x="422" y="324" w="36" h="53"/>
-    <control ui_identifier="filter.waveshaper_prevnext" class="ws-type-prevnext" x="425" y="387" w="31" h="11"/>
-    <control ui_identifier="filter.waveshaper_preview" x="427" y="286"/>
+    <control ui_identifier="filter.waveshaper_type" x="422" y="328" w="36" h="53"/>
+    <control ui_identifier="filter.waveshaper_prevnext" class="ws-type-prevnext" x="423" y="386" w="33" h="13"/>
+    <control ui_identifier="filter.waveshaper_preview" x="434" y="313"/>
 
     <!-- FILTER EG -->
     <control ui_identifier="feg.panel" x="484" y="280"/>
@@ -539,6 +542,8 @@
 
     <control ui_identifier="global.fx1_return" x="781" y="153"/>
     <control ui_identifier="global.fx2_return" x="781" y="174"/>
+    <control ui_identifier="global.fx3_return" x="781" y="153"/>
+    <control ui_identifier="global.fx4_return" x="781" y="174"/>
 
     <control ui_identifier="fx.type" x="783" y="205" w="133" h="18"/>
     <control ui_identifier="fx.preset.name" x="783" y="224" w="94"/>
