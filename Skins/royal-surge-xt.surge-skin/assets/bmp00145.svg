@@ -8,89 +8,89 @@
   </defs>
   <g id="bmp00145" clip-path="url(#clip_1)">
     <g id="Sustain" transform="translate(0 172.21301)">
-      <path d="M0 0L19 0L19 17L0 17L0 0Z" id="BG" fill="#343033" fill-rule="evenodd" stroke="none" />
+      <path d="M0 0L19 0L19 17L0 17L0 0Z" id="BG" fill="#322C30" fill-rule="evenodd" stroke="none" />
       <g id="g93" transform="translate(0 8.286987)" opacity="0.8">
-        <path d="M0 0L19 0L19 8.39999L0 8.39999L0 0Z" id="Fill" fill="#75686D" fill-opacity="0.8" fill-rule="evenodd" stroke="none" />
+        <path d="M0 0L19 0L19 8.39999L0 8.39999L0 0Z" id="Fill" fill="#75696E" fill-opacity="0.8" fill-rule="evenodd" stroke="none" />
         <path d="M0 0L19 0" id="Stroke" fill="none" fill-rule="evenodd" stroke="#FF9931" stroke-opacity="0.6243138" stroke-width="0.6" stroke-linejoin="round" />
       </g>
     </g>
     <g id="Release-Exp-2" transform="translate(-1.1444092E-05 153)">
-      <path d="M1.14441e-05 0L19 0L19 17L1.14441e-05 17L1.14441e-05 0Z" id="BG" fill="#343033" fill-rule="evenodd" stroke="none" />
+      <path d="M1.14441e-05 0L19 0L19 17L1.14441e-05 17L1.14441e-05 0Z" id="BG" fill="#322C30" fill-rule="evenodd" stroke="none" />
       <path d="M13.0019 0.399994L19.0019 0.399994L19.0019 16.8L13.0019 16.8L13.0019 0.399994Z" id="rect113" fill="#886551" fill-rule="evenodd" stroke="none" />
       <g id="g133" transform="translate(0 8.805847)">
-        <path d="M1.41907e-06 0.00413754C1.52586 8.48817 19 8.09415 19 8.09415L0 8.09414C0 8.09414 0.000541442 0.00178528 1.41907e-06 0.00413754Z" id="Fill" fill="#75686D" fill-opacity="0.8" fill-rule="evenodd" stroke="none" />
+        <path d="M1.41907e-06 0.00413754C1.52586 8.48817 19 8.09415 19 8.09415L0 8.09414C0 8.09414 0.000541442 0.00178528 1.41907e-06 0.00413754Z" id="Fill" fill="#75696E" fill-opacity="0.8" fill-rule="evenodd" stroke="none" />
         <path d="M0.274059 0C1.20653 8.73387 19 7.79416 19 7.79416" id="Stroke" fill="none" fill-rule="evenodd" stroke="#B8783D" stroke-opacity="0.8" stroke-width="0.6" stroke-linejoin="round" />
       </g>
       <path d="M1.14441e-05 0L19 0L19 17L1.14441e-05 17L1.14441e-05 0Z" id="rect135" fill="#E1CBBC" fill-opacity="0" fill-rule="evenodd" stroke="none" />
     </g>
     <g id="Release-Exp-1" transform="translate(0 134)">
-      <path d="M0 0L19 0L19 17L0 17L0 0Z" id="BG" fill="#343033" fill-rule="evenodd" stroke="none" />
+      <path d="M0 0L19 0L19 17L0 17L0 0Z" id="BG" fill="#322C30" fill-rule="evenodd" stroke="none" />
       <path d="M7 0.400009L13 0.400009L13 16.8L7 16.8L7 0.400009Z" id="rect113" fill="#886551" fill-rule="evenodd" stroke="none" />
       <g id="g119" transform="translate(0 8.499985)">
-        <path d="M7.62939e-06 3.80515e-05C7.49098 6.91739 19 8.40002 19 8.40002L7.91489e-06 8.40002C7.91489e-06 8.40002 0.0493546 -0.0201188 7.62939e-06 3.80515e-05Z" id="Fill" fill="#75686D" fill-opacity="0.8" fill-rule="evenodd" stroke="none" />
+        <path d="M7.62939e-06 3.80515e-05C7.49098 6.91739 19 8.40002 19 8.40002L7.91489e-06 8.40002C7.91489e-06 8.40002 0.0493546 -0.0201188 7.62939e-06 3.80515e-05Z" id="Fill" fill="#75696E" fill-opacity="0.8" fill-rule="evenodd" stroke="none" />
         <path d="M0 1.52588e-05C7.49097 6.91737 19 8.30006 19 8.30006" id="Stroke" fill="none" fill-rule="evenodd" stroke="#B8783D" stroke-opacity="0.8" stroke-width="0.6" stroke-linejoin="round" />
       </g>
       <path d="M0 0L19 0L19 17L0 17L0 0Z" id="rect121" fill="#E1CBBC" fill-opacity="0" fill-rule="evenodd" stroke="none" />
     </g>
     <g id="Release-Lin" transform="translate(0 115)">
-      <path d="M0 0L19 0L19 17L0 17L0 0Z" id="BG" fill="#343033" fill-rule="evenodd" stroke="none" />
+      <path d="M0 0L19 0L19 17L0 17L0 0Z" id="BG" fill="#322C30" fill-rule="evenodd" stroke="none" />
       <path d="M1 0.400002L7 0.400002L7 16.8L1 16.8L1 0.400002Z" id="rect97" fill="#886551" fill-rule="evenodd" stroke="none" />
       <g id="g105" transform="translate(0 8.5)">
-        <path d="M0 0L19 8.39999L0 8.39999L0 0Z" id="Fill" fill="#75686D" fill-opacity="0.8" fill-rule="evenodd" stroke="none" />
+        <path d="M0 0L19 8.39999L0 8.39999L0 0Z" id="Fill" fill="#75696E" fill-opacity="0.8" fill-rule="evenodd" stroke="none" />
         <path d="M0 0L19 8.30005" id="Stroke" fill="none" fill-rule="evenodd" stroke="#B8783D" stroke-opacity="0.8" stroke-width="0.6" stroke-linejoin="round" />
       </g>
       <path d="M0 0L19 0L19 17L0 17L0 0Z" id="rect107" fill="#E1CBBC" fill-opacity="0" fill-rule="evenodd" stroke="none" />
     </g>
     <g id="Decay-Exp-2" transform="translate(-0.002822876 96)">
-      <path d="M0.00282288 0L19.0028 0L19.0028 17L0.00282288 17L0.00282288 0Z" id="BG" fill="#343033" fill-rule="evenodd" stroke="none" />
+      <path d="M0.00282288 0L19.0028 0L19.0028 17L0.00282288 17L0.00282288 0Z" id="BG" fill="#322C30" fill-rule="evenodd" stroke="none" />
       <path d="M13.0028 0.400002L19.0028 0.400002L19.0028 16.8L13.0028 16.8L13.0028 0.400002Z" id="rect81" fill="#886551" fill-rule="evenodd" stroke="none" />
       <g id="g85" transform="translate(0 0.44921875)">
-        <path d="M0.00282286 0.0507813C1.88381 9.22961 19.0028 8.05077 19.0028 8.05077L19.0028 16.5508L0.00282271 16.5508C0.00282271 16.5508 -0.00352849 -0.0366506 0.00282286 0.0507813Z" id="Fill" fill="#75686D" fill-opacity="0.8" fill-rule="evenodd" stroke="none" />
+        <path d="M0.00282286 0.0507813C1.88381 9.22961 19.0028 8.05077 19.0028 8.05077L19.0028 16.5508L0.00282271 16.5508C0.00282271 16.5508 -0.00352849 -0.0366506 0.00282286 0.0507813Z" id="Fill" fill="#75696E" fill-opacity="0.8" fill-rule="evenodd" stroke="none" />
         <path d="M0.213638 0C2.09462 9.17883 19.0028 8.05078 19.0028 8.05078" id="Stroke" fill="none" fill-rule="evenodd" stroke="#B8783D" stroke-opacity="0.8" stroke-width="0.6" stroke-linejoin="round" />
       </g>
       <path d="M0.00282288 0L19.0028 0L19.0028 17L0.00282288 17L0.00282288 0Z" id="rect87" fill="#E1CBBC" fill-opacity="0" fill-rule="evenodd" stroke="none" />
     </g>
     <g id="Decay-Exp-1" transform="translate(-0.013656616 77)">
-      <path d="M0.0136566 0L19.0137 0L19.0137 17L0.0136566 17L0.0136566 0Z" id="BG" fill="#343033" fill-rule="evenodd" stroke="none" />
+      <path d="M0.0136566 0L19.0137 0L19.0137 17L0.0136566 17L0.0136566 0Z" id="BG" fill="#322C30" fill-rule="evenodd" stroke="none" />
       <path d="M7.01366 0.400002L13.0137 0.400002L13.0137 16.8L7.01366 16.8L7.01366 0.400002Z" id="rect65" fill="#886551" fill-rule="evenodd" stroke="none" />
       <g id="g71" transform="translate(0 0.40794373)">
-        <path d="M0.0136317 7.51609e-05C6.9266 7.73079 19.0136 8.09205 19.0136 8.09205L19.0136 16.5921L0.0136317 16.5921C0.0136317 16.5921 -0.0170397 -0.040765 0.0136317 7.51609e-05Z" id="Fill" fill="#75686D" fill-opacity="0.8" fill-rule="evenodd" stroke="none" />
+        <path d="M0.0136317 7.51609e-05C6.9266 7.73079 19.0136 8.09205 19.0136 8.09205L19.0136 16.5921L0.0136317 16.5921C0.0136317 16.5921 -0.0170397 -0.040765 0.0136317 7.51609e-05Z" id="Fill" fill="#75696E" fill-opacity="0.8" fill-rule="evenodd" stroke="none" />
         <path d="M0.0136566 7.62939e-05C6.92662 7.73079 19.0137 8.09206 19.0137 8.09206" id="Stroke" fill="none" fill-rule="evenodd" stroke="#B8783D" stroke-opacity="0.8" stroke-width="0.6" stroke-linejoin="round" />
       </g>
       <path d="M0.0136566 0L19.0137 0L19.0137 17L0.0136566 17L0.0136566 0Z" id="rect73" fill="#E1CBBC" fill-opacity="0" fill-rule="evenodd" stroke="none" />
     </g>
     <g id="Decay-Lin" transform="translate(0 58)">
-      <path d="M0 0L19 0L19 17L0 17L0 0Z" id="BG" fill="#343033" fill-rule="evenodd" stroke="none" />
+      <path d="M0 0L19 0L19 17L0 17L0 0Z" id="BG" fill="#322C30" fill-rule="evenodd" stroke="none" />
       <path d="M1 0.400002L7 0.400002L7 16.8L1 16.8L1 0.400002Z" id="rect49" fill="#886551" fill-rule="evenodd" stroke="none" />
       <g id="g57" transform="translate(0 0.40802002)">
-        <path d="M0 0L19 8.09198L19 16.592L0 16.592C0 16.592 0 0 0 0Z" id="Fill" fill="#75686D" fill-opacity="0.8" fill-rule="evenodd" stroke="none" />
-        <path d="M0 0L19 8.09198" id="Stroke" fill="#75686D" fill-opacity="0.8" fill-rule="evenodd" stroke="#B8783D" stroke-opacity="0.8" stroke-width="0.6" stroke-linejoin="round" />
+        <path d="M0 0L19 8.09198L19 16.592L0 16.592C0 16.592 0 0 0 0Z" id="Fill" fill="#75696E" fill-opacity="0.8" fill-rule="evenodd" stroke="none" />
+        <path d="M0 0L19 8.09198" id="Stroke" fill="#75696E" fill-opacity="0.8" fill-rule="evenodd" stroke="#B8783D" stroke-opacity="0.8" stroke-width="0.6" stroke-linejoin="round" />
       </g>
       <path d="M0 0L19 0L19 17L0 17L0 0Z" id="rect59" fill="#E1CBBC" fill-opacity="0" fill-rule="evenodd" stroke="none" />
     </g>
     <g id="Attack-Exp" transform="translate(0 39)">
-      <path d="M0 0L19 0L19 17L0 17L0 0Z" id="BG" fill="#343033" fill-rule="evenodd" stroke="none" />
+      <path d="M0 0L19 0L19 17L0 17L0 0Z" id="BG" fill="#322C30" fill-rule="evenodd" stroke="none" />
       <path d="M13 0.400002L19 0.400002L19 16.9L13 16.9L13 0.400002Z" id="rect39" fill="#886551" fill-rule="evenodd" stroke="none" />
       <g id="g888" transform="translate(0.27999878 1)" opacity="0.8">
-        <path d="M0 15.9C9.25598 15.9 18.42 7.73041 18.42 0C28.62 0 18.42 15.9 18.42 15.9L0 15.9Z" id="Fill" fill="#75686D" fill-rule="evenodd" stroke="none" />
+        <path d="M0 15.9C9.25598 15.9 18.42 7.73041 18.42 0C28.62 0 18.42 15.9 18.42 15.9L0 15.9Z" id="Fill" fill="#75696E" fill-rule="evenodd" stroke="none" />
         <path d="M0 15.9C9.25598 15.9 18.42 7.73041 18.42 0" id="Stroke" fill="none" fill-rule="evenodd" stroke="#B8783D" stroke-width="0.6" />
       </g>
       <path d="M0 0L19 0L19 17L0 17L0 0Z" id="rect45" fill="#E1CBBC" fill-opacity="0" fill-rule="evenodd" stroke="none" />
     </g>
     <g id="Attack-Lin" transform="translate(0 20)">
-      <path d="M0 0L19 0L19 17L0 17L0 0Z" id="BG" fill="#343033" fill-rule="evenodd" stroke="none" />
+      <path d="M0 0L19 0L19 17L0 17L0 0Z" id="BG" fill="#322C30" fill-rule="evenodd" stroke="none" />
       <path d="M7 0.400002L13 0.400002L13 16.7L7 16.7L7 0.400002Z" id="rect23" fill="#886551" fill-rule="evenodd" stroke="none" />
       <g id="g29" transform="translate(0.40000153 0.50549316)">
-        <path d="M0 16.3945C4.75 12.4479 18.604 0 18.604 0L18.6 16.3945L0 16.3945Z" id="Fill" fill="#75686D" fill-opacity="0.8" fill-rule="evenodd" stroke="none" />
+        <path d="M0 16.3945C4.75 12.4479 18.604 0 18.604 0L18.6 16.3945L0 16.3945Z" id="Fill" fill="#75696E" fill-opacity="0.8" fill-rule="evenodd" stroke="none" />
         <path d="M0 16.3945C4.75 12.4479 18.604 0 18.604 0" id="Stroke" fill="none" fill-rule="evenodd" stroke="#B8783D" stroke-opacity="0.8" stroke-width="0.6" stroke-linejoin="round" />
       </g>
       <path d="M0 0L19 0L19 17L0 17L0 0Z" id="rect31" fill="#E1CBBC" fill-opacity="0" fill-rule="evenodd" stroke="none" />
     </g>
     <g id="Attack-Log" transform="translate(0 1)">
-      <path d="M0 0L19 0L19 17L0 17L0 0Z" id="BG" fill="#343033" fill-rule="evenodd" stroke="none" />
+      <path d="M0 0L19 0L19 17L0 17L0 0Z" id="BG" fill="#322C30" fill-rule="evenodd" stroke="none" />
       <path d="M1 0.4L7 0.4L7 16.9L1 16.9L1 0.4Z" id="rect7" fill="#886551" fill-rule="evenodd" stroke="none" />
       <g id="g15" transform="translate(0.40405273 0.6068115)">
-        <path d="M0 16.2932C0 9.73206 8.39197 0 18.6 0C18.6469 0 18.6 16.2932 18.6 16.2932L0 16.2932Z" id="Fill" fill="#75686D" fill-opacity="0.8" fill-rule="evenodd" stroke="none" />
+        <path d="M0 16.2932C0 9.73206 8.39197 0 18.6 0C18.6469 0 18.6 16.2932 18.6 16.2932L0 16.2932Z" id="Fill" fill="#75696E" fill-opacity="0.8" fill-rule="evenodd" stroke="none" />
         <path d="M0 16.2932C0 9.73206 8.39197 0 18.6 0" id="Stroke" fill="none" fill-rule="evenodd" stroke="#B8783D" stroke-opacity="0.8" stroke-width="0.6" stroke-linejoin="round" />
       </g>
       <path d="M0 0L19 0L19 17L0 17L0 0Z" id="rect17" fill="#E1CBBC" fill-opacity="0" fill-rule="evenodd" stroke="none" />

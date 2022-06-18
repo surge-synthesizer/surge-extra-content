@@ -1,20 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg width="14px" height="21px" viewbox="0 0 14 21" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+<svg width="16px" height="27px" viewBox="0 0 16 27" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <rect width="14" height="21" id="artboard_1" />
+    <rect width="15.999999" height="27" id="artboard_1" />
     <clipPath id="clip_1">
       <use xlink:href="#artboard_1" clip-rule="evenodd" />
     </clipPath>
   </defs>
   <g id="hover00143" clip-path="url(#clip_1)">
-    <g id="Group" transform="translate(5.0000305 7.0000534)">
-      <path d="M0 0L4 0L4 7L0 7L0 0Z" id="Rectangle" fill="#988536" fill-rule="evenodd" stroke="none" />
-    </g>
-    <g id="Group" transform="translate(10.0000305 14.000053)">
-      <path d="M0 0L4 0L4 7L0 7L0 0Z" id="Rectangle" fill="#988536" fill-rule="evenodd" stroke="none" />
-    </g>
-    <g id="Group" transform="translate(3.0517578E-05 5.340576E-05)">
-      <path d="M0 0L4 0L4 7L0 7L0 0Z" id="Rectangle" fill="#988536" fill-rule="evenodd" stroke="none" />
-    </g>
+    <path d="M11 19L15 19L15 26L11 26L11 19Z" id="F2" fill="#988536" fill-rule="evenodd" stroke="none" />
+    <path d="M6 10L10 10L10 17L6 17L6 10Z" id="F1+F2" fill="#988536" fill-rule="evenodd" stroke="none" />
+    <path d="M1 1L5 1L5 8L1 8L1 1Z" id="F1" fill="#988536" fill-rule="evenodd" stroke="none" />
   </g>
 </svg>

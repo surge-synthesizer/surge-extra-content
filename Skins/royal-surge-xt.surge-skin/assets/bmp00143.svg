@@ -1,1 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="14" height="21" viewBox="0 0 14 21"><g transform="translate(2.081 16.645)"><g transform="translate(2.919 -16.645)"><rect width="4" height="7" fill="#6a5f60"/></g><g transform="translate(2.919 -9.645)"><rect width="4" height="7" fill="#f5d638"/></g><g transform="translate(2.919 -2.645)"><rect width="4" height="7" fill="#6a5f60"/></g><g transform="translate(7.919 -16.645)"><rect width="4" height="7" fill="#6a5f60"/></g><g transform="translate(7.919 -9.645)"><rect width="4" height="7" fill="#6a5f60"/></g><g transform="translate(7.919 -2.645)"><rect width="4" height="7" fill="#f5d638"/></g><g transform="translate(-2.081 -16.645)"><rect width="4" height="7" fill="#f5d638"/></g><g transform="translate(-2.081 -9.645)"><rect width="4" height="7" fill="#6a5f60"/></g><g transform="translate(-2.081 -2.645)"><rect width="4" height="7" fill="#6a5f60"/></g></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="16px" height="27px" viewBox="0 0 16 27" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <rect width="15.999999" height="27" id="artboard_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#artboard_1" clip-rule="evenodd" />
+    </clipPath>
+  </defs>
+  <g id="bmp00143" clip-path="url(#clip_1)">
+    <g id="F2" transform="translate(1 19)">
+      <path d="M5 0L9 0L9 7L5 7L5 0Z" id="Rectangle" fill="#6A5F60" fill-rule="evenodd" stroke="none" />
+      <path d="M10 0L14 0L14 7L10 7L10 0Z" id="Rectangle" fill="#F5D638" fill-rule="evenodd" stroke="none" />
+      <path d="M0 0L4 0L4 7L0 7L0 0Z" id="Rectangle" fill="#6A5F60" fill-rule="evenodd" stroke="none" />
+    </g>
+    <g id="F1+F2" transform="translate(1 10)">
+      <path d="M5 0L9 0L9 7L5 7L5 0Z" id="Rectangle" fill="#F5D638" fill-rule="evenodd" stroke="none" />
+      <path d="M10 0L14 0L14 7L10 7L10 0Z" id="Rectangle" fill="#6A5F60" fill-rule="evenodd" stroke="none" />
+      <path d="M0 0L4 0L4 7L0 7L0 0Z" id="Rectangle" fill="#6A5F60" fill-rule="evenodd" stroke="none" />
+    </g>
+    <g id="F1" transform="translate(1 1)">
+      <path d="M5 0L9 0L9 7L5 7L5 0Z" id="Rectangle" fill="#6A5F60" fill-rule="evenodd" stroke="none" />
+      <path d="M10 0L14 0L14 7L10 7L10 0Z" id="Rectangle" fill="#6A5F60" fill-rule="evenodd" stroke="none" />
+      <path d="M0 0L4 0L4 7L0 7L0 0Z" id="Rectangle" fill="#F5D638" fill-rule="evenodd" stroke="none" />
+    </g>
+  </g>
+</svg>
