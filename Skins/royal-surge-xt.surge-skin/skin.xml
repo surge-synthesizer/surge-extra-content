@@ -427,12 +427,12 @@
     <!-- MIXER -->
     <control ui_identifier="mixer.panel" x="179" y="281"/>
 
-    <control ui_identifier="mixer.mute_o1" x="2" w="14" h="8"/>
-    <control ui_identifier="mixer.mute_o2" x="22" w="14" h="8"/>
-    <control ui_identifier="mixer.mute_o3" x="42" w="14" h="8"/>
-    <control ui_identifier="mixer.mute_ring12" x="62" w="14" h="8"/>
-    <control ui_identifier="mixer.mute_ring23" x="82" w="14" h="8"/>
-    <control ui_identifier="mixer.mute_noise" x="102" w="14" h="8"/>
+    <control ui_identifier="mixer.mute_o1" x="2" y="0" w="14" h="8"/>
+    <control ui_identifier="mixer.mute_o2" x="22" y="0" w="14" h="8"/>
+    <control ui_identifier="mixer.mute_o3" x="42" y="0" w="14" h="8"/>
+    <control ui_identifier="mixer.mute_ring12" x="62" y="0" w="14" h="8"/>
+    <control ui_identifier="mixer.mute_ring23" x="82" y="0" w="14" h="8"/>
+    <control ui_identifier="mixer.mute_noise" x="102" y="0" w="14" h="8"/>
 
     <control ui_identifier="mixer.solo_o1" x="2" y="9" w="14" h="8"/>
     <control ui_identifier="mixer.solo_o2" x="22" y="9" w="14" h="8"/>
@@ -441,12 +441,12 @@
     <control ui_identifier="mixer.solo_ring23" x="82" y="9" w="14" h="8"/>
     <control ui_identifier="mixer.solo_noise" x="102" y="9" w="14" h="8"/>
 
-    <control ui_identifier="mixer.route_o1" y="20" w="16" h="9"/>
-    <control ui_identifier="mixer.route_o2" y="20" w="16" h="9"/>
-    <control ui_identifier="mixer.route_o3" y="20" w="16" h="9"/>
-    <control ui_identifier="mixer.route_ring12" y="20" w="16" h="9"/>
-    <control ui_identifier="mixer.route_ring23" y="20" w="16" h="9"/>
-    <control ui_identifier="mixer.route_noise" y="20" w="16" h="9"/>
+    <control ui_identifier="mixer.route_o1" x="1" y="20" w="16" h="9"/>
+    <control ui_identifier="mixer.route_o2" x="21" y="20" w="16" h="9"/>
+    <control ui_identifier="mixer.route_o3" x="41" y="20" w="16" h="9"/>
+    <control ui_identifier="mixer.route_ring12" x="61" y="20" w="16" h="9"/>
+    <control ui_identifier="mixer.route_ring23" x="81" y="20" w="16" h="9"/>
+    <control ui_identifier="mixer.route_noise" x="101" y="20" w="16" h="9"/>
 
     <control ui_identifier="mixer.level_o1" x="-1" y="33"/>
     <control ui_identifier="mixer.level_o2" x="19" y="33"/>
