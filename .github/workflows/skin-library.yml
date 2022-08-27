@@ -7,13 +7,13 @@ on:
   pull_request:
     paths:
       - 'Skins/**'
+  workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-
-  Skin-Library:
+  skin-library:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -27,11 +27,9 @@ jobs:
       - name: Changes
         run: echo -e "Changes:\n" > changes.md && git --no-pager log -5 --oneline --no-decorate >> changes.md
 
-      - name: Release
-        uses: softprops/action-gh-release@v0.1.14
-        with:
-          tag_name: skin-library
-          name: Skin Library
-          body_path: changes.md
-          files: |
-            Skins/*.zip
+      - name: Create Release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh release delete skin-library -y
+          gh release create skin-library ./Skins/*.zip -F changes.md -t "Skin Library"
