@@ -31,5 +31,5 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          gh release delete skin-library -y
-          gh release create skin-library ./Skins/*.zip -F changes.md -t "Skin Library"
+          gh release edit skin-library -F changes.md
+          gh release upload skin-library ./Skins/*.zip --clobber
