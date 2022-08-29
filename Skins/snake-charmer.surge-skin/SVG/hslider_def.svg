@@ -1,0 +1,59 @@
+<svg width="56" height="48.00000000000001" xmlns="http://www.w3.org/2000/svg" fill="none">
+ <defs>
+  <linearGradient y2="1" x2="0.5" y1="0.5" x1="0.5" id="a">
+   <stop offset="0.521"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient y2="1" x2="0.5" y1="0" x1="0.5" id="b">
+   <stop stop-color="#9099FF"/>
+   <stop stop-color="#9099FF" offset="0.214"/>
+   <stop stop-color="#7F63F0" offset="0.682"/>
+   <stop stop-color="#5A3CCF" offset="1"/>
+  </linearGradient>
+  <linearGradient y2="1" x2="0.5" y1="0.5" x1="0.5" id="c">
+   <stop offset="0.521"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient y2="1" x2="0.5" y1="0" x1="0.5" id="d">
+   <stop stop-color="#9099FF"/>
+   <stop stop-color="#9099FF" offset="0.214"/>
+   <stop stop-color="#7F63F0" offset="0.682"/>
+   <stop stop-color="#5A3CCF" offset="1"/>
+  </linearGradient>
+  <linearGradient y2="1" x2="0.5" y1="0.5" x1="0.5" id="e">
+   <stop offset="0.521"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient y2="1" x2="0.5" y1="0.5" x1="0.5" id="g">
+   <stop offset="0.521"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient y2="1" x2="0.5" y1="0" x1="0.5" id="svg_17">
+   <stop stop-opacity="0.99609" stop-color="#82f28a"/>
+   <stop stop-opacity="0.99609" stop-color="#5ba560" offset="1"/>
+  </linearGradient>
+  <linearGradient y2="1" x2="0.5" y1="0" x1="0.5" id="svg_18">
+   <stop stop-opacity="0.99219" stop-color="#82f28a"/>
+   <stop stop-opacity="0.99609" stop-color="#5ba560" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_1" fill="url(#a)" d="m11.5,17c3.038,0 5.5,-2.686 5.5,-6s-2.462,-6 -5.5,-6s-5.5,2.686 -5.5,6s2.462,6 5.5,6z"/>
+  <path id="svg_2" fill="url(#b)" d="m11.5,14a5.5,5.5 0 1 0 0,-11a5.5,5.5 0 0 0 0,11z"/>
+  <path id="svg_3" fill="#EEE" d="m11,7.75l0,2a0.5,0.5 0 0 0 1,0l0,-2a0.5,0.5 0 0 0 -1,0z" opacity="0.2"/>
+  <path id="svg_4" fill="#1F1F1F" d="m11,7.5l0,2a0.5,0.5 0 0 0 1,0l0,-2a0.5,0.5 0 0 0 -1,0z"/>
+  <path id="svg_5" fill="url(#c)" d="m11.5,41c3.038,0 5.5,-2.686 5.5,-6s-2.462,-6 -5.5,-6s-5.5,2.686 -5.5,6s2.462,6 5.5,6z"/>
+  <path id="svg_6" fill="url(#d)" d="m11.5,38a5.5,5.5 0 1 0 0,-11a5.5,5.5 0 0 0 0,11z"/>
+  <path id="svg_7" fill="#EEE" d="m11,31.75l0,2a0.5,0.5 0 0 0 1,0l0,-2a0.5,0.5 0 0 0 -1,0z" opacity="0.2"/>
+  <path id="svg_8" fill="#1F1F1F" d="m11,31.5l0,2a0.5,0.5 0 0 0 1,0l0,-2a0.5,0.5 0 0 0 -1,0z"/>
+  <path id="svg_9" fill="url(#e)" d="m39.5,17c3.038,0 5.5,-2.686 5.5,-6s-2.462,-6 -5.5,-6s-5.5,2.686 -5.5,6s2.462,6 5.5,6z"/>
+  <path id="svg_10" fill="url(#svg_17)" d="m39.5,14a5.5,5.5 0 1 0 0,-11a5.5,5.5 0 0 0 0,11z"/>
+  <path id="svg_11" fill="#EEE" d="m39,7.75l0,2a0.5,0.5 0 0 0 1,0l0,-2a0.5,0.5 0 0 0 -1,0z" opacity="0.2"/>
+  <path id="svg_12" fill="#1F1F1F" d="m39,7.5l0,2a0.5,0.5 0 0 0 1,0l0,-2a0.5,0.5 0 0 0 -1,0z"/>
+  <path id="svg_13" fill="url(#g)" d="m39.5,41c3.038,0 5.5,-2.686 5.5,-6s-2.462,-6 -5.5,-6s-5.5,2.686 -5.5,6s2.462,6 5.5,6z"/>
+  <path id="svg_14" fill="url(#svg_18)" d="m39.5,38a5.5,5.5 0 1 0 0,-11a5.5,5.5 0 0 0 0,11z"/>
+  <path id="svg_15" fill="#EEE" d="m39,31.75l0,2a0.5,0.5 0 0 0 1,0l0,-2a0.5,0.5 0 0 0 -1,0z" opacity="0.2"/>
+  <path id="svg_16" fill="#1F1F1F" d="m39,31.5l0,2a0.5,0.5 0 0 0 1,0l0,-2a0.5,0.5 0 0 0 -1,0z"/>
+ </g>
+</svg>

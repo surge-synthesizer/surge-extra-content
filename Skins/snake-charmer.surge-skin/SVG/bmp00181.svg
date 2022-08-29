@@ -1,0 +1,27 @@
+<svg width="122.99999999999999" height="39" xmlns="http://www.w3.org/2000/svg" fill="none">
+ <defs>
+  <linearGradient y2="0.5" x2="1" y1="0.5" x1="0" id="svg_10">
+   <stop stop-opacity="0.99609" stop-color="#4354b7"/>
+   <stop stop-opacity="0.99609" stop-color="#4354b7" offset="0.66146"/>
+   <stop stop-opacity="0.99219" stop-color="#f2da3e" offset="0.96354"/>
+   <stop stop-color="#FF0101" offset="0.9998"/>
+  </linearGradient>
+  <linearGradient y2="0.5" x2="1" y1="0.5" x1="0" id="svg_11">
+   <stop stop-opacity="0.99609" stop-color="#4354b7"/>
+   <stop stop-opacity="0.99609" stop-color="#4354b7" offset="0.11458"/>
+   <stop stop-opacity="0.99609" stop-color="#f2da3e" offset="0.9997"/>
+   <stop stop-color="#FF0101" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <rect id="svg_1" fill="url(#svg_11)" height="3" width="94" y="16" x="4"/>
+  <rect id="svg_2" fill="#FF0001" height="3" width="21" y="16" x="98"/>
+  <rect id="svg_3" fill="url(#svg_11)" height="3" width="94" y="20" x="4"/>
+  <rect id="svg_4" fill="#FF0001" height="3" width="21" y="20" x="98"/>
+  <rect id="svg_5" fill="url(#svg_10)" height="7" width="94" y="3" x="4"/>
+  <rect id="svg_6" fill="#FF0001" height="7" width="21" y="3" x="98"/>
+  <rect id="svg_7" fill="#FF0001" height="7" width="94" y="29" x="4"/>
+  <rect id="svg_8" fill="#FF0001" height="7" width="21" y="29" x="98"/>
+ </g>
+</svg>

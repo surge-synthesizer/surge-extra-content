@@ -1,0 +1,20 @@
+<svg width="28" height="24" xmlns="http://www.w3.org/2000/svg" fill="none">
+ <defs>
+  <linearGradient y2="1" x2="0.5" y1="0.5" x1="0.5" id="a">
+   <stop offset="0.521"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient y2="1" x2="0.5" y1="0" x1="0.5" id="svg_6">
+   <stop stop-opacity="0.99609" stop-color="#9099ff"/>
+   <stop stop-opacity="0.99609" stop-color="#5a3ccf" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_1" fill="url(#a)" d="m9,20c3.038,0 5.5,-2.686 5.5,-6s-2.462,-6 -5.5,-6s-5.5,2.686 -5.5,6s2.462,6 5.5,6z"/>
+  <path id="svg_2" fill="url(#svg_6)" d="m9,17a5.5,5.5 0 1 0 0,-11a5.5,5.5 0 0 0 0,11z"/>
+  <path id="svg_3" stroke="#979797" fill="#EEE" d="m12,11.5a3,3 0 1 1 -6,0a3,3 0 0 1 6,0z"/>
+  <path id="svg_4" fill="#EEE" d="m10,11.25l-2,0a0.5,0.5 0 0 0 0,1l2,0a0.5,0.5 0 0 0 0,-1z" opacity="0.2"/>
+  <path id="svg_5" fill="#1F1F1F" d="m10,11l-2,0a0.5,0.5 0 0 0 0,1l2,0a0.5,0.5 0 0 0 0,-1z"/>
+ </g>
+</svg>

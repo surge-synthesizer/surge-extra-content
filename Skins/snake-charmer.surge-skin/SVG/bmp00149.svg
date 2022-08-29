@@ -1,0 +1,37 @@
+<svg width="32" height="24" xmlns="http://www.w3.org/2000/svg" fill="none">
+ <defs>
+  <clipPath id="a">
+   <path id="svg_1" fill="#fff" d="m14,2l-10,0a2,2 0 0 0 -2,2l0,4a2,2 0 0 0 2,2l10,0l0,-8z"/>
+  </clipPath>
+  <clipPath id="b">
+   <path id="svg_2" fill="#fff" d="m18,10l10,0a2,2 0 0 0 2,-2l0,-4a2,2 0 0 0 -2,-2l-10,0l0,8z"/>
+  </clipPath>
+  <clipPath id="c">
+   <path id="svg_3" fill="#fff" d="m14,14l-10,0a2,2 0 0 0 -2,2l0,4a2,2 0 0 0 2,2l10,0l0,-8z"/>
+  </clipPath>
+  <clipPath id="d">
+   <path id="svg_4" fill="#fff" d="m18,22l10,0a2,2 0 0 0 2,-2l0,-4a2,2 0 0 0 -2,-2l-10,0l0,8z"/>
+  </clipPath>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_5" fill="#171817" d="m0.5,2.5a2,2 0 0 1 2,-2l27,0a2,2 0 0 1 2,2l0,7a2,2 0 0 1 -2,2l-27,0a2,2 0 0 1 -2,-2l0,-7z"/>
+  <path id="svg_6" fill="#000" d="m2.5,1l27,0l0,-1l-27,0l0,1zm28.5,1.5l0,7l1,0l0,-7l-1,0zm-1.5,8.5l-27,0l0,1l27,0l0,-1zm-28.5,-1.5l0,-7l-1,0l0,7l1,0zm1.5,1.5a1.5,1.5 0 0 1 -1.5,-1.5l-1,0a2.5,2.5 0 0 0 2.5,2.5l0,-1zm28.5,-1.5a1.5,1.5 0 0 1 -1.5,1.5l0,1a2.5,2.5 0 0 0 2.5,-2.5l-1,0zm-1.5,-8.5a1.5,1.5 0 0 1 1.5,1.5l1,0a2.5,2.5 0 0 0 -2.5,-2.5l0,1zm-27,-1a2.5,2.5 0 0 0 -2.5,2.5l1,0a1.5,1.5 0 0 1 1.5,-1.5l0,-1z"/>
+  <g id="svg_7" clip-path="url(#a)">
+   <path id="svg_8" fill="#B4B4B4" d="m8,3l-4,3l4,3l0,-2l4,0l0,-2l-4,0l0,-2z" clip-rule="evenodd" fill-rule="evenodd"/>
+  </g>
+  <path id="svg_9" opacity="0.75" d="m15.5,10l0,-8l1,0l0,8l-1,0z" fill="#000"/>
+  <g id="svg_10" clip-path="url(#b)">
+   <path id="svg_11" fill="#B4B4B4" d="m24,9l4,-3l-4,-3l0,2l-4,0l0,2l4,0l0,2z" clip-rule="evenodd" fill-rule="evenodd"/>
+  </g>
+  <path id="svg_12" fill="#171817" d="m0.5,14.5a2,2 0 0 1 2,-2l27,0a2,2 0 0 1 2,2l0,7a2,2 0 0 1 -2,2l-27,0a2,2 0 0 1 -2,-2l0,-7z"/>
+  <path id="svg_13" fill="#000" d="m2.5,13l27,0l0,-1l-27,0l0,1zm28.5,1.5l0,7l1,0l0,-7l-1,0zm-1.5,8.5l-27,0l0,1l27,0l0,-1zm-28.5,-1.5l0,-7l-1,0l0,7l1,0zm1.5,1.5a1.5,1.5 0 0 1 -1.5,-1.5l-1,0a2.5,2.5 0 0 0 2.5,2.5l0,-1zm28.5,-1.5a1.5,1.5 0 0 1 -1.5,1.5l0,1a2.5,2.5 0 0 0 2.5,-2.5l-1,0zm-1.5,-8.5a1.5,1.5 0 0 1 1.5,1.5l1,0a2.5,2.5 0 0 0 -2.5,-2.5l0,1zm-27,-1a2.5,2.5 0 0 0 -2.5,2.5l1,0a1.5,1.5 0 0 1 1.5,-1.5l0,-1z"/>
+  <g id="svg_14" clip-path="url(#c)">
+   <path id="svg_15" fill="#B4B4B4" d="m8,15l-4,3l4,3l0,-2l4,0l0,-2l-4,0l0,-2z" clip-rule="evenodd" fill-rule="evenodd"/>
+  </g>
+  <path id="svg_16" opacity="0.75" d="m15.5,22l0,-8l1,0l0,8l-1,0z" fill="#000"/>
+  <g id="svg_17" clip-path="url(#d)">
+   <path id="svg_18" fill="#B4B4B4" d="m24,21l4,-3l-4,-3l0,2l-4,0l0,2l4,0l0,2z" clip-rule="evenodd" fill-rule="evenodd"/>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,171 @@
+<svg width="399" height="84" xmlns="http://www.w3.org/2000/svg" fill="none">
+ <defs>
+  <linearGradient id="svg_139" x1="0.5" y1="0" x2="0.5" y2="1">
+   <stop stop-color="#7b87cd" stop-opacity="0.99609"/>
+   <stop offset="1" stop-color="#3c4ca5" stop-opacity="0.99609"/>
+  </linearGradient>
+  <linearGradient id="svg_140" x1="0.5" y1="0" x2="0.5" y2="1">
+   <stop stop-color="#7b87cd" stop-opacity="0.99219"/>
+   <stop offset="1" stop-color="#3c4ca5" stop-opacity="0.99609"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="m393,77a0.5,0.5 0 0 1 -0.5,0.5l-120,0a0.5,0.5 0 0 1 0,-1l120,0a0.5,0.5 0 0 1 0.5,0.5z" fill="url(#svg_140)" id="svg_113"/>
+  <path clip-rule="evenodd" d="m393.5,77a2,2 0 0 1 -2,2l-118,0a2,2 0 1 1 0,-4l118,0a2,2 0 0 1 2,2z" stroke="#001E3C" stroke-opacity="0.5" id="svg_115"/>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="m393,63a0.5,0.5 0 0 1 -0.5,0.5l-120,0a0.5,0.5 0 0 1 0,-1l120,0a0.5,0.5 0 0 1 0.5,0.5z" fill="url(#svg_140)" id="svg_105"/>
+  <path clip-rule="evenodd" d="m393.5,63a2,2 0 0 1 -2,2l-118,0a2,2 0 1 1 0,-4l118,0a2,2 0 0 1 2,2z" stroke="#001E3C" stroke-opacity="0.5" id="svg_107"/>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="m393,49a0.5,0.5 0 0 1 -0.5,0.5l-120,0a0.5,0.5 0 0 1 0,-1l120,0a0.5,0.5 0 0 1 0.5,0.5z" fill="url(#svg_140)" id="svg_96"/>
+  <path clip-rule="evenodd" d="m393.5,49a2,2 0 0 1 -2,2l-118,0a2,2 0 1 1 0,-4l118,0a2,2 0 0 1 2,2z" stroke="#001E3C" stroke-opacity="0.5" id="svg_98"/>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="m393,35a0.5,0.5 0 0 1 -0.5,0.5l-120,0a0.5,0.5 0 0 1 0,-1l120,0a0.5,0.5 0 0 1 0.5,0.5z" fill="url(#svg_140)" id="svg_44"/>
+  <path clip-rule="evenodd" d="m393.5,35a2,2 0 0 1 -2,2l-118,0a2,2 0 1 1 0,-4l118,0a2,2 0 0 1 2,2z" stroke="#001E3C" stroke-opacity="0.5" id="svg_46"/>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="m393,21a0.5,0.5 0 0 1 -0.5,0.5l-120,0a0.5,0.5 0 0 1 0,-1l120,0a0.5,0.5 0 0 1 0.5,0.5z" fill="url(#svg_140)" id="svg_36"/>
+  <path clip-rule="evenodd" d="m393.5,21a2,2 0 0 1 -2,2l-118,0a2,2 0 1 1 0,-4l118,0a2,2 0 0 1 2,2z" stroke="#001E3C" stroke-opacity="0.5" id="svg_38"/>
+  <g opacity="0.1" id="svg_1">
+   <path fill-rule="evenodd" clip-rule="evenodd" d="m260.5,7.5a0.5,0.5 0 0 1 -0.5,0.5l-120,0a0.5,0.5 0 0 1 0,-1l120,0a0.5,0.5 0 0 1 0.5,0.5z" fill="#EEE" id="svg_2"/>
+   <path clip-rule="evenodd" d="m261,7.5a1,1 0 0 1 -1,1l-120,0a1,1 0 0 1 0,-2l120,0a1,1 0 0 1 1,1z" stroke="#EEE" id="svg_3"/>
+   <path d="m144.5,4l-1,0l0,2l1,0l0,-2zm0,5l-1,0l0,2l1,0l0,-2zm112,-5l-1,0l0,2l1,0l0,-2zm0,5l-1,0l0,2l1,0l0,-2z" fill="#EEE" id="svg_4"/>
+  </g>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="m260,7a0.5,0.5 0 0 1 -0.5,0.5l-120,0a0.5,0.5 0 0 1 0,-1l120,0a0.5,0.5 0 0 1 0.5,0.5z" fill="#737373" id="svg_5"/>
+  <path clip-rule="evenodd" d="m260.5,7a1,1 0 0 1 -1,1l-120,0a1,1 0 0 1 0,-2l120,0a1,1 0 0 1 1,1z" stroke="#000" id="svg_6"/>
+  <path d="m144,3.5l-1,0l0,2l1,0l0,-2zm0,5l-1,0l0,2l1,0l0,-2zm112,-5l-1,0l0,2l1,0l0,-2zm0,5l-1,0l0,2l1,0l0,-2z" fill="#000" id="svg_7"/>
+  <path d="m200.5,18.5l-1,0l0,1.5l1,0l0,-1.5zm0,4.5l-1,0l0,1.5l1,0l0,-1.5zm-56,-7l-1,0l0,2l1,0l0,-2zm0,9l-1,0l0,2l1,0l0,-2zm112,-9l-1,0l0,2l1,0l0,-2zm0,9l-1,0l0,2l1,0l0,-2z" opacity="0.1" fill="#EEE" id="svg_8"/>
+  <g opacity="0.1" id="svg_9">
+   <path fill-rule="evenodd" clip-rule="evenodd" d="m260.5,21.5a0.5,0.5 0 0 1 -0.5,0.5l-120,0a0.5,0.5 0 0 1 0,-1l120,0a0.5,0.5 0 0 1 0.5,0.5z" fill="#EEE" id="svg_10"/>
+   <path clip-rule="evenodd" d="m261,21.5a1,1 0 0 1 -1,1l-120,0a1,1 0 0 1 0,-2l120,0a1,1 0 0 1 1,1z" stroke="#EEE" id="svg_11"/>
+   <path d="m144.5,18l-1,0l0,2l1,0l0,-2zm0,5l-1,0l0,2l1,0l0,-2zm112,-5l-1,0l0,2l1,0l0,-2zm0,5l-1,0l0,2l1,0l0,-2z" fill="#EEE" id="svg_12"/>
+  </g>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="m260,21a0.5,0.5 0 0 1 -0.5,0.5l-120,0a0.5,0.5 0 0 1 0,-1l120,0a0.5,0.5 0 0 1 0.5,0.5z" fill="#737373" id="svg_13"/>
+  <path clip-rule="evenodd" d="m260.5,21a1,1 0 0 1 -1,1l-120,0a1,1 0 0 1 0,-2l120,0a1,1 0 0 1 1,1z" stroke="#000" id="svg_14"/>
+  <path d="m144,17.5l-1,0l0,2l1,0l0,-2zm0,5l-1,0l0,2l1,0l0,-2zm112,-5l-1,0l0,2l1,0l0,-2zm0,5l-1,0l0,2l1,0l0,-2zm-56,-4.5l-1,0l0,1.5l1,0l0,-1.5zm0,4.5l-1,0l0,1.5l1,0l0,-1.5zm-56,-7l-1,0l0,2l1,0l0,-2zm0,9l-1,0l0,2l1,0l0,-2zm112,-9l-1,0l0,2l1,0l0,-2zm0,9l-1,0l0,2l1,0l0,-2z" fill="#000" id="svg_15"/>
+  <g opacity="0.1" id="svg_16">
+   <path fill-rule="evenodd" clip-rule="evenodd" d="m260.5,35.5a0.5,0.5 0 0 1 -0.5,0.5l-120,0a0.5,0.5 0 0 1 0,-1l120,0a0.5,0.5 0 0 1 0.5,0.5z" fill="#EEE" id="svg_17"/>
+   <path clip-rule="evenodd" d="m261,35.5a1,1 0 0 1 -1,1l-120,0a1,1 0 0 1 0,-2l120,0a1,1 0 0 1 1,1z" stroke="#EEE" id="svg_18"/>
+   <path d="m144.5,31l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3z" fill="#EEE" id="svg_19"/>
+  </g>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="m260,35a0.5,0.5 0 0 1 -0.5,0.5l-120,0a0.5,0.5 0 0 1 0,-1l120,0a0.5,0.5 0 0 1 0.5,0.5z" fill="#737373" id="svg_20"/>
+  <path clip-rule="evenodd" d="m260.5,35a1,1 0 0 1 -1,1l-120,0a1,1 0 0 1 0,-2l120,0a1,1 0 0 1 1,1z" stroke="#000" id="svg_21"/>
+  <path d="m144,30.5l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3z" fill="#000" id="svg_22"/>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="m393,7a0.5,0.5 0 0 1 -0.5,0.5l-120,0a0.5,0.5 0 0 1 0,-1l120,0a0.5,0.5 0 0 1 0.5,0.5z" fill="url(#svg_139)" id="svg_27"/>
+  <path clip-rule="evenodd" d="m393.5,7a1,1 0 0 1 -1,1l-120,0a1,1 0 0 1 0,-2l120,0a1,1 0 0 1 1,1z" stroke="#000" id="svg_28"/>
+  <g opacity="0.1" id="svg_23">
+   <path fill-rule="evenodd" clip-rule="evenodd" d="m393.5,7.5a0.5,0.5 0 0 1 -0.5,0.5l-120,0a0.5,0.5 0 0 1 0,-1l120,0a0.5,0.5 0 0 1 0.5,0.5z" fill="#EEE" id="svg_24"/>
+   <path clip-rule="evenodd" d="m394,7.5a1,1 0 0 1 -1,1l-120,0a1,1 0 0 1 0,-2l120,0a1,1 0 0 1 1,1z" stroke="#EEE" id="svg_25"/>
+   <path d="m277.5,4l-1,0l0,2l1,0l0,-2zm0,5l-1,0l0,2l1,0l0,-2zm112,-5l-1,0l0,2l1,0l0,-2zm0,5l-1,0l0,2l1,0l0,-2z" fill="#EEE" id="svg_26"/>
+  </g>
+  <path clip-rule="evenodd" d="m393.5,7a2,2 0 0 1 -2,2l-118,0a2,2 0 1 1 0,-4l118,0a2,2 0 0 1 2,2z" stroke="#001E3C" stroke-opacity="0.5" id="svg_29"/>
+  <path d="m277,3.5l-1,0l0,2l1,0l0,-2zm0,5l-1,0l0,2l1,0l0,-2zm112,-5l-1,0l0,2l1,0l0,-2zm0,5l-1,0l0,2l1,0l0,-2z" fill="#000" id="svg_30"/>
+  <path d="m333.5,18.5l-1,0l0,1.5l1,0l0,-1.5zm0,4.5l-1,0l0,1.5l1,0l0,-1.5zm-56,-7l-1,0l0,2l1,0l0,-2zm0,9l-1,0l0,2l1,0l0,-2zm112,-9l-1,0l0,2l1,0l0,-2zm0,9l-1,0l0,2l1,0l0,-2z" opacity="0.1" fill="#EEE" id="svg_31"/>
+  <g opacity="0.1" id="svg_32">
+   <path fill-rule="evenodd" clip-rule="evenodd" d="m393.5,21.5a0.5,0.5 0 0 1 -0.5,0.5l-120,0a0.5,0.5 0 0 1 0,-1l120,0a0.5,0.5 0 0 1 0.5,0.5z" fill="#EEE" id="svg_33"/>
+   <path clip-rule="evenodd" d="m394,21.5a1,1 0 0 1 -1,1l-120,0a1,1 0 0 1 0,-2l120,0a1,1 0 0 1 1,1z" stroke="#EEE" id="svg_34"/>
+   <path d="m277.5,18l-1,0l0,2l1,0l0,-2zm0,5l-1,0l0,2l1,0l0,-2zm112,-5l-1,0l0,2l1,0l0,-2zm0,5l-1,0l0,2l1,0l0,-2z" fill="#EEE" id="svg_35"/>
+  </g>
+  <path clip-rule="evenodd" d="m393.5,21a1,1 0 0 1 -1,1l-120,0a1,1 0 0 1 0,-2l120,0a1,1 0 0 1 1,1z" stroke="#000" id="svg_37"/>
+  <path d="m277,17.5l-1,0l0,2l1,0l0,-2zm0,5l-1,0l0,2l1,0l0,-2zm112,-5l-1,0l0,2l1,0l0,-2zm0,5l-1,0l0,2l1,0l0,-2zm-56,-4.5l-1,0l0,1.5l1,0l0,-1.5zm0,4.5l-1,0l0,1.5l1,0l0,-1.5zm-56,-7l-1,0l0,2l1,0l0,-2zm0,9l-1,0l0,2l1,0l0,-2zm112,-9l-1,0l0,2l1,0l0,-2zm0,9l-1,0l0,2l1,0l0,-2z" fill="#000" id="svg_39"/>
+  <g opacity="0.1" id="svg_40">
+   <path fill-rule="evenodd" clip-rule="evenodd" d="m393.5,35.5a0.5,0.5 0 0 1 -0.5,0.5l-120,0a0.5,0.5 0 0 1 0,-1l120,0a0.5,0.5 0 0 1 0.5,0.5z" fill="#EEE" id="svg_41"/>
+   <path clip-rule="evenodd" d="m394,35.5a1,1 0 0 1 -1,1l-120,0a1,1 0 0 1 0,-2l120,0a1,1 0 0 1 1,1z" stroke="#EEE" id="svg_42"/>
+   <path d="m277.5,31l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3z" fill="#EEE" id="svg_43"/>
+  </g>
+  <path clip-rule="evenodd" d="m393.5,35a1,1 0 0 1 -1,1l-120,0a1,1 0 0 1 0,-2l120,0a1,1 0 0 1 1,1z" stroke="#000" id="svg_45"/>
+  <path d="m277,30.5l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3z" fill="#000" id="svg_47"/>
+  <g opacity="0.1" id="svg_48">
+   <path fill-rule="evenodd" clip-rule="evenodd" d="m127.5,49.5a0.5,0.5 0 0 1 -0.5,0.5l-120,0a0.5,0.5 0 0 1 0,-1l120,0a0.5,0.5 0 0 1 0.5,0.5z" fill="#EEE" id="svg_49"/>
+   <path clip-rule="evenodd" d="m128,49.5a1,1 0 0 1 -1,1l-120,0a1,1 0 1 1 0,-2l120,0a1,1 0 0 1 1,1z" stroke="#EEE" id="svg_50"/>
+   <path d="m11.5,46l-1,0l0,2l1,0l0,-2zm0,5l-1,0l0,2l1,0l0,-2zm112,-5l-1,0l0,2l1,0l0,-2zm0,5l-1,0l0,2l1,0l0,-2z" fill="#EEE" id="svg_51"/>
+  </g>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="m127,49a0.5,0.5 0 0 1 -0.5,0.5l-120,0a0.5,0.5 0 0 1 0,-1l120,0a0.5,0.5 0 0 1 0.5,0.5z" fill="#1F1F1F" id="svg_52"/>
+  <path clip-rule="evenodd" d="m127.5,49a1,1 0 0 1 -1,1l-120,0a1,1 0 1 1 0,-2l120,0a1,1 0 0 1 1,1z" stroke="#000" id="svg_53"/>
+  <path d="m11,45.5l-1,0l0,2l1,0l0,-2zm0,5l-1,0l0,2l1,0l0,-2zm112,-5l-1,0l0,2l1,0l0,-2zm0,5l-1,0l0,2l1,0l0,-2z" fill="#000" id="svg_54"/>
+  <path d="m67.5,60.5l-1,0l0,1.5l1,0l0,-1.5zm0,4.5l-1,0l0,1.5l1,0l0,-1.5zm-56,-7l-1,0l0,2l1,0l0,-2zm0,9l-1,0l0,2l1,0l0,-2zm112,-9l-1,0l0,2l1,0l0,-2zm0,9l-1,0l0,2l1,0l0,-2z" opacity="0.1" fill="#EEE" id="svg_55"/>
+  <g opacity="0.1" id="svg_56">
+   <path fill-rule="evenodd" clip-rule="evenodd" d="m127.5,63.5a0.5,0.5 0 0 1 -0.5,0.5l-120,0a0.5,0.5 0 0 1 0,-1l120,0a0.5,0.5 0 0 1 0.5,0.5z" fill="#EEE" id="svg_57"/>
+   <path clip-rule="evenodd" d="m128,63.5a1,1 0 0 1 -1,1l-120,0a1,1 0 1 1 0,-2l120,0a1,1 0 0 1 1,1z" stroke="#EEE" id="svg_58"/>
+   <path d="m11.5,60l-1,0l0,2l1,0l0,-2zm0,5l-1,0l0,2l1,0l0,-2zm112,-5l-1,0l0,2l1,0l0,-2zm0,5l-1,0l0,2l1,0l0,-2z" fill="#EEE" id="svg_59"/>
+  </g>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="m127,63a0.5,0.5 0 0 1 -0.5,0.5l-120,0a0.5,0.5 0 0 1 0,-1l120,0a0.5,0.5 0 0 1 0.5,0.5z" fill="#1F1F1F" id="svg_60"/>
+  <path clip-rule="evenodd" d="m127.5,63a1,1 0 0 1 -1,1l-120,0a1,1 0 1 1 0,-2l120,0a1,1 0 0 1 1,1z" stroke="#000" id="svg_61"/>
+  <path d="m11,59.5l-1,0l0,2l1,0l0,-2zm0,5l-1,0l0,2l1,0l0,-2zm112,-5l-1,0l0,2l1,0l0,-2zm0,5l-1,0l0,2l1,0l0,-2zm-56,-4.5l-1,0l0,1.5l1,0l0,-1.5zm0,4.5l-1,0l0,1.5l1,0l0,-1.5zm-56,-7l-1,0l0,2l1,0l0,-2zm0,9l-1,0l0,2l1,0l0,-2zm112,-9l-1,0l0,2l1,0l0,-2zm0,9l-1,0l0,2l1,0l0,-2z" fill="#000" id="svg_62"/>
+  <g opacity="0.1" id="svg_63">
+   <path fill-rule="evenodd" clip-rule="evenodd" d="m127.5,77.5a0.5,0.5 0 0 1 -0.5,0.5l-120,0a0.5,0.5 0 0 1 0,-1l120,0a0.5,0.5 0 0 1 0.5,0.5z" fill="#EEE" id="svg_64"/>
+   <path clip-rule="evenodd" d="m128,77.5a1,1 0 0 1 -1,1l-120,0a1,1 0 1 1 0,-2l120,0a1,1 0 0 1 1,1z" stroke="#EEE" id="svg_65"/>
+   <path d="m11.5,73l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3z" fill="#EEE" id="svg_66"/>
+  </g>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="m127,77a0.5,0.5 0 0 1 -0.5,0.5l-120,0a0.5,0.5 0 0 1 0,-1l120,0a0.5,0.5 0 0 1 0.5,0.5z" fill="#1F1F1F" id="svg_67"/>
+  <path clip-rule="evenodd" d="m127.5,77a1,1 0 0 1 -1,1l-120,0a1,1 0 1 1 0,-2l120,0a1,1 0 0 1 1,1z" stroke="#000" id="svg_68"/>
+  <path d="m11,72.5l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3z" fill="#000" id="svg_69"/>
+  <g opacity="0.1" id="svg_70">
+   <path fill-rule="evenodd" clip-rule="evenodd" d="m260.5,49.5a0.5,0.5 0 0 1 -0.5,0.5l-120,0a0.5,0.5 0 0 1 0,-1l120,0a0.5,0.5 0 0 1 0.5,0.5z" fill="#EEE" id="svg_71"/>
+   <path clip-rule="evenodd" d="m261,49.5a1,1 0 0 1 -1,1l-120,0a1,1 0 0 1 0,-2l120,0a1,1 0 0 1 1,1z" stroke="#EEE" id="svg_72"/>
+   <path d="m144.5,46l-1,0l0,2l1,0l0,-2zm0,5l-1,0l0,2l1,0l0,-2zm112,-5l-1,0l0,2l1,0l0,-2zm0,5l-1,0l0,2l1,0l0,-2z" fill="#EEE" id="svg_73"/>
+  </g>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="m260,49a0.5,0.5 0 0 1 -0.5,0.5l-120,0a0.5,0.5 0 0 1 0,-1l120,0a0.5,0.5 0 0 1 0.5,0.5z" fill="#737373" id="svg_74"/>
+  <path clip-rule="evenodd" d="m260.5,49a1,1 0 0 1 -1,1l-120,0a1,1 0 0 1 0,-2l120,0a1,1 0 0 1 1,1z" stroke="#000" id="svg_75"/>
+  <path d="m144,45.5l-1,0l0,2l1,0l0,-2zm0,5l-1,0l0,2l1,0l0,-2zm112,-5l-1,0l0,2l1,0l0,-2zm0,5l-1,0l0,2l1,0l0,-2z" fill="#000" id="svg_76"/>
+  <path d="m200.5,60.5l-1,0l0,1.5l1,0l0,-1.5zm0,4.5l-1,0l0,1.5l1,0l0,-1.5zm-56,-7l-1,0l0,2l1,0l0,-2zm0,9l-1,0l0,2l1,0l0,-2zm112,-9l-1,0l0,2l1,0l0,-2zm0,9l-1,0l0,2l1,0l0,-2z" opacity="0.1" fill="#EEE" id="svg_77"/>
+  <g opacity="0.1" id="svg_78">
+   <path fill-rule="evenodd" clip-rule="evenodd" d="m260.5,63.5a0.5,0.5 0 0 1 -0.5,0.5l-120,0a0.5,0.5 0 0 1 0,-1l120,0a0.5,0.5 0 0 1 0.5,0.5z" fill="#EEE" id="svg_79"/>
+   <path clip-rule="evenodd" d="m261,63.5a1,1 0 0 1 -1,1l-120,0a1,1 0 0 1 0,-2l120,0a1,1 0 0 1 1,1z" stroke="#EEE" id="svg_80"/>
+   <path d="m144.5,60l-1,0l0,2l1,0l0,-2zm0,5l-1,0l0,2l1,0l0,-2zm112,-5l-1,0l0,2l1,0l0,-2zm0,5l-1,0l0,2l1,0l0,-2z" fill="#EEE" id="svg_81"/>
+  </g>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="m260,63a0.5,0.5 0 0 1 -0.5,0.5l-120,0a0.5,0.5 0 0 1 0,-1l120,0a0.5,0.5 0 0 1 0.5,0.5z" fill="#737373" id="svg_82"/>
+  <path clip-rule="evenodd" d="m260.5,63a1,1 0 0 1 -1,1l-120,0a1,1 0 0 1 0,-2l120,0a1,1 0 0 1 1,1z" stroke="#000" id="svg_83"/>
+  <path d="m144,59.5l-1,0l0,2l1,0l0,-2zm0,5l-1,0l0,2l1,0l0,-2zm112,-5l-1,0l0,2l1,0l0,-2zm0,5l-1,0l0,2l1,0l0,-2zm-56,-4.5l-1,0l0,1.5l1,0l0,-1.5zm0,4.5l-1,0l0,1.5l1,0l0,-1.5zm-56,-7l-1,0l0,2l1,0l0,-2zm0,9l-1,0l0,2l1,0l0,-2zm112,-9l-1,0l0,2l1,0l0,-2zm0,9l-1,0l0,2l1,0l0,-2z" fill="#000" id="svg_84"/>
+  <g opacity="0.1" id="svg_85">
+   <path fill-rule="evenodd" clip-rule="evenodd" d="m260.5,77.5a0.5,0.5 0 0 1 -0.5,0.5l-120,0a0.5,0.5 0 0 1 0,-1l120,0a0.5,0.5 0 0 1 0.5,0.5z" fill="#EEE" id="svg_86"/>
+   <path clip-rule="evenodd" d="m261,77.5a1,1 0 0 1 -1,1l-120,0a1,1 0 0 1 0,-2l120,0a1,1 0 0 1 1,1z" stroke="#EEE" id="svg_87"/>
+   <path d="m144.5,73l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3z" fill="#EEE" id="svg_88"/>
+  </g>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="m260,77a0.5,0.5 0 0 1 -0.5,0.5l-120,0a0.5,0.5 0 0 1 0,-1l120,0a0.5,0.5 0 0 1 0.5,0.5z" fill="#737373" id="svg_89"/>
+  <path clip-rule="evenodd" d="m260.5,77a1,1 0 0 1 -1,1l-120,0a1,1 0 0 1 0,-2l120,0a1,1 0 0 1 1,1z" stroke="#000" id="svg_90"/>
+  <path d="m144,72.5l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3z" fill="#000" id="svg_91"/>
+  <g opacity="0.1" id="svg_92">
+   <path fill-rule="evenodd" clip-rule="evenodd" d="m393.5,49.5a0.5,0.5 0 0 1 -0.5,0.5l-120,0a0.5,0.5 0 0 1 0,-1l120,0a0.5,0.5 0 0 1 0.5,0.5z" fill="#EEE" id="svg_93"/>
+   <path clip-rule="evenodd" d="m394,49.5a1,1 0 0 1 -1,1l-120,0a1,1 0 0 1 0,-2l120,0a1,1 0 0 1 1,1z" stroke="#EEE" id="svg_94"/>
+   <path d="m277.5,46l-1,0l0,2l1,0l0,-2zm0,5l-1,0l0,2l1,0l0,-2zm112,-5l-1,0l0,2l1,0l0,-2zm0,5l-1,0l0,2l1,0l0,-2z" fill="#EEE" id="svg_95"/>
+  </g>
+  <path clip-rule="evenodd" d="m393.5,49a1,1 0 0 1 -1,1l-120,0a1,1 0 0 1 0,-2l120,0a1,1 0 0 1 1,1z" stroke="#000" id="svg_97"/>
+  <path d="m277,45.5l-1,0l0,2l1,0l0,-2zm0,5l-1,0l0,2l1,0l0,-2zm112,-5l-1,0l0,2l1,0l0,-2zm0,5l-1,0l0,2l1,0l0,-2z" fill="#000" id="svg_99"/>
+  <path d="m333.5,60.5l-1,0l0,1.5l1,0l0,-1.5zm0,4.5l-1,0l0,1.5l1,0l0,-1.5zm-56,-7l-1,0l0,2l1,0l0,-2zm0,9l-1,0l0,2l1,0l0,-2zm112,-9l-1,0l0,2l1,0l0,-2zm0,9l-1,0l0,2l1,0l0,-2z" opacity="0.1" fill="#EEE" id="svg_100"/>
+  <g opacity="0.1" id="svg_101">
+   <path fill-rule="evenodd" clip-rule="evenodd" d="m393.5,63.5a0.5,0.5 0 0 1 -0.5,0.5l-120,0a0.5,0.5 0 0 1 0,-1l120,0a0.5,0.5 0 0 1 0.5,0.5z" fill="#EEE" id="svg_102"/>
+   <path clip-rule="evenodd" d="m394,63.5a1,1 0 0 1 -1,1l-120,0a1,1 0 0 1 0,-2l120,0a1,1 0 0 1 1,1z" stroke="#EEE" id="svg_103"/>
+   <path d="m277.5,60l-1,0l0,2l1,0l0,-2zm0,5l-1,0l0,2l1,0l0,-2zm112,-5l-1,0l0,2l1,0l0,-2zm0,5l-1,0l0,2l1,0l0,-2z" fill="#EEE" id="svg_104"/>
+  </g>
+  <path clip-rule="evenodd" d="m393.5,63a1,1 0 0 1 -1,1l-120,0a1,1 0 0 1 0,-2l120,0a1,1 0 0 1 1,1z" stroke="#000" id="svg_106"/>
+  <path d="m277,59.5l-1,0l0,2l1,0l0,-2zm0,5l-1,0l0,2l1,0l0,-2zm112,-5l-1,0l0,2l1,0l0,-2zm0,5l-1,0l0,2l1,0l0,-2zm-56,-4.5l-1,0l0,1.5l1,0l0,-1.5zm0,4.5l-1,0l0,1.5l1,0l0,-1.5zm-56,-7l-1,0l0,2l1,0l0,-2zm0,9l-1,0l0,2l1,0l0,-2zm112,-9l-1,0l0,2l1,0l0,-2zm0,9l-1,0l0,2l1,0l0,-2z" fill="#000" id="svg_108"/>
+  <g opacity="0.1" id="svg_109">
+   <path fill-rule="evenodd" clip-rule="evenodd" d="m393.5,77.5a0.5,0.5 0 0 1 -0.5,0.5l-120,0a0.5,0.5 0 0 1 0,-1l120,0a0.5,0.5 0 0 1 0.5,0.5z" fill="#EEE" id="svg_110"/>
+   <path clip-rule="evenodd" d="m394,77.5a1,1 0 0 1 -1,1l-120,0a1,1 0 0 1 0,-2l120,0a1,1 0 0 1 1,1z" stroke="#EEE" id="svg_111"/>
+   <path d="m277.5,73l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3z" fill="#EEE" id="svg_112"/>
+  </g>
+  <path clip-rule="evenodd" d="m393.5,77a1,1 0 0 1 -1,1l-120,0a1,1 0 0 1 0,-2l120,0a1,1 0 0 1 1,1z" stroke="#000" id="svg_114"/>
+  <path d="m277,72.5l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3z" fill="#000" id="svg_116"/>
+  <g opacity="0.1" id="svg_117">
+   <path fill-rule="evenodd" clip-rule="evenodd" d="m127.5,7.5a0.5,0.5 0 0 1 -0.5,0.5l-120,0a0.5,0.5 0 0 1 0,-1l120,0a0.5,0.5 0 0 1 0.5,0.5z" fill="#EEE" id="svg_118"/>
+   <path clip-rule="evenodd" d="m128,7.5a1,1 0 0 1 -1,1l-120,0a1,1 0 1 1 0,-2l120,0a1,1 0 0 1 1,1z" stroke="#EEE" id="svg_119"/>
+   <path d="m11.5,4l-1,0l0,2l1,0l0,-2zm0,5l-1,0l0,2l1,0l0,-2zm112,-5l-1,0l0,2l1,0l0,-2zm0,5l-1,0l0,2l1,0l0,-2z" fill="#EEE" id="svg_120"/>
+  </g>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="m127,7a0.5,0.5 0 0 1 -0.5,0.5l-120,0a0.5,0.5 0 0 1 0,-1l120,0a0.5,0.5 0 0 1 0.5,0.5z" fill="#1F1F1F" id="svg_121"/>
+  <path clip-rule="evenodd" d="m127.5,7a1,1 0 0 1 -1,1l-120,0a1,1 0 1 1 0,-2l120,0a1,1 0 0 1 1,1z" stroke="#000" id="svg_122"/>
+  <path d="m11,3.5l-1,0l0,2l1,0l0,-2zm0,5l-1,0l0,2l1,0l0,-2zm112,-5l-1,0l0,2l1,0l0,-2zm0,5l-1,0l0,2l1,0l0,-2z" fill="#000" id="svg_123"/>
+  <path d="m67.5,18.5l-1,0l0,1.5l1,0l0,-1.5zm0,4.5l-1,0l0,1.5l1,0l0,-1.5zm-56,-7l-1,0l0,2l1,0l0,-2zm0,9l-1,0l0,2l1,0l0,-2zm112,-9l-1,0l0,2l1,0l0,-2zm0,9l-1,0l0,2l1,0l0,-2z" opacity="0.1" fill="#EEE" id="svg_124"/>
+  <g opacity="0.1" id="svg_125">
+   <path fill-rule="evenodd" clip-rule="evenodd" d="m127.5,21.5a0.5,0.5 0 0 1 -0.5,0.5l-120,0a0.5,0.5 0 0 1 0,-1l120,0a0.5,0.5 0 0 1 0.5,0.5z" fill="#EEE" id="svg_126"/>
+   <path clip-rule="evenodd" d="m128,21.5a1,1 0 0 1 -1,1l-120,0a1,1 0 1 1 0,-2l120,0a1,1 0 0 1 1,1z" stroke="#EEE" id="svg_127"/>
+   <path d="m11.5,18l-1,0l0,2l1,0l0,-2zm0,5l-1,0l0,2l1,0l0,-2zm112,-5l-1,0l0,2l1,0l0,-2zm0,5l-1,0l0,2l1,0l0,-2z" fill="#EEE" id="svg_128"/>
+  </g>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="m127,21a0.5,0.5 0 0 1 -0.5,0.5l-120,0a0.5,0.5 0 0 1 0,-1l120,0a0.5,0.5 0 0 1 0.5,0.5z" fill="#1F1F1F" id="svg_129"/>
+  <path clip-rule="evenodd" d="m127.5,21a1,1 0 0 1 -1,1l-120,0a1,1 0 1 1 0,-2l120,0a1,1 0 0 1 1,1z" stroke="#000" id="svg_130"/>
+  <path d="m11,17.5l-1,0l0,2l1,0l0,-2zm0,5l-1,0l0,2l1,0l0,-2zm112,-5l-1,0l0,2l1,0l0,-2zm0,5l-1,0l0,2l1,0l0,-2zm-56,-4.5l-1,0l0,1.5l1,0l0,-1.5zm0,4.5l-1,0l0,1.5l1,0l0,-1.5zm-56,-7l-1,0l0,2l1,0l0,-2zm0,9l-1,0l0,2l1,0l0,-2zm112,-9l-1,0l0,2l1,0l0,-2zm0,9l-1,0l0,2l1,0l0,-2z" fill="#000" id="svg_131"/>
+  <g opacity="0.1" id="svg_132">
+   <path fill-rule="evenodd" clip-rule="evenodd" d="m127.5,35.5a0.5,0.5 0 0 1 -0.5,0.5l-120,0a0.5,0.5 0 0 1 0,-1l120,0a0.5,0.5 0 0 1 0.5,0.5z" fill="#EEE" id="svg_133"/>
+   <path clip-rule="evenodd" d="m128,35.5a1,1 0 0 1 -1,1l-120,0a1,1 0 1 1 0,-2l120,0a1,1 0 0 1 1,1z" stroke="#EEE" id="svg_134"/>
+   <path d="m11.5,31l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3z" fill="#EEE" id="svg_135"/>
+  </g>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="m127,35a0.5,0.5 0 0 1 -0.5,0.5l-120,0a0.5,0.5 0 0 1 0,-1l120,0a0.5,0.5 0 0 1 0.5,0.5z" fill="#1F1F1F" id="svg_136"/>
+  <path clip-rule="evenodd" d="m127.5,35a1,1 0 0 1 -1,1l-120,0a1,1 0 1 1 0,-2l120,0a1,1 0 0 1 1,1z" stroke="#000" id="svg_137"/>
+  <path d="m11,30.5l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3zm8,-6l-1,0l0,3l1,0l0,-3zm0,6l-1,0l0,3l1,0l0,-3z" fill="#000" id="svg_138"/>
+ </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg width="26.000000000000004" height="39" xmlns="http://www.w3.org/2000/svg" fill="none">
+
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_1" stroke="#40ADFF" fill="#40ADFF" d="m3.5,6.5c0,-1.65685 1.34315,-3 3,-3c1.65685,0 3,1.34315 3,3c0,1.65685 -1.34315,3 -3,3c-1.65685,0 -3,-1.34315 -3,-3z"/>
+  <path id="svg_2" stroke="#C0EBFF" d="m1,19.5c0,-3.0376 2.46243,-5.5 5.5,-5.5c3.03757,0 5.5,2.4624 5.5,5.5c0,3.0376 -2.46243,5.5 -5.5,5.5c-3.03757,0 -5.5,-2.4624 -5.5,-5.5z" clip-rule="evenodd" fill-rule="evenodd" opacity="0.5"/>
+  <path id="svg_3" stroke="#C0EBFF" fill="#C0EBFF" d="m3.5,19.5c0,-1.6568 1.34315,-3 3,-3c1.65685,0 3,1.3432 3,3c0,1.6568 -1.34315,3 -3,3c-1.65685,0 -3,-1.3432 -3,-3z"/>
+  <path id="svg_4" stroke="#EEEEEE" d="m1,32.5c0,-3.0376 2.46243,-5.5 5.5,-5.5c3.03757,0 5.5,2.4624 5.5,5.5c0,3.0376 -2.46243,5.5 -5.5,5.5c-3.03757,0 -5.5,-2.4624 -5.5,-5.5z" clip-rule="evenodd" fill-rule="evenodd" opacity="0.5"/>
+  <path id="svg_5" stroke="#EEEEEE" fill="#EEEEEE" d="m3.5,32.5c0,-1.6568 1.34315,-3 3,-3c1.65685,0 3,1.3432 3,3c0,1.6568 -1.34315,3 -3,3c-1.65685,0 -3,-1.3432 -3,-3z"/>
+  <rect id="svg_6" stroke="#1D8ADC" fill="#1D8ADC" transform="rotate(45 19.5 3.5)" height="4" width="4" y="3.5" x="19.5"/>
+  <rect id="svg_7" fill="#FF9915" transform="rotate(45 19.5 16.5)" height="4" width="4" y="16.5" x="19.5"/>
+  <rect id="svg_8" fill="#9DC8DC" transform="rotate(45 19.5 16.5)" height="4" width="4" y="16.5" x="19.5"/>
+  <rect id="svg_9" stroke="#9DC8DC" transform="rotate(45 19.5 16.5)" height="4" width="4" y="16.5" x="19.5"/>
+  <rect id="svg_10" stroke="#9DC8DC" transform="rotate(45 19.5 13.7114)" height="7.92336" width="7.92336" y="13.7114" x="19.5" opacity="0.5"/>
+  <rect id="svg_11" stroke="#EEEEEE" fill="#EEEEEE" transform="rotate(45 19.5 29.5)" height="4" width="4" y="29.5" x="19.5"/>
+  <rect id="svg_12" stroke="#EEEEEE" transform="rotate(45 19.5 26.7116)" height="7.92318" width="7.92318" y="26.7116" x="19.5" opacity="0.5"/>
+ </g>
+</svg>

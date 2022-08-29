@@ -1,0 +1,12 @@
+<svg width="12" height="34" xmlns="http://www.w3.org/2000/svg" fill="none">
+
+ <g>
+  <title>Layer 1</title>
+  <rect id="svg_1" fill="#dac638" rx="1" height="10" width="7" y="20.5" x="2.5"/>
+  <path id="svg_2" d="m2.5,21.5c0,-0.54338 0.45662,-1 1,-1l5,0c0.54338,0 1,0.45662 1,1l0,8c0,0.54338 -0.45662,1 -1,1l-5,0c-0.54338,0 -1,-0.45662 -1,-1l0,-8z" opacity="undefined" stroke="#fff"/>
+  <path id="svg_3" fill="#fff" d="m6.5,28l-1,0l0,-2l-2,0l0,-1l2,0l0,-2l1,0l0,2l2,0l0,1l-2,0l0,2z"/>
+  <rect id="svg_4" fill="#9099FF" rx="0.5" height="8" width="5" y="3.5" x="3.5"/>
+  <rect id="svg_5" stroke="#9099FF" rx="0.5" height="8" width="5" y="3.5" x="3.5"/>
+  <path id="svg_6" fill="#000" d="m6.5,10l-1,0l0,-2l-2,0l0,-1l2,0l0,-2l1,0l0,2l2,0l0,1l-2,0l0,2z"/>
+ </g>
+</svg>

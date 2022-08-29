@@ -1,0 +1,20 @@
+<svg width="28" height="24" xmlns="http://www.w3.org/2000/svg" fill="none">
+ <defs>
+  <linearGradient y2="1" x2="0.5" y1="0.5" x1="0.5" id="paint0_linear">
+   <stop offset="0.52083"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient y2="1" x2="0.5" y1="0" x1="0.5" id="svg_6">
+   <stop stop-opacity="0.99609" stop-color="#e1d160"/>
+   <stop stop-opacity="0.99609" stop-color="#dac638" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_1" fill="url(#paint0_linear)" d="m11.5,17c3.0376,0 5.5,-2.6863 5.5,-6c0,-3.31371 -2.4624,-6 -5.5,-6c-3.03757,0 -5.5,2.68629 -5.5,6c0,3.3137 2.46243,6 5.5,6z"/>
+  <path id="svg_2" fill="url(#svg_6)" d="m11.5,14c3.0376,0 5.5,-2.4624 5.5,-5.5c0,-3.03757 -2.4624,-5.5 -5.5,-5.5c-3.03757,0 -5.5,2.46243 -5.5,5.5c0,3.0376 2.46243,5.5 5.5,5.5z"/>
+  <path id="svg_3" stroke="#979797" fill="#EEEEEE" d="m14.5,8.5c0,1.6569 -1.3431,3 -3,3c-1.65685,0 -3,-1.3431 -3,-3c0,-1.65685 1.34315,-3 3,-3c1.6569,0 3,1.34315 3,3z"/>
+  <path id="svg_4" fill-opacity="0.2" fill="white" d="m11,7.75l0,2c0,0.2761 0.2239,0.5 0.5,0.5c0.2761,0 0.5,-0.2239 0.5,-0.5l0,-2c0,-0.27614 -0.2239,-0.5 -0.5,-0.5c-0.2761,0 -0.5,0.22386 -0.5,0.5z"/>
+  <path id="svg_5" fill="#1F1F1F" d="m11,7.5l0,2c0,0.27614 0.2239,0.5 0.5,0.5c0.2761,0 0.5,-0.22386 0.5,-0.5l0,-2c0,-0.27614 -0.2239,-0.5 -0.5,-0.5c-0.2761,0 -0.5,0.22386 -0.5,0.5z"/>
+ </g>
+</svg>
