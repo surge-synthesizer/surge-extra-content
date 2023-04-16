@@ -215,7 +215,7 @@
     <color id="msegeditor.loop.region.fill" value="black"/>
     <color id="msegeditor.numberfield.text" value="black"/>
     <color id="msegeditor.numberfield.text.hover" value="black"/>
-    <color id="msegeditor.panel" value="#369EB319"/>
+    <color id="msegeditor.panel" value="#111111"/>
     <color id="msegeditor.panel.text" value="white2"/>
     <color id="multiswitch.background" value="#242424"/>
     <color id="multiswitch.border" value="#242424"/>
