@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 48 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <use id="rect2" xlink:href="#_Image1" x="0" y="4.097" width="18px" height="12px"/>
+    <use id="rect21" serif:id="rect2" xlink:href="#_Image1" x="0" y="32.097" width="18px" height="12px"/>
+    <g>
+        <g id="rect4" transform="matrix(-3.82857e-16,1,-1,-3.82857e-16,0,0)">
+            <rect x="30.5" y="-39" width="14" height="4" style="fill:rgb(35,35,35);"/>
+        </g>
+        <g id="rect1" transform="matrix(-3.82857e-16,1,-1,-3.82857e-16,0,0)">
+            <rect x="2" y="-39" width="14" height="4" style="fill:rgb(35,35,35);"/>
+        </g>
+        <g id="rect7" transform="matrix(-3.82857e-16,1,-1,-3.82857e-16,0,0)">
+            <rect x="33" y="-16" width="8" height="14" style="fill:rgb(35,35,35);"/>
+        </g>
+    </g>
+    <g id="rect22" serif:id="rect2" transform="matrix(-3.82857e-16,1,-1,-3.82857e-16,0,0)">
+        <rect x="5" y="-16" width="8" height="14" style="fill:rgb(35,35,35);"/>
+    </g>
+    <path id="path3" d="M37.5,10L37.5,8C37.5,7.72 37.28,7.5 37,7.5C36.72,7.5 36.5,7.72 36.5,8L36.5,10C36.5,10.28 36.72,10.5 37,10.5C37.28,10.5 37.5,10.28 37.5,10Z" style="fill:rgb(74,231,26);fill-rule:nonzero;"/>
+    <path id="path5" d="M37.5,38.5L37.5,36.5C37.5,36.22 37.28,36 37,36C36.72,36 36.5,36.22 36.5,36.5L36.5,38.5C36.5,38.78 36.72,39 37,39C37.28,39 37.5,38.78 37.5,38.5Z" style="fill:rgb(74,231,26);fill-rule:nonzero;"/>
+    <path id="path6" d="M10,10.333L10,7.667C10,7.293 9.78,7 9.5,7C9.22,7 9,7.293 9,7.667L9,10.333C9,10.707 9.22,11 9.5,11C9.78,11 10,10.707 10,10.333Z" style="fill:rgb(192,192,192);fill-rule:nonzero;"/>
+    <path id="path8" d="M10,38.333L10,35.667C10,35.293 9.78,35 9.5,35C9.22,35 9,35.293 9,35.667L9,38.333C9,38.707 9.22,39 9.5,39C9.78,39 10,38.707 10,38.333Z" style="fill:rgb(192,192,192);fill-rule:nonzero;"/>
+    <defs>
+        <image id="_Image1" width="18px" height="12px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAAMCAYAAABvEu28AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAA8klEQVQokY3Sy04CQRCF4W+gMWoAxY0rXRj3vv/TeCMmxhuII+DA6GJqzIToQCdn0d1Vf1fXqQz9hvbRRRbaXN+hFeaYIccy4RjnOMNJwDotoDU+8YQ7POAtYYRLXAWs36jqL1CBCa7jwRyzhEOc4iKAQ6QW0BdeUGKMA3QTerEZRnVHcfYfaBmQQeQldOqXO3FQg9sqKhuxv71Mjct1Q22urRpxtYtSXCzwgWkkbOvRVNXkRQDLpLLyGbcROLCba/d4Vc1TmYJ+E4lju81RjseAvWOVqVwahWoXtk12Ea2YhOaZyqUe9lq+tLlKVW+L0PoHv/9Ut/PXWXQAAAAASUVORK5CYII="/>
+    </defs>
+</svg>
