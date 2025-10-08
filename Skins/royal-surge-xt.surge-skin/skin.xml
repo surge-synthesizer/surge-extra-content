@@ -558,7 +558,7 @@
     <control ui_identifier="oscilloscope.window" x="172" y="77" w="600" h="332"/>
     <control ui_identifier="formulaeditor.window" x="24" y="77" w="747" h="410"/>
     <control ui_identifier="tuningeditor.window" x="24" y="77" w="756" h="503"/>
-    <control ui_identifier="wteditor.window" x="172" y="69" w="757" h="511"/>
+    <control ui_identifier="wtseditor.window" x="172" y="69" w="757" h="511"/>
     <control ui_identifier="modlist.window" x="172" y="69" w="608" h="511"/>
     <control ui_identifier="filter.filter_analysis.window" x="323" y="273" w="448" h="214"/>
     <control ui_identifier="filter.waveshaper_analysis.window" x="473" y="249" w="298"/>
