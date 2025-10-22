@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 23.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 48 56"
+   style="enable-background:new 0 0 48 56;"
+   xml:space="preserve"
+   sodipodi:docname="vslider_mod_hover.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs13" /><sodipodi:namedview
+   id="namedview13"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="20.678571"
+   inkscape:cx="23.986183"
+   inkscape:cy="28"
+   inkscape:window-width="2560"
+   inkscape:window-height="1351"
+   inkscape:window-x="-9"
+   inkscape:window-y="-9"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<style
+   type="text/css"
+   id="style1">
+	.st0{opacity:0.3;fill:url(#SVGID_1_);enable-background:new    ;}
+	.st1{fill:#0F74DB;}
+	.st2{fill:#FFFFFF;}
+	.st3{opacity:0.3;fill:url(#SVGID_2_);enable-background:new    ;}
+	.st4{fill:#8BCC56;}
+	.st5{opacity:0.3;fill:url(#SVGID_3_);enable-background:new    ;}
+	.st6{opacity:0.3;fill:url(#SVGID_4_);enable-background:new    ;}
+</style>
+<linearGradient
+   id="SVGID_1_"
+   gradientUnits="userSpaceOnUse"
+   x1="9"
+   y1="55"
+   x2="9"
+   y2="38"
+   gradientTransform="matrix(1 0 0 -1 0 58)">
+	<stop
+   offset="0"
+   style="stop-color:#2E86FE"
+   id="stop1" />
+	<stop
+   offset="1"
+   style="stop-color:#005CB6"
+   id="stop2" />
+</linearGradient>
+
+
+
+<linearGradient
+   id="SVGID_2_"
+   gradientUnits="userSpaceOnUse"
+   x1="33"
+   y1="55"
+   x2="33"
+   y2="38"
+   gradientTransform="matrix(1 0 0 -1 0 58)">
+	<stop
+   offset="0"
+   style="stop-color:#8BCC56"
+   id="stop4" />
+	<stop
+   offset="1"
+   style="stop-color:#71A646"
+   id="stop5" />
+</linearGradient>
+
+
+
+<linearGradient
+   id="SVGID_3_"
+   gradientUnits="userSpaceOnUse"
+   x1="9"
+   y1="27"
+   x2="9"
+   y2="10"
+   gradientTransform="matrix(1 0 0 -1 0 58)">
+	<stop
+   offset="0"
+   style="stop-color:#2E86FE"
+   id="stop7" />
+	<stop
+   offset="1"
+   style="stop-color:#005CB6"
+   id="stop8" />
+</linearGradient>
+
+
+
+<linearGradient
+   id="SVGID_4_"
+   gradientUnits="userSpaceOnUse"
+   x1="33"
+   y1="27"
+   x2="33"
+   y2="10"
+   gradientTransform="matrix(1 0 0 -1 0 58)">
+	<stop
+   offset="0"
+   style="stop-color:#8BCC56"
+   id="stop10" />
+	<stop
+   offset="1"
+   style="stop-color:#71A646"
+   id="stop11" />
+</linearGradient>
+
+
+
+</svg>

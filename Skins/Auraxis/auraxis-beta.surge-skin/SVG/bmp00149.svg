@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 32 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,0,-12)">
+        <path d="M21.317,23.523L3.192,23.523C1.685,23.523 0.5,22.179 0.5,20.468L0.5,15.579C0.5,13.868 1.685,12.523 3.192,12.523L17.5,12.523L17.5,12.5L28.808,12.5C30.315,12.5 31.5,13.844 31.5,15.556L31.5,20.444C31.5,22.156 30.315,23.5 28.808,23.5L21.317,23.5L21.317,23.523Z" style="fill:rgb(36,36,36);fill-opacity:0.5;"/>
+    </g>
+    <g>
+        <g>
+            <clipPath id="_clip1">
+                <path d="M14,2L4,2C2.895,2 2,2.895 2,4L2,8C2,9.105 2.895,10 4,10L14,10L14,2Z"/>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <path d="M8,3L4,6L8,9L8,7L12,7L12,5L8,5L8,3Z" style="fill:rgb(180,180,180);"/>
+            </g>
+        </g>
+    </g>
+    <g>
+        <g>
+            <clipPath id="_clip2">
+                <path d="M18,10L28,10C29.105,10 30,9.105 30,8L30,4C30,2.895 29.105,2 28,2L18,2L18,10Z"/>
+            </clipPath>
+            <g clip-path="url(#_clip2)">
+                <path d="M24,9L28,6L24,3L24,5L20,5L20,7L24,7L24,9Z" style="fill:rgb(180,180,180);"/>
+            </g>
+        </g>
+    </g>
+    <path d="M21.317,23.523L3.192,23.523C1.685,23.523 0.5,22.179 0.5,20.468L0.5,15.579C0.5,13.868 1.685,12.523 3.192,12.523L17.5,12.523L17.5,12.5L28.808,12.5C30.315,12.5 31.5,13.844 31.5,15.556L31.5,20.444C31.5,22.156 30.315,23.5 28.808,23.5L21.317,23.5L21.317,23.523Z" style="fill:rgb(36,36,36);fill-opacity:0.5;"/>
+    <g>
+        <g>
+            <clipPath id="_clip3">
+                <path d="M14,14L4,14C2.895,14 2,14.895 2,16L2,20C2,21.105 2.895,22 4,22L14,22L14,14Z"/>
+            </clipPath>
+            <g clip-path="url(#_clip3)">
+                <path d="M8,15L4,18L8,21L8,19L12,19L12,17L8,17L8,15Z" style="fill:rgb(180,180,180);"/>
+            </g>
+        </g>
+    </g>
+    <g>
+        <g>
+            <clipPath id="_clip4">
+                <path d="M18,22L28,22C29.105,22 30,21.105 30,20L30,16C30,14.895 29.105,14 28,14L18,14L18,22Z"/>
+            </clipPath>
+            <g clip-path="url(#_clip4)">
+                <path d="M24,21L28,18L24,15L24,17L20,17L20,19L24,19L24,21Z" style="fill:rgb(180,180,180);"/>
+            </g>
+        </g>
+    </g>
+</svg>

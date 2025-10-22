@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="100%"
+   height="100%"
+   viewBox="0 0 43 14"
+   version="1.1"
+   xml:space="preserve"
+   style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;"
+   id="svg1"
+   sodipodi:docname="hover00174.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs1" /><sodipodi:namedview
+   id="namedview1"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="56.116279"
+   inkscape:cx="21.5"
+   inkscape:cy="6.9944053"
+   inkscape:window-width="2560"
+   inkscape:window-height="1351"
+   inkscape:window-x="-9"
+   inkscape:window-y="-9"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg1" />
+    <path
+   d="M1.5,3.5C1.5,2.395 2.395,1.5 3.5,1.5L39.5,1.5C40.605,1.5 41.5,2.395 41.5,3.5L41.5,10.5C41.5,11.605 40.605,12.5 39.5,12.5L3.5,12.5C2.395,12.5 1.5,11.605 1.5,10.5L1.5,3.5Z"
+   style="fill:#399dff;fill-opacity:1;fill-rule:nonzero"
+   id="path1" />
+</svg>
